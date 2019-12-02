@@ -1,0 +1,355 @@
+/*********************
+TOOLBOX STYLES
+*********************/
+
+.mobileOnly {
+	display: none !important;
+}
+
+.masonry {
+	.brick {
+		flex-basis: 29.3%;
+	}
+}
+
+/*********************
+MENU STYLES
+*********************/
+
+.header-nav {
+	a {
+		svg {
+			width: 1.5em;
+			height: 1.5em;
+		}
+
+		span {
+			padding: 0 10px;
+		}
+	}
+
+	#explore-button, #donate-button {
+		span {
+			display: none !important;
+		}
+	}
+
+	#explore-button.active span.close {
+		display: none !important;
+	}
+}
+
+.site-sections {
+	display: flex;
+
+	.logo {
+		display: flex;
+		padding: 0 2vw;
+		filter: none !important;
+
+		svg {
+			width: calc(1em + 2vw);
+			height: calc(1em + 2vw);
+		}
+	}
+
+	.section-link {
+		&:hover, &:focus {
+			animation-name: wiggle;
+			animation-duration: 300ms;
+			animation-iteration-count: 1;
+			animation-timing-function: ease-in-out;
+			filter: brightness(1.25);
+			outline-color: currentColor;
+		}
+	}
+}
+
+#explore-menu {
+	padding-top: calc(1em + 6vw);
+	.site-sections {
+		display: none;
+	}
+
+	&.visible {
+
+		.bg-waves {
+
+			.one {
+				transform: translate(0, -12vh);
+			}
+			.two {
+				transform: translate(0, -19vh);
+			}
+			.three {
+				transform: translate(0, -26vh);
+			}
+
+		}
+	}
+}
+
+.explore-blobs {
+	display: flex;
+	justify-content: center;
+	margin: 2vw auto;
+	width: 100%;
+}
+
+.menu-blob {
+	position: relative;
+	background: black;
+	border-radius: 20px;
+	padding: 20px;
+	max-width: 320px;
+	margin: 2vw;
+
+	&:before {
+		display: block;
+		width: 100%;
+		position: absolute;
+		top: -.5em;
+		font-size: .8em;
+		left: 0;
+		line-height: 1;
+		text-align: center;
+		color: rgb(141, 83, 106);
+		font-family: $theme-font;
+	}
+
+	.blob-link {
+		display: block;
+		position: relative;
+		padding: .15em;
+		margin-top: .25em;
+		color: rgba(255, 255, 255, 0.8);
+
+		&:hover, &:focus {
+			color: white;
+		}
+	}
+
+	.noti {
+		right: -.25em;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+}
+
+#explore-the-site {
+	&:before {
+		content: 'Wha da what?';
+	}
+}
+
+#explore-the-content {
+	&:before {
+		content: 'Find Resources';
+	}
+}
+
+#browse-by-tag {
+	flex-grow: 1;
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 640px;
+
+	.blob-link {
+		margin-right: .5em;
+	}
+
+	&:before {
+		content: 'Browse by Tag';
+	}
+}
+
+/* Single Styles */
+
+.hero {
+	.primary-tax, #share-count {
+		font-size: .8em;
+	}
+}
+
+.single {
+
+	.article-wrap {
+		border-radius: 20px;
+		margin: 0 4vw;
+	}
+
+	.featured-image {
+		border-radius: 20px 20px 0 0;
+	}
+
+	.entry-content {
+		border-radiufs: 0 0 20px 20px;
+	}
+}
+
+.more-articles {
+	display: flex;
+	max-width: 100%;
+	overflow-x:scroll;
+	align-items: stretch;
+	padding: 5vw 0;
+}
+
+.sidenote {
+	display: block;
+	position: absolute;
+	top: -2em;
+	left: calc(4vw + 20px);
+	font-size: 1rem;
+	color: var(--grey-700);
+	font-weight: bold;
+}
+
+.mailing-list {
+	min-width: 600px;
+	margin: 0;
+	border-radius: 0px 20px 20px 0;
+}
+
+.flickable-posts {
+	overflow: visible;
+	margin: 0 4vw;
+	padding: 0;
+}
+
+.flickable-post {
+	min-width: 300px;
+}
+
+.flickable-link:hover:after, .flickable-link:focus:after  {
+	background: rgba(10,6,8,.75);
+}
+
+#add-your-voice {
+	margin-right: -140px;
+	justify-content: space-between;
+	
+	h4 {
+		display: block;
+    color: var(--grey-500);
+    line-height: 1;
+    margin: 0 -2vw 0 0;
+    position: relative;
+    padding-left: 1em;
+    overflow: visible;
+    text-align: right;
+    font-size: calc(1em + 1vw);
+
+    svg {
+      display: block;
+      position: absolute;
+      height: .6em;
+      top: 50%;
+      left: -4vw;
+      transform: translateY(-50%);
+
+      width: auto;
+    }
+
+    span {
+      background: white;
+      display: inline-block;
+      text-align: center;
+      padding: 0 0 0 .5em;
+      z-index: 5;
+      position: relative;
+    }
+  }
+}
+
+#my-books {
+	padding: 0 2vw 0 0;
+	flex-direction: column;
+	justify-content: space-evenly;
+	height: 100%;
+
+	a {
+		flex-basis: auto;
+	}
+	
+	span {
+		display: inline;
+	}
+}
+
+/* Section Archive Styles */
+
+.section-sidebar {
+	grid-column: right-col;
+}
+
+.section-main {
+	.cards {
+		grid-row: 1;
+		padding-top: 0;
+	}
+}
+
+/*********************
+BRANDING STYLES
+*********************/
+
+.ipm-gradient-bg {
+	background-image: url(/img/ipm-gradient-bg.svg);
+}
+
+.sidebar-cta {
+	margin: 0 4vw 0 0;
+	display: block;
+	
+	p, a {
+		padding: 15px;
+		display: block;
+	}
+
+	a {
+		margin: 0 8px 8px;
+	}
+}
+
+
+/*********************
+FOOTER STYLES
+*********************/
+
+.footer {
+	margin-top: 4vw;
+	.social-follow {
+		&:before {
+			opacity: 1;
+		}
+	}
+}
+
+#legal {
+	display: flex;
+	justify-content: space-between;
+	padding: 1em .75em;
+	position: relative;
+
+	.logo-wrap {
+		order: 2;
+	}
+
+	.uncopyright-notice {
+		order: 3;
+	}
+
+	.logo {
+		position: absolute;
+		margin: 0;
+		bottom: 1em;
+		left: 50%;
+		transform: translateX(-50%);
+
+		svg {
+			width: 6vw;
+			height: 6vw;
+		}
+	}
+}

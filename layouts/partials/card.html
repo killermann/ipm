@@ -1,0 +1,30 @@
+<article class="card {{ .Section }}">
+	<div class="card-text">
+		<h3 class="card-title">
+			{{- .Title -}}
+		</h3 class="card-title">
+
+		<div class="card-meta">
+			{{ if eq .Section "books" }}
+			<p style="color: var(--grey-900); font-size: 1.2em; margin: 0 auto 3vw">
+				{{ .Params.excerpt }}
+			</p>
+			{{ end }}
+			{{ if isset .Params "categories" }}
+				<span class="theme-font">about</span>
+				{{ range $i, $e := .Params.categories }}
+					{{ if $i }} <span class="theme-font">&amp;</span>
+					{{ end }}
+					{{ $e | upper }}
+				{{ end }}
+			{{ end }}
+		</div>
+		
+	</div>
+
+	<div class="card-image lazy-load" {{ with .Params.featured_image }}data-background-image="{{.}}"{{ end }}>
+		&nbsp;
+	</div>
+
+	<a class="abs-fill" href="{{ .Permalink }}"><span class="hidden">{{ .Title }}</span></a>
+</article>

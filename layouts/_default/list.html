@@ -1,0 +1,46 @@
+{{ define "main" }}
+<header class="page-header">
+	<h1 class="page-title tc">
+		{{ .Title | default .Site.Title }}
+	</h1>
+	{{- if .Params.subtitle }}
+	<h2 class="tc text-c-700 em1 mt0 page-subtitle">{{ .Params.subtitle | lower }} 
+		{{- if ne .Paginator.PageNumber 1 }} (Page {{ .Paginator.PageNumber}}){{ end -}}
+	</h2>
+	{{ end -}}
+</header>
+<!-- <nav role="navigation" class="bg-100 section-nav-wrap">
+	<ul class="section-nav text-c-900">
+	{{ range $name, $items := $.Site.Taxonomies.tags.ByCount }}
+		{{ if gt .Count 3 }}
+		<li class="theme-font"><span>Themes:</span></li>
+		<li>
+			<a href="/tags/{{ .Name }}"> {{ .Name | humanize }} <small>({{ .Count }})</small></a>
+		</li>
+		{{ end }}
+	{{ end }}
+	</ul>
+</nav> -->
+<section class="section-main grid">
+	<div class="cards">
+		{{- if eq .Paginator.PageNumber 1 }}
+		<div class="section-intro">
+			{{- .Content -}}
+		</div>
+		{{ end -}}
+		{{ range .Paginator.Pages }}
+			{{- partial "card.html" . -}}
+		{{ end }}
+		{{- partial "pagination.html" . -}}
+	</div>
+	<aside class="section-sidebar">
+		<div class="sidebar-cta accent-colors">
+			<p>
+				Never miss a thing: get an email when I publish {{ with .Params.singular_title }}a new {{ . | lower }}{{ else }}new stuff{{end}}.
+			</p>
+			<a href="{{ .Site.Params.email_list_url }}" target="_blank" rel="noopener noreferrer" title="Sign up for mailing list">🙋‍♀️Sign me up!</a>
+		</div>
+	</aside>
+</section><!--/section-main-->
+<svg class="bg-waves text-c-100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080"><path class="three" d="M0,1081c727-90,592-250,1167-263s753-159,753-159V0H0Z"/><path class="two" d="M.5,910.7c727-75.8,593.7-266.8,1167-221.5,586,46.3,753-89.1,753-89.1V.5H.5Z" /><path class="one" d="M.5,713.5c727-20,596.9-212.1,1167-136.4,575,76.4,753-33.2,753-33.2V.5H.5Z"></svg>
+{{ end }}

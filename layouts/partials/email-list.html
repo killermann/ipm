@@ -1,0 +1,19 @@
+{{ if .Site.Params.email_list_url }}
+<div class="mailing-list">
+    <span class="sidenote">Don't miss the new stuff...</span>
+    <h2>
+        Do you want new IPM {{ with .CurrentSection.Params.Title }}{{ . | lower }}{{ else }}resources{{ end }} directly in your inbox?
+    </h2>
+    <form action="https://itspronouncedmetrosexual.us3.list-manage.com/subscribe/post?u=7f90a3f9a7e245fa145b3ba44&amp;id=ffe51c3832" method="post" name="mc-embedded-subscribe-form" class="mailing-list-form" target="_blank" novalidate>
+        <div>
+            <label for="mce-EMAIL">It's easy. Just do this 👇</label>
+            <input type="email" value="" placeholder="my@awesome.email" name="EMAIL" id="mce-EMAIL">
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7f90a3f9a7e245fa145b3ba44_ffe51c3832" tabindex="-1" value=""></div>
+        </div>
+        <div>
+            <input type="submit" value="👍👍" name="subscribe" id="mc-embedded-subscribe">
+            <label for="mc-embedded-subscribe">Then this ☝️</label>
+        </div>
+    </form>
+</div>
+{{ end }}

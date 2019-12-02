@@ -1,0 +1,302 @@
+/*********************
+TOOLS
+*********************/
+
+// BORDER-BOX ALL THE THINGS! (https://paulirish.com/2012/box-sizing-border-box-ftw/)
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing:    border-box;
+	box-sizing:         border-box;
+}
+
+// https://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/
+.image-replacement {
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+@keyframes wiggle {
+  0% {transform: rotate(-3deg);}
+  34% {transform: rotate(7deg);}
+  75% {transform: rotate(-5deg);}
+  100% {transform: rotate(0);}
+}
+
+/*********************
+COLORS
+Need help w/ choosing your colors? Try this site out:
+https://0to255.com/
+*********************/
+
+
+$black:             #000;
+$white:             #fff;
+
+$bones-pink:        #f01d4f;
+$bones-blue:        #1990db;
+
+$blue:				#36a3f0;
+$green:				#73c535;
+$yellow:			#dabb00;
+$orange:			#de7c2b;
+$pink:				#eb366e;
+$purple:			#af6ee2;
+$grey: 				#cdcdcd;
+
+$green-100:         #E2FFCC;
+$green-300:         #A4ED6D;
+$green-500:         $green;
+$green-700:         #378000;
+$green-900:         #2B530C;
+
+
+$link-color:        #000;
+$accent-color:		#31e1ec;
+$link-hover:        $pink;
+$text-color:		#000;
+
+/*
+Here's a great tutorial on how to
+use color variables properly:
+https://sachagreif.com/sass-color-variables/
+*/
+
+.gradient-ipm {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#eb366e+0,31e1ec+100 */
+    background: $pink; /* Old browsers */
+    background: -moz-linear-gradient(-15deg, $pink 0%, $accent-color 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-15deg, $pink 0%,$accent-color 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(165deg, #eb366e 0%,$accent-color 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eb366e', endColorstr='#31e1ec',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.gradient-fullrainbow {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#eb366e+0,de7c2b+20,dabb00+40,73c535+60,36a3f0+79,af6ee2+99 */
+    background: $pink; /* Old browsers */
+    background: -moz-linear-gradient(-15deg, $pink 0%, $orange 20%, $yellow 40%, $green 60%, $blue 80%, $purple 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-15deg, $pink 0%,$orange 20%,$yellow 40%,$green 60%,$blue 80%,$purple 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(165deg, $pink 0%,$orange 20%,$yellow 40%,$green 60%,$blue 80%,$purple 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eb366e', endColorstr='#af6ee2',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+
+.gradient-warm {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#eb366e+0,de7c2b+20,dabb00+40,73c535+60,36a3f0+79,af6ee2+99 */
+    background: $pink; /* Old browsers */
+    background: -moz-linear-gradient(-15deg, $pink 0%, $orange 50%, $yellow 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-15deg, $pink 0%, $orange 50%, $yellow 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(165deg, $pink 0%, $orange 50%, $yellow 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#af6ee2', endColorstr='#73c535',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.gradient-cool {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#eb366e+0,de7c2b+20,dabb00+40,73c535+60,36a3f0+79,af6ee2+99 */
+    background: $blue; /* Old browsers */
+    background: -moz-linear-gradient(-15deg, $purple 0%, $blue 50%, $green 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-15deg, $purple 0%, $blue 50%, $green 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(165deg, $purple 0%, $blue 50%, $green 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eb366e', endColorstr='#dabb00',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.gradient-grey {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#efefef+0,dbdbdb+100 */
+    background: rgb(250,250,250); /* Old browsers */
+    background: -moz-linear-gradient(-15deg, rgba(250,250,250,1) 0%, rgba(219,219,219,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-15deg, rgba(250,250,250,1) 0%,rgba(219,219,219,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(165deg, rgba(250,250,250,1) 0%,rgba(219,219,219,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#efefef', endColorstr='#dbdbdb',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+/*********************
+TYPOGRAPHY
+*********************/
+
+@font-face {
+    font-family: 'JustTheWayYouAreRegular';
+    src: url('../fonts/justthewayyouare-webfont.eot');
+    src: url('../fonts/justthewayyouare-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/justthewayyouare-webfont.woff') format('woff'),
+         url('../fonts/justthewayyouare-webfont.ttf') format('truetype'),
+         url('../fonts/justthewayyouare-webfont.svg#JustTheWayYouAreRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+$sans-serif:        -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+$serif:             "Bodoni", "Times New Roman", Times New Roman, "Times", Times, serif;
+$theme-font: 		'JustTheWayYouAreRegular', $sans-serif;
+$alt-font: 		    "Futura Regular", "Futura", Franklin Gothic Medium, "Franklin Gothic Medium", $sans-serif;
+
+.theme-font { font-family: $theme-font; }
+
+/*
+use the best ampersand
+https://simplebits.com/notebook/2008/08/14/ampersands-2/
+*/
+span.amp {
+  font-family: Baskerville,'Goudy Old Style',Palatino,'Book Antiqua',serif !important;
+  font-style: italic;
+}
+
+  
+/*********************
+ANIMATIONS
+*********************/
+
+.ease-opacity-in {
+    animation-delay: .2s;
+    animation: ease-opacity 3s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+@keyframes ease-opacity {
+	0% { opacity: 0; transform: translateY(5px); }   
+	100% { opacity: 1; transform: translateY(0); }
+}
+
+@mixin keyframes($anim-name) {
+    @keyframes #{$anim-name} {
+        @content;
+    }
+    @-webkit-keyframes #{$anim-name} {
+        @content;
+    }
+  }
+  
+  @mixin animation($values...) {
+    // name, duration, timing-function, delay, direction, iteration-count, fill-mode, play-state
+    -webkit-animation: $values;
+    -moz-animation: $values;
+    -o-animation: $values;
+    animation: $values;
+  }
+  
+  @mixin animation-play-state($value) {
+    -webkit-animation-play-state: $value;
+    -moz-animation-play-state: $value;
+    -o-animation-play-state: $value;
+    animation-play-state: $value;
+  }
+  
+/*********************
+ROUNDED CORNERS
+*********************/
+
+@mixin rounded($radius) {
+    border-radius: $radius;
+    -moz-border-radius: $radius;
+    -webkit-border-radius: $radius;
+}
+
+.rounded {@include rounded(20px);}
+
+/*********************
+BOX SHADOW
+*********************/
+
+@mixin shadow() {
+    box-shadow: 0px .2em .4em rgba(10,0,0,.2);
+}
+
+.shadow {@include shadow;}
+
+
+@mixin shadow-high() {
+	box-shadow: 0px .7em 1.4em rgba(10,0,0,.15);
+}
+
+.shadow-high {@include shadow-high;}
+
+/*********************
+CSS3 GRADIENTS
+Be careful with these since they can
+really slow down your CSS. Don't overdo it.
+*********************/
+
+/* @include css-gradient(#dfdfdf,#f8f8f8); */
+@mixin css-gradient($from: #dfdfdf, $to: #f8f8f8) {
+	background-color: $to;
+	background-image: -webkit-gradient(linear, left top, left bottom, from($from), to($to));
+	background-image: -webkit-linear-gradient(top, $from, $to);
+	background-image: -moz-linear-gradient(top, $from, $to);
+	background-image: -o-linear-gradient(top, $from, $to);
+	background-image: linear-gradient(to bottom, $from, $to);
+}
+
+/*********************
+BUTTONS
+*********************/
+
+.button, .button:visited {
+	border: none;
+    line-height: 1;
+    background-color: var(--teal-500);
+    color: var(--teal-800);
+    font-family: $alt-font;
+    text-decoration: none;
+    display: inline-block;
+    font-size: .8em;
+    padding: 1.0625em 1.875em;
+    margin-bottom: 1em;
+    border-radius: .6em;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    cursor: pointer;
+    transition: box-shadow .2s ease-out;
+
+    & + .button {
+        margin-left: 1em;
+    }
+
+    &:hover, &:focus, &:visited:hover, &:visited:focus {
+        color: var(--teal-900);
+        box-shadow: 0px 0px 0px .2em var(--teal-300);
+        background: var(--teal-500);
+        outline-color: var(--teal-500);
+    }
+
+    &.button-wide {width:100%;}
+
+    &.button-large {font-size:1.3em; padding:.8em 1em;}
+
+}
+
+.button.button-alt {
+    background: none;
+    box-shadow: inset 0px 0px 0px .15em var(--teal-500);
+    transition: all .2s ease-out;
+
+    &:hover {
+        background: var(--teal-500);
+    }
+}
+
+.button.button-white {
+    background-color: white;
+    box-shadow: 0px .15em .35em 0 rgba(0,0,20,.18);
+    color: rgba(0,0,0,.8);
+
+    &:hover, &:focus, &:visited:hover, &:visited:focus {
+        color: black;
+        background: var(--teal-500);
+        outline-color: var(--teal-500);
+        box-shadow: 0px 0px 0px .2em var(--teal-300);
+    }
+}
+
+.button-stack {
+    .button {
+        margin: 1em auto;
+        display: block;
+
+        @media only screen and (min-width: 500px) {
+            margin: .5em;
+            display: inline-block;
+        }
+    }
+}
+
+
+
+

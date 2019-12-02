@@ -1,0 +1,18 @@
+@import "partials/normalize";
+@import "partials/mixins";
+@import "partials/grid";
+@import "partials/base";
+@import "partials/posts";
+@import "partials/cards";
+
+@media only screen and (min-width: 768px) {
+	@import "partials/768up";
+}
+
+@media only screen and (min-width: 1030px) {
+	@import "partials/1030up";
+}
+
+@media only screen and (min-width: 1400px) {
+	@import "partials/1400up";
+}

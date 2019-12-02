@@ -1,0 +1,17 @@
+<!--
+//
+//  OUTPUT POSTS
+//––––––––––––––––––––––––––––––––––––––––––––––––––
+-->
+{{ $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
+
+{{ range $paginator.Pages }}
+  <div class="post">
+    <h2 class="post__title">
+      <a href="{{ .URL }}">{{ .Title }}</a>
+    </h2>
+    <div class="post__summary">
+      {{ .Summary }}
+    </div>
+  </div>
+{{ end }}

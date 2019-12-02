@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ $data := .Data }}
+<header class="page-header">
+	<h1 class="page-title tc">
+		Browse by {{ .Title | default .Site.Title }}
+	</h1>
+	{{- with .Params.subtitle }}<h2 class="tc text-c-700 em1 mt0 page-subtitle">{{ . | lower }}</h2>{{ end -}}
+	<div class="section-intro">
+		{{- .Content -}}
+	</div>
+</header>
+<section class="masonry ease-opacity-in">
+	{{ range $key, $value := .Data.Terms }}
+	<div class="brick tax">
+		<h2>
+			<a title="All {{ $key | humanize }} posts" href="{{ "/" | relLangURL }}{{ $.Data.Plural | urlize }}/{{ $key | urlize }}">
+				{{ $key | humanize | upper }}
+			</a>
+		</h2>
+		<ul class="first-three">
+			{{ range first 3 ($value.Pages) }}
+			<li>
+				<a href="{{ .RelPermalink }}" title="{{ .Title }}">
+					{{- .Title -}}
+				</a>
+			</li>
+			{{ end }}
+		</ul>
+		<a title="All {{ $key | humanize }} posts" href="{{ "/" | relLangURL }}{{ $.Data.Plural | urlize }}/{{ $key | urlize }}">
+			View all &rarr;
+		</a>
+	</div>
+	{{ end }}
+</section><!--/section-main-->
+{{ end }}

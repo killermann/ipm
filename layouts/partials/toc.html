@@ -1,0 +1,6 @@
+{{- if .Params.toc -}}
+<div>
+	<p>What's in this {{ humanize .Type }}</p>
+	{{ .TableOfContents }}
+</div>
+{{- end -}}

@@ -1,0 +1,165 @@
+{{ define "header" }}
+{{ partial "page-header.html" . }}
+{{ end }}
+{{ define "main" }}
+{{ $section := .Site.GetPage "section" .Section }}
+<article class="single article">
+
+	<header class="hero" {{ with .Params.featured_image }}style="background-image:url('{{.}}')"{{ end }}>
+		<div class="hero-inner">
+
+			<div class="primary-tax">
+				{{ if or ( eq .Section  "books") ( eq .Section "videos" ) ( eq .Section "courses" ) }}<span>A&nbsp;</span>{{ else }}<span>An&nbsp;</span>{{ end }}
+				{{- if .CurrentSection.Params.singular_title }}
+					<a href="/{{ .CurrentSection.Params.Title | urlize }}" title="Read more {{ .CurrentSection.Params.Title }}">{{.CurrentSection.Params.singular_title | humanize }}&nbsp;</a>{{ end }}
+				{{ if isset .Params "categories"}}
+				<span>about&nbsp;</span>
+					{{ range $i, $e := .Params.categories }}
+						{{ if $i }} <span>&amp;&nbsp;</span>
+						{{ end }}
+						<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ $e }}&nbsp;</a>
+					{{ end }}
+				{{ end }}
+			</div>
+			<h1 class="single-title">
+				{{- .Title -}}
+			</h1>
+			{{- if .Params.accolades }}
+				{{ partial "accolades" . }}
+			{{ end -}}
+		</div>
+	</header>
+	<section class="article-meta bigpad">
+		{{ with .Params.excerpt }}
+		<p class="excerpt">{{ . }}</p>
+		{{ end }}
+		<a class="author" href="#about-the-author" title="About Sam Killermann">
+			<img class="headshot lazy-load ease-opacity-in" alt="Sam Killermann Doodle Self Portrait" data-src="/img/sk-doodle-head.svg"/>
+			<span class="author-name theme-font">by Sam Killermann</span>
+		</a>
+		<p class="patron-message">
+			Sam is able to create {{with .CurrentSection.Params.title }}{{ . | lower }}{{ else }}resources{{ end }} like this thanks to <a target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/killermann" title="Sam Killermann Patreon">funding from {{ with .Site.Params.author_patrons_count }}{{ . }}{{ end }} patrons</a>. And we can keep this site thriving thanks to <a target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/itspronouncedmetrosexual" title="IPM Patreon">IPM’s {{ with .Site.Params.site_patrons_count }}{{ . }}{{ end }} patrons</a>.
+		</p>
+		<a href="/patronize" title="Become a Patron" class="alt-font highlight">Become a Patron.</a> <a href="/patronize/#what-is-patronage-all-about" title="Learn about becoming a Patron" class="alt-font highlight">Learn More.</a>
+	</section>
+
+	<div class="wrap">
+		<div class="article-wrap shadow-high">
+			{{- if .Params.featured_video }}
+			<div class="youtube featured-video">
+				<figure>
+						<iframe class="youtube-player lazy-load" type="text/html" width="640" height="385" data-src="https://www.youtube.com/embed/{{ .Params.featured_video }}" allowfullscreen frameborder="0">
+						</iframe>
+						<noscript>
+							🔌 Enable Javascript to Watch Video
+						</noscript>
+				</figure>
+			</div>
+			{{ else if .Params.featured_image }}
+			<img class="featured-image" src="{{ .Params.featured_image }}" alt="{{ .Params.featured_image_alt }}" />
+			{{ end -}}
+
+			<nav class="article-nav">
+				<span class="article-title">
+					{{ .Title }}
+				</span>
+
+				{{- if .Params.buy }}
+				<a href="{{ .Params.buy }}" class="mobileHide article-nav-button" title="Buy" target="_blank" rel="noopener noreferrer" onClick="ga('send', 'event', 'Free Resources', '{{ .Title }}', 'Buy');">
+					<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><g class="fa-group"><path class="fa-secondary" fill="currentColor" d="M552 64H159l53 256h293a24 24 0 0023-19l47-208a24 24 0 00-18-28 24 24 0 00-5-1z" opacity=".4"/><path class="fa-primary" fill="currentColor" d="M218 352h269a24 24 0 0123 29l-6 25a56 56 0 11-63 10H231a56 56 0 11-67-9L94 64H24A24 24 0 010 40V24A24 24 0 0124 0h103a24 24 0 0123 19z"/></g></svg>
+					<span>Buy</span>
+				</a>
+				{{ end -}}
+				{{- if .Params.download }}
+				<a href="{{ .Params.download }}" class="mobileHide article-nav-button" title="Download .PDF" target="_blank" rel="noopener noreferrer" onClick="ga('send', 'event', 'Free Resources', '{{ .Title }}', '.PDF');">
+					<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><g class="fa-group"><path class="fa-secondary" fill="currentColor" d="M384 128H272a16 16 0 01-16-16V0H24A24 24 0 000 24v464a24 24 0 0024 24h336a24 24 0 0024-24V128zm-84 219l-96 96a17 17 0 01-24 0l-96-96c-11-10-3-27 11-27h65v-80a16 16 0 0116-16h32a16 16 0 0116 16v80h65c14 0 22 17 11 27z" opacity=".4"/><path class="fa-primary" fill="currentColor" d="M377 105L279 7a24 24 0 00-17-7h-6v112a16 16 0 0016 16h112v-6a24 24 0 00-7-17zm-88 215h-65v-80a16 16 0 00-16-16h-32a16 16 0 00-16 16v80H95c-14 0-22 17-11 27l96 96a17 17 0 0024 0l96-96c11-10 3-27-11-27z"/></g></svg>
+					<span>.PDF</span>
+				</a>
+				{{ end -}}
+
+				<a class="reply article-nav-button" title="Reply to Sam" href="{{ with .Params.reply }}{{ . }}{{ else }}{{ .Site.BaseURL }}reply#source={{ .Title }}{{ end }}" target="_blank" rel="noopener noreferrer" onClick="ga('send', 'event', 'Free Resources', '{{ .Title }}', 'Reply');">
+					<svg aria-hidden="true" focusable="false" data-prefix="fad" data-icon="comments" class="svg-inline--fa fa-comments fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><g class="fa-group"><path class="fa-secondary" fill="currentColor" d="M208 352c-41 0-79.1-9.3-111.3-25-21.8 12.7-52.1 25-88.7 25a7.83 7.83 0 0 1-7.3-4.8 8 8 0 0 1 1.5-8.7c.3-.3 22.4-24.3 35.8-54.5-23.9-26.1-38-57.7-38-92C0 103.6 93.1 32 208 32s208 71.6 208 160-93.1 160-208 160z" opacity="1"></path><path class="fa-primary" fill="currentColor" opacity="0.4" d="M576 320c0 34.3-14.1 66-38 92 13.4 30.3 35.5 54.2 35.8 54.5a8 8 0 0 1 1.5 8.7 7.88 7.88 0 0 1-7.3 4.8c-36.6 0-66.9-12.3-88.7-25-32.2 15.8-70.3 25-111.3 25-86.2 0-160.2-40.4-191.7-97.9A299.82 299.82 0 0 0 208 384c132.3 0 240-86.1 240-192a148.61 148.61 0 0 0-1.3-20.1C522.5 195.8 576 253.1 576 320z"></path></g></svg>
+					<span>Reply</span>
+				</a>
+
+				<a id="share" title="Share on Social Media" class="article-nav-button" onClick="ga('send', 'event', 'Free Resources', '{{ .Title }}', 'Share');">
+					<svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><g class="fa-group"><path class="fa-secondary" fill="currentColor" d="M288 136.08v136c-155.08 2.24-221.93 40.73-176.59 185.75 5 16.09-14.42 28.56-28.08 18.63C39.58 444.64 0 383.78 0 322.34c0-152.23 127.37-184.42 288-186.26z" opacity="0.5"></path><path class="fa-primary" fill="currentColor" d="M506.16 223.7a24 24 0 0 1-2.47 2.47l-176 152C312.3 391.46 288 380.71 288 360V56c0-20.66 24.28-31.46 39.69-18.16l176 152a24 24 0 0 1 2.47 33.86z"></path></g></svg>
+					<span>Share</span>
+				</a>
+
+				{{ partial "share-buttons.html" . }}
+	
+			</nav>
+			<div class="grid">
+				<aside>
+					{{- partial "toc.html" . -}}
+				</aside>
+				<div class="entry-content g-center">
+					{{- range $index, $element := split .Content "</p>" -}}
+					{{ $element | safeHTML -}}</p>
+					{{- if eq $index 4 -}}
+					<!-- insert a partial after the fourth paragraph -->
+					{{- end -}}
+					{{ end -}}
+					<section id="add-your-voice">
+						{{- if .Params.buy }}
+						<a href="{{ .Params.buy }}" class="buy" title="Buy" target="_blank" rel="noopener noreferrer" onClick="ga('send', 'event', 'Free Resources', '{{ .Title }}', 'Buy');">
+							<div class="icon">
+								<svg aria-hidden="true" width="48" height="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><g class="fa-group"><path class="fa-secondary" fill="currentColor" d="M552 64H159l53 256h293a24 24 0 0023-19l47-208a24 24 0 00-18-28 24 24 0 00-5-1z" opacity=".5"/><path class="fa-primary" fill="currentColor" d="M218 352h269a24 24 0 0123 29l-6 25a56 56 0 11-63 10H231a56 56 0 11-67-9L94 64H24A24 24 0 010 40V24A24 24 0 0124 0h103a24 24 0 0123 19z"/></g></svg>
+							</div>
+							<strong>Buy</strong>
+						</a>
+						{{ end -}}
+						{{- if .Params.download }}
+						<a href="{{ .Params.download }}" class="download" title="Download .PDF" target="_blank" rel="noopener noreferrer" onClick="ga('send', 'event', 'Free Resources', '{{ .Title }}', '.PDF');">
+							<div class="icon">
+								<svg aria-hidden="true" focusable="false" width="48" height="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><g class="fa-group"><path class="fa-secondary" fill="currentColor" d="M384 128H272a16 16 0 01-16-16V0H24A24 24 0 000 24v464a24 24 0 0024 24h336a24 24 0 0024-24V128zm-84 219l-96 96a17 17 0 01-24 0l-96-96c-11-10-3-27 11-27h65v-80a16 16 0 0116-16h32a16 16 0 0116 16v80h65c14 0 22 17 11 27z" opacity=".4"/><path class="fa-primary" fill="currentColor" d="M377 105L279 7a24 24 0 00-17-7h-6v112a16 16 0 0016 16h112v-6a24 24 0 00-7-17zm-88 215h-65v-80a16 16 0 00-16-16h-32a16 16 0 00-16 16v80H95c-14 0-22 17-11 27l96 96a17 17 0 0024 0l96-96c11-10 3-27-11-27z"/></g></svg>
+							</div>
+							<strong>.PDF</strong>
+						</a>
+						{{ end -}}
+	
+						<a class="reply" title="Reply to Sam" href="{{ with .Params.reply }}{{ . }}{{ else }}{{ .Site.BaseURL }}reply#source={{ .Title }}{{ end }}" target="_blank" rel="noopener noreferrer" onClick="ga('send', 'event', 'Free Resources', '{{ .Title }}', 'Reply');">
+							<div class="icon">
+								<svg aria-hidden="true" focusable="false" width="48" height="48" data-prefix="fad" data-icon="comments" class="svg-inline--fa fa-comments fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><g class="fa-group"><path class="fa-secondary" fill="currentColor" d="M208 352c-41 0-79.1-9.3-111.3-25-21.8 12.7-52.1 25-88.7 25a7.83 7.83 0 0 1-7.3-4.8 8 8 0 0 1 1.5-8.7c.3-.3 22.4-24.3 35.8-54.5-23.9-26.1-38-57.7-38-92C0 103.6 93.1 32 208 32s208 71.6 208 160-93.1 160-208 160z" opacity="1"></path><path class="fa-primary" fill="currentColor" opacity="0.5" d="M576 320c0 34.3-14.1 66-38 92 13.4 30.3 35.5 54.2 35.8 54.5a8 8 0 0 1 1.5 8.7 7.88 7.88 0 0 1-7.3 4.8c-36.6 0-66.9-12.3-88.7-25-32.2 15.8-70.3 25-111.3 25-86.2 0-160.2-40.4-191.7-97.9A299.82 299.82 0 0 0 208 384c132.3 0 240-86.1 240-192a148.61 148.61 0 0 0-1.3-20.1C522.5 195.8 576 253.1 576 320z"></path></g></svg>
+							</div>
+							<strong>Reply</strong>
+						</a>
+		
+						<a class="share facebook" href="//www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" title="Share on Facebook" rel="noreferrer noopener" onClick="ga('send', 'event', 'Free Resources', '{{ .Title }}', 'Share');">
+							<div class="icon">
+								<svg fill="currentColor" width="48" height="48" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759H734V905H479V609h255V391q0-186 104-288T1115 0q147 0 228 12z"/></svg>
+							</div>
+							<strong>Share</strong>
+						</a>
+		
+						<a href="//twitter.com/share?url={{ .Permalink }}&amp;text={{ .Title }}%20by%20@Killermann&hashtags=IPM&amp;via={{ .Site.Social.twitter }}" target="_blank" title="Share on Twitter" rel="noreferrer noopener" class="share twitter" onClick="ga('send', 'event', 'Free Resources', '{{ .Title }}', 'Share');">
+							<div class="icon">
+								<svg fill="currentColor" width="48" height="48" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z"/></svg>
+							</div>
+							<strong>Tweet</strong>
+						</a>
+						<h4>
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181.1 19.5"><path data-name="Path 38" d="M180 8H6l1 2a92 92 0 017-8c1-1 0-3-1-2A82 82 0 000 8a1 1 0 000 2 120 120 0 0110 9c2 1 4-1 2-2A119 119 0 002 8v2a91 91 0 0112-8l-2-2a79 79 0 00-7 8 1 1 0 00-1 1 1 1 0 002 1h174a1 1 0 001-1 1 1 0 00-1-1z" fill="currentColor"/></svg>
+							<span>Add Your Voice</span>
+						</h4>
+					</section>
+				</div>
+				<aside>
+					{{- partial "books.html" . -}}
+				</aside>
+			</div>
+			
+		</div><!--/article-wrap-->
+		<footer class="article-wrap article-footer">
+		</footer>
+	</div><!--/wrap-->
+</article>
+<section class="more-articles">
+	{{- partial "email-list.html" . -}}
+	{{- partial "related.html" . -}}
+</section>
+<section id="about-the-author" class="authorSnapshot pad-4vw">
+	{{- partial "author.html" . -}}
+</section>
+{{ end }}

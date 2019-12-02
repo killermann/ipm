@@ -1,0 +1,47 @@
+/* Section Archive Styles */
+
+.section-main .cards {
+	grid-column: left-col / right-col;
+}
+
+
+#explore-menu {
+
+	&.visible {
+
+		.bg-waves {
+
+			.one {
+				transform: translate(0, -6vh);
+			}
+			.two {
+				transform: translate(0, -5vh);
+			}
+			.three {
+				transform: translate(0, -5vh);
+			}
+		}
+	}
+}
+
+.heyHeyLook {
+	margin: 4% 4% 4% -25%;
+	border-radius: 20px;
+	padding: 30px 20px 20px;
+	font-size: .9rem;
+
+	.icon {
+		left: 20px;
+	}
+}
+
+#add-your-voice {
+	padding: 4vw 0 0;
+	margin: 0 auto;
+	position: relative;
+	overflow: visible;
+
+	h4 {
+		margin-right: -14vw;
+	}
+}

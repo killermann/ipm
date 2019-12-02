@@ -1,0 +1,134 @@
+{{ define "main" }}
+<section id="ipm-is">
+	<h1 id="ipm-is-this">
+		<span class="pink-500">It's Pronounced Metrosexual<span class="ipm-elab-1 hide"> (IPM)</span></span> is your <span class="orange-500">free<span class="ipm-elab-1 hide">, uncopyrighted, totally-accessible</span> online resource</span> for <span class="yellow-500">learning<span class="ipm-elab-2 hide"> (on your own)</span></span> & <span class="green-500">teaching<span class="ipm-elab-2 hide"> (others, by sharing and facilitating)</span></span> about <span class="blue-500">gender, sexuality, & social justice</span> created by <span class="purple-500">Sam Killermann<span class="hide ipm-elab-2"> in 2011<span></span>.
+	</h1>
+	<div id="learn-more" class="hide ipm-elab-3">
+		<p>
+			<span>I'm happy to tell you more! :)</span> Maybe head to the <a href="/about/" title="About IPM">About Page</a> if you want to know more about the site? Or are you curious <a href="/about/about-sam-killermann/" title="About Sam Killermann">about me, sK?</a>. If you're just not sure where to start, I have a whole section of the site dedicated to you: <a href="/tags/start-here/" title="Start Here">Start Here</a>. (You can also join my mailing list to <span>get free resources in your inbox</span>)<br/>
+		</p>
+		<p class="tc white">👇</p>
+	</div>
+	<div class="ipm-is-cta">
+		<a title="Can you elaborate?" href="#ipm-is" class="button button-white bonus-point" id="ipm-elaborate-1">
+			Can you elaborate?
+		</a>
+		<a title="Ooo! Tell me more." href="#ipm-is" class="button button-white bonus-point hide" id="ipm-elaborate-2">
+			Ooo! Tell me more.
+		</a>
+		<a title="Take me to the about page." href="#learn-more" class="button button-white bonus-point hide" id="ipm-elaborate-3">
+			I'm still curious...
+		</a>
+		<a href="{{ .Site.Params.email_list_url }}" target="_blank" rel="noopener noreferrer" title="Join the IPM Mailing List for Free Resources" class="button button-white bonus-point">
+			Sign me up.
+		</a>
+	</div>
+</section>
+<script>
+/* Elaborate on IPM Is */
+function elaborateOne() {
+    // Get desired elements
+    var element = document.getElementsByClassName('ipm-elab-1');
+
+    // Iterate through the retrieved elements and add the necessary class names.
+    for(var i = 0; i < element.length; i++){
+        element[i].classList.toggle('hide');
+    }
+
+    document.getElementById('ipm-elaborate-1').classList.toggle('hide');
+
+    var elab2 = document.getElementById('ipm-elaborate-2');
+
+    if(elab2){
+        elab2.classList.toggle('hide');
+    }
+}
+
+var ipmElabOne = document.getElementById('ipm-elaborate-1');
+
+if (ipmElabOne){
+    ipmElabOne.addEventListener('click', elaborateOne);
+}
+
+/* Level 2 */
+
+function elaborateTwo() {
+    // Get desired elements
+    var element = document.getElementsByClassName('ipm-elab-2');
+
+    // Iterate through the retrieved elements and add the necessary class names.
+    for(var i = 0; i < element.length; i++){
+        element[i].classList.toggle('hide');
+    }
+
+    document.getElementById('ipm-elaborate-2').classList.toggle('hide');
+
+    var elab3 = document.getElementById('ipm-elaborate-3');
+
+    if(elab3){
+        elab3.classList.toggle('hide');
+    }
+}
+
+var ipmElabTwo = document.getElementById('ipm-elaborate-2');
+
+if (ipmElabTwo){
+    ipmElabTwo.addEventListener('click', elaborateTwo);
+}
+
+/* Level 3: We've Achieved Peak Curiousity! */
+
+function elaborateThree() {
+    // Get desired elements
+    var element = document.getElementsByClassName('ipm-elab-3');
+
+    // Iterate through the retrieved elements and add the necessary class names.
+    for(var i = 0; i < element.length; i++){
+        element[i].classList.toggle('hide');
+    }
+
+    document.getElementById('ipm-elaborate-3').classList.toggle('hide');
+    // document.getElementById('ipm-is-this').classList.toggle('disabled');
+}
+
+var ipmElabThree = document.getElementById('ipm-elaborate-3');
+
+if (ipmElabThree){
+    ipmElabThree.addEventListener('click', elaborateThree);
+}</script>
+<article>
+	{{ .Content }}
+</article>
+<section class="section-main grid">
+	<div class="cards">
+		<span class="aside-note">The Latest 👇</span>
+		{{ range first 6 .Pages.ByDate.Reverse}}
+			{{ partial "card.html" . }}
+		{{ end }}
+		<nav class="flex space-between">
+			<a class="button button-white" title="More Posts" href="/all/page/2">
+				All Posts &#10142;
+			</a>
+			<div class="mobileHide">
+				<a class="button button-white" href="/categories/gender" title="Browse Gender">
+					Gender &#10142;
+				</a>
+				<a class="button button-white" href="/categories/sexuality" title="Browse Sexuality">
+					Sexuality &#10142;
+				</a>
+				<a class="button button-white" href="/categories/social-justice" title="Browse Social Justice">
+					Social Justice &#10142;
+				</a>
+			</div>
+		</nav>
+	</div>
+	<aside class="section-sidebar">
+		<div class="sidebar-cta">
+			<p>
+				Want an email when I publish a new stuff? I'd love to send you one.
+			</p>
+			<a href="{{ .Site.Params.email_list_url }}" target="_blank" rel="noopener noreferrer" title="Sign up for mailing list"><span>👍Yes, please!<span></a>
+		</div>
+	</aside>
+</section>
+{{ end }}

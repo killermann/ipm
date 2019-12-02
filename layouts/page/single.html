@@ -1,0 +1,15 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+<article>
+	<header class="page-header tc">
+		<h1 class="page-title">
+			{{ .Title }}
+		</h1>
+		{{- with .Params.subtitle }}<h2 class="tc text-c-700 em1 mt0 page-subtitle">{{ . | lower }}</h2>{{ end -}}
+	</header>
+	<section class="entry-content">
+		{{ .Content }}
+	</section>
+</article>
+<svg class="bg-waves text-c-100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080"><path class="three" d="M0,1081c727-90,592-250,1167-263s753-159,753-159V0H0Z"/><path class="two" d="M.5,910.7c727-75.8,593.7-266.8,1167-221.5,586,46.3,753-89.1,753-89.1V.5H.5Z" /><path class="one" d="M.5,713.5c727-20,596.9-212.1,1167-136.4,575,76.4,753-33.2,753-33.2V.5H.5Z"></svg>
+{{ end }}

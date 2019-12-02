@@ -1,0 +1,17 @@
+{{ $newsArticles := ( len ( where ( where .Site.RegularPages "Section" "==" "news") ".Draft" false ) ) }}
+<div id="count-news" style="display:none;">{{ $newsArticles }}</div>
+
+{{ $articlesCount := ( len ( where ( where .Site.RegularPages "Section" "==" "articles") ".Draft" false ) ) }}
+<div id="count-articles" style="display:none;">{{ $articlesCount }}</div>
+
+{{ $edugraphicsCount := ( len ( where ( where .Site.RegularPages "Section" "==" "edugraphics") ".Draft" false ) ) }}
+<div id="count-edugraphics" style="display:none;">{{ $edugraphicsCount }}</div>
+
+{{ $booksCount := ( len ( where ( where .Site.RegularPages "Section" "==" "books") ".Draft" false ) ) }}
+<div id="count-books" style="display:none;">{{ $booksCount }}</div>
+
+{{ $videosCount := ( len ( where ( where .Site.RegularPages "Section" "==" "videos") ".Draft" false ) ) }}
+<div id="count-videos" style="display:none;">{{ $videosCount }}</div>
+
+{{ $coursesCount := ( len ( where ( where .Site.RegularPages "Section" "==" "courses") ".Draft" false ) ) }}
+<div id="count-courses" style="display:none;">{{ $coursesCount }}</div>

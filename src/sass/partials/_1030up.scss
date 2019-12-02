@@ -1,0 +1,44 @@
+.mobileHide {
+	display: inherit !important;
+}
+.header-nav {
+	#explore-button, #donate-button {
+		span {
+			display: inline-block !important;
+			font-size: 1em;
+		}
+
+		.close {
+			display: none !important;
+		}
+	}
+
+	#explore-button.active span.close, #explore-button.active .close {
+		display: inline-block !important;
+	}
+}
+
+.masonry {
+	.brick {
+		flex-basis: 21%;
+	}
+}
+
+.mailing-list {
+	min-width: 800px;
+}
+
+.flickable-post {
+	min-width: 400px;
+}
+
+#add-your-voice {
+
+	h4 {
+    margin: 0 -4vw 0 0;
+  
+    svg {
+			left: -4vw;
+		}
+	}
+}

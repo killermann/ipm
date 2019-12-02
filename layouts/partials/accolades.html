@@ -1,0 +1,29 @@
+{{ if eq .Params.accolades "Seedling" }}
+<div id="share-count">
+  <span>Almost</span> <a href="#share" title="Share">1,000</a> <span>Shares</span>
+</div>
+{{ else if eq .Params.accolades "Crowd-Pleaser"}}
+<div id="share-count">
+    <span>Over</span> <a href="#share" title="Share">1,000</a> <span>Shares</span>
+  </div>
+{{ else if eq .Params.accolades "Sensation"}}
+<div id="share-count">
+  <a href="#share" title="Share">Almost 10K Shares</a>
+</div>
+{{ else if eq .Params.accolades "Rising Star" }}
+<div id="share-count">
+  <span>Almost</span> <a href="#share" title="Share">50K</a> <span>Shares</span>
+</div>
+{{ else if eq .Params.accolades "Bona-Fide Hit" }}
+<div id="share-count">
+  <span>Almost</span> <a href="#share" title="Share">100K</a> <span>Shares</span>
+</div>
+{{ else if eq .Params.accolades "Greatest Hit" }}
+<div id="share-count">
+  <span>Over</span> <a href="#share" title="Share">100K</a> <span>Shares</span>
+</div>
+{{ else if eq .Params.accolades "GOAT" }}
+<div id="share-count">
+  <span>Over</span> <a href="#share" title="Share">500K</a> <span>Shares</span>
+</div>
+{{ end }}

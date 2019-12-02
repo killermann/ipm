@@ -1,0 +1,143 @@
+.card {
+	position: relative;
+	background-color: white;
+	background-color: var(--c-bg-light);
+	display: flex;
+	align-items: stretch;
+	overflow: hidden;
+	@extend .shadow-high;
+	@extend .rounded;
+
+	a.abs-fill {
+		@extend .rounded;
+
+		&:hover, &:focus {
+			border: solid .18em var(--pink-300);
+		}
+	}
+
+	&:hover {
+
+		.card-title {
+			color: black;
+		}
+		.card-title:before {
+			width: 50%;
+		}
+
+		.card-image:after {
+			opacity: .2;
+		}
+	}
+}
+
+.card-text {
+	flex-basis: 70%;
+}
+
+.card-title {
+	position: relative;
+	line-height: 1.2;
+	font-family: $alt-font;
+	font-weight: 700;
+	margin: 20px;
+	margin-bottom: calc(20px - .18em);
+	padding-top: 20px;
+	color: var(--grey-900);
+
+	&:before {
+		display: block;
+		background: var(--pink-500);
+		position: absolute;
+		top: 0;
+		width: 33.3%;
+		content: '';
+		height: .18em;
+		border-radius: .05em;
+		transition: .1s ease-out;
+	}
+}
+
+.card-meta {
+	padding: 0 20px 20px;
+	font-size: .8em;
+	line-height: 1;
+	font-family: $alt-font;
+	color: var(--pink-700);
+	font-weight: 300;
+}
+
+.card-image {
+	position: relative;
+	flex-grow: 1;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+
+	&:after {
+		content: '';
+		display: block;
+		opacity: .5;
+		background: var(--pink-500);
+		@extend .abs-fill;
+	}
+}
+
+.card.edugraphics {
+	.card-title:before, .card-image:after { background: var(--yellow-500); }
+	.card-meta { color: var(--yellow-700)}
+	.abs-fill:hover, .abs-fill:focus { border-color: var(--yellow-300)}
+}
+
+.card.articles {
+	.card-title:before, .card-image:after { background: var(--orange-500); }
+	.card-meta { color: var(--orange-700)}
+	.abs-fill:hover, .abs-fill:focus { border-color: var(--orange-300)}
+}
+
+.card.books {
+	.card-title:before, .card-image:after { background: var(--green-500); }
+	.card-meta { color: var(--green-700)}
+	.abs-fill:hover, .abs-fill:focus { border-color: var(--green-300)}
+}
+
+.card.videos {
+	.card-title:before, .card-image:after { background: var(--blue-500); }
+	.card-meta { color: var(--blue-700)}
+	.abs-fill:hover, .abs-fill:focus { border-color: var(--blue-300)}
+}
+
+.card.courses {
+	.card-title:before, .card-image:after { background: var(--purple-500); }
+	.card-meta { color: var(--purple-700)}
+	.abs-fill:hover, .abs-fill:focus { border-color: var(--purple-300)}
+}
+
+
+/* Card Section */
+
+.cards {
+	padding: 4vw;
+
+	.card {
+		margin-bottom: 4vw;
+	}
+}
+
+@media only screen and (min-width: 768px) {
+
+	.card-text {
+		flex-basis: 50%;
+	}
+
+	.card-title {
+		margin: 4vw;
+		margin-bottom: calc(3vw - .18em);
+		padding-top: 3vw;
+		hyphens: none;
+	}
+
+	.card-meta {
+		padding: 0 4vw 4vw;
+	}
+}

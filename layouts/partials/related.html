@@ -1,0 +1,18 @@
+	{{ $related := .Site.RegularPages.Related . | first 10 }}
+	{{ with $related }}
+	<div class="flickable-posts-wrap">
+		<span class="sidenote">More like what you just read...</span>
+		
+		<ul class="flickable-posts">
+			{{ range . }}
+			<li class="flickable-post">
+				<a class="flickable-link lazy-load" href="{{ .RelPermalink }}" {{ with .Params.featured_image }}data-background-image="{{.}}"{{ end }}>
+					<h3 class="flickable-title">{{- .Title -}}</h3>
+				</a>
+			</li>
+			{{ end }}
+		</ul>
+	</div>
+
+
+{{ end }}

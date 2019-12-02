@@ -1,0 +1,62 @@
+baseURL = "https://itspronouncedmetrosexual.netlify.com/"
+languageCode = "en-us"
+title = "It's Pronounced Metrosexual"
+enableRobotsTXT = true
+canonifyURLs = true
+paginate = 6
+summaryLength = 40
+
+[Author]
+	name = "Sam Killermann"
+
+[params]
+	author_patrons_count = 12
+	site_patrons_count = 34
+	email_list_url = "https://itspronouncedmetrosexual.us3.list-manage.com/subscribe/post?u=7f90a3f9a7e245fa145b3ba44&id=ffe51c3832"
+  mainSections = ["articles", "edugraphics", "books", "videos", "courses", "news"]
+	description = "Learn about gender, sexuality, & social justice with Sam Killermann. Your free online resource for everything from genderbread people to LGBTQ vocabulary."
+
+[social]
+	twitter = "ActuallyMetro"
+
+[menu]
+	[[menu.main]]
+		name = "About"
+		url = "/about/"
+		weight = 1
+	[[menu.main]]
+		name = "Articles"
+		url = "/articles/"
+		weight = 2
+		pre = "<div id='new-articles' class='noti hide'></div><span>"
+		post = "</span>"
+	[[menu.main]]
+		name = "Edugraphics"
+		url = "/edugraphics/"
+		weight = 3
+		pre = "<div id='new-edugraphics' class='noti hide'></div><span>"
+		post = "</span>"
+	[[menu.main]]
+		name = "It's Pronounced Metrosexual"
+		url = "/"
+		weight = 4
+		pre = "<span class='logo'><svg width='48' height='48' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 288 246'><path class='flag' d='M228 246zm-47-137l47-52c6-6 14-15 10-25s-17-7-25-4c-13 3-24 9-36 12 2-10 5-25-2-35-4-4-11-6-17-5-10 1-20 5-29 10a181 181 0 00-26 16l-6 4h-3a17 17 0 00-2-2 12 12 0 00-9 0c-9 4-9 20-9 28l1 16-1 29c-1 23-2 55-1 78l2 26c0 6 0 13 2 19s3 11 8 13c7 3 16-1 18-8 2-4 0-7-2-10s-2-8-3-12l-2-35v-42l36-32c-2 10-10 31 2 36 8 4 18-1 24-5 9-6 16-13 23-20zm-79-12l-6 4 1-29 1-8 1-9 10-5 21-15a131 131 0 0127-11c-1 11-14 30 1 38 5 3 12 2 17 1l22-5-21 24a255 255 0 01-24 23 126 126 0 004-17c0-5 0-11-3-16-8-13-25 1-33 7s-12 12-18 18z' fill='#fff'/><path d='M285 157c2-23 5-48-1-72-4-10-11-21-23-21-16 0-25 17-31 29-11 23-20 48-28 73-3-6-7-13-14-16s-11-2-16 0c-10 5-18 15-23 26-4-6-12-7-16-3s-1 11-1 16c-1 11-3 23 0 34 3 9 14 14 20 7s6-16 9-24c4-12 8-29 20-35 9 15 2 31 7 47 2 10 14 18 21 8 2-2 3-6 4-9l3-13 7-25c4-16 10-31 16-46s11-31 22-43c6 21 4 43 2 64l-6 52c0 8-1 15 1 23 2 5 4 12 10 13s11-4 12-9l1-21c-1-10 0-20 1-29l3-26zM49 224c-3-10-3-20-4-30l-2-30-1-31c0-4 1-9-1-13a11 11 0 00-9-5 11 11 0 00-9 4c-2 3-2 8-2 12v30a599 599 0 004 59c1 9 2 20 13 22s17-10 11-18z' fill='#fff'/><path class='heart' d='M43 48c-5 1-12 10-15 14-6-6-20-19-26-8s5 29 12 39c4 5 11 12 15 12s8-4 12-9c6-8 12-18 14-28s1-22-12-20z' fill='#ff1f64'/></svg></span><span class='hidden'>"
+		post = "</span>"
+	[[menu.main]]
+		name = "Books"
+		url = "/books/"
+		weight = 5
+		pre = "<div id='new-books' class='noti hide'></div><span>"
+		post = "</span>"
+	[[menu.main]]
+		name = "Videos"
+		url = "/videos/"
+		weight = 6
+		pre = "<div id='new-videos' class='noti hide'></div><span>"
+		post = "</span>"
+	[[menu.main]]
+		name = "Online Courses"
+		url = "/courses/"
+		weight = 7
+		pre = "<div id='new-courses' class='noti hide'></div><span>"
+		post = "</span>"
