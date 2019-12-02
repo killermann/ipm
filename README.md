@@ -36,7 +36,7 @@ Want to help out? Please submit pull requests with...
 
 ## 🙌 Huge Thanks to...
 
-- The cabal of [a11y](https://a11yproject.com/)/accessibility activists who checked in on this site build progress from July - November 2019 as I was creating it from the ground up and gave me regular feedback and constructive criticism to make the site the most accessible it's ever been
+- The cabal of [a11y](https://a11yproject.com/)/accessibility activists who checked in on this site build progress from July - November 2019 as I was creating it from the ground up, giving me regular feedback and constructive criticism to make the site the most accessible it's ever been
 - My secret beta tester group who provided me tons of insight on the new design and structure of the site
 - Jake Archibald and his SVG optimization GUI [https://jakearchibald.github.io/svgomg/](https://jakearchibald.github.io/svgomg/). I spent hours in there making my gradients _just so_, and was able to reduce my data footprint considerably.
 - Chris Coyier and [CSS-Tricks.com](https://css-tricks.com/). Always the first place I go if I'm unsure of how to solve a front-end problem.

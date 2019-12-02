@@ -291,7 +291,7 @@
 	padding: 4vw;
 	font-family: $serif;
 	
-	p, pre, code, address {
+	h2, h3, h4, h5, h6, p, pre, code, address, blockquote {
 		margin: 1.5em auto 0;
 		max-width: 720px;
 	}
@@ -304,11 +304,6 @@
 	li {
 		margin-top: .75em;
 	}
-
-	h2, h3, h4, h5, h6 {
-		max-width: 720px;
-		margin: 1.5em auto 0;
-  }
   
   .youtube {
     margin: 2.5em auto 1.5em;
@@ -339,6 +334,13 @@
 
 	& > address:first-child {
 		margin: -2vw auto calc(1.5em + 4vw);
+	}
+
+	blockquote {
+		border-left: .2em solid var(--teal-300);
+		padding-left: 1.3em;
+		font-family: $sans-serif;
+		color: rgba(10,10,10,.8);
 	}
 }
 
