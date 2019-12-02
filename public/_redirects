@@ -6,3 +6,5 @@
 /articles-books/                /articles/
 /videos-podcasts/               /videos/
 /activities-courses/            /courses/
+/category/*                     /categories/:splat
+/tag/*                          /tags/:splat
