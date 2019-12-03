@@ -2,9 +2,8 @@
 title: Make a Donation
 author: Sam Killermann
 body_class: rainbow-header
-type: page
+type: donate
 date: 2012-11-29T17:25:37+00:00
-
 ---
 It&#8217;s my goal to keep this site ad-free and to continue producing quality pieces for you to read, share, and use.  If you appreciate what I&#8217;ve created here, and would like to support me so I can keep doing it, donations are a great way to do so.
 
