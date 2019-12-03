@@ -31,7 +31,7 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
-
+accolades: Sensation
 ---
 I made all of these comics for my [book][1]. Some of them are in there. Some didn&#8217;t make the cut. And many more that aren&#8217;t here did. Hope they give you a gender-equity giggle.
 

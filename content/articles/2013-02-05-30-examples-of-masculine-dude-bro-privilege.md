@@ -31,7 +31,7 @@ tags:
   # - Terminology
   # - Public Thinking
    - TMI
-
+accolades: Sensation
 ---
 I&#8217;ve written a few [privilege lists][1], several of which are about privileged identities I possess. They are serious articles that provide a couple hundred examples of systemic oppression (in the US and elsewhere). This article is not that.
 
@@ -39,7 +39,7 @@ I ask that you please humor me as I take a moment to address the many privileges
 
 Following is a list of privileges granted to masculine dudes (i.e., a &#8220;bro&#8221;) based on their bro-ness. Odds are, if you&#8217;re a bro, you don&#8217;t realize you have exclusive access to these things, and bro about your day unbroknownst to the brovantages you broceive.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 If you&#8217;re a masculine dude&#8230;
 

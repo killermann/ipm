@@ -30,11 +30,11 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
-
+accolades: Bona Fide Hit
 ---
 I&#8217;ve written about [privilege](/tags/privilege/) here, and I&#8217;ve written my own privilege lists, inspired by Peggy McIntosh (blame her!), which have garnered a lot of hullabaloo on my site. Now, there seems to be a groundswell of backlash, where privileged people (<a href="http://www.salon.com/2014/05/04/ill_never_apologize_for_my_white_privilege_guy_is_basically_most_of_white_america/?utm_source=facebook&utm_medium=socialflow" target="_blank" rel="noopener noreferrer">like this super privileged Princeton student</a>) are &#8220;denouncing their privilege&#8221; and &#8220;finally standing up for straight white guys&#8221; (HAHAHA).  Well, I wrote this (<a href="https://www.facebook.com/killermann/posts/10103619037806158" target="_blank" rel="noopener noreferrer">originally a Facebook status</a>) for you, Tal, as well as the rest of us:
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
 Wasn’t it awesome back before we were seen as white, straight, cisgender, and man? “I don’t see race,” you might have said. “I’m colorblind. I have tons of gay friends. I’ve been to gay bars. And I wasn’t even freaked out then. I got into Yale solely on my own merit,” you kid.

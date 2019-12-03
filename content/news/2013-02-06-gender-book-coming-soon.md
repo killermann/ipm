@@ -34,7 +34,7 @@ Hey folks! Great news!
 
 (if you&#8217;re a fan of my work, otherwise &#8220;bad news!&#8221;)
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 I wrote <a href="http://guidetogender.com" alt="A Guide to Gender">a book</a> (That&#8217;s it in the ad!). It&#8217;s a guide to gender, from a social justice perspective. It&#8217;s a couple hundred pages of in-depth explorations of gender (going beyond the Genderbread Person), social justice how-tos & best practices, and (of course) dozens of adorable doodles and silly graphics. Some of what comprises the book you may have seen in some undeveloped form here, but you&#8217;ll also find a ton of new goodness to cook your mind potatoes.
 

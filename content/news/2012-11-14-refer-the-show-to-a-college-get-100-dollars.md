@@ -6,17 +6,33 @@ date: 2012-11-14T21:22:44+00:00
 draft: true
 url: /?p=1948
 featured_image: /wp-content/uploads/2012/11/Its-True-Referral-Ad1.jpg
-thesis_title:
-  - "Refer the show It's Pronounced Metrosexual to a college, get $100"
-thesis_description:
-  - "It's Pronounced Metrosexual started as a comedy show with a message, not a blog. A request from IPM's performer and author.  Consider it a please and thankyou all at once."
-dsq_thread_id:
-  - 928364804
-thesis_thumb_width:
-  - 66
-thesis_thumb_height:
-  - 66
-
+categories: 
+  # - Gender
+  # - Sexuality
+  # - Social Justice
+tags:
+  # - Activism
+  # - Allyship
+  # - Being Inclusive
+  # - Education
+  # - Guide to Gender
+  # - LGBTQ
+  # - LGB
+  # - Trans
+  # - How-To
+  # - Humor
+  # - Identity
+  # - List
+  # - Privilege
+  # - Rant
+  # - Religion
+  # - Replies
+  # - Start Here
+  # - Shorties
+  # - Social Justice Dogma
+  # - Terminology
+  # - Public Thinking
+  # - TMI
 ---
 Check out the graphic below, share it on Facebook and Twitter, and [let me know][1] if you have any questions.  I&#8217;ll love you forever if you consider spreading the word (but, then again, I&#8217;ll love you [anyhow][2]).
 

@@ -11,7 +11,7 @@ categories:
   # - Sexuality
    - Social Justice
 tags:
-  # - Activism
+   - Activism
   # - Allyship
   # - Being Inclusive
   # - Education
@@ -30,10 +30,11 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
+accolades: Rising Star
 ---
 Social justice &#8212; the idea that everyone in a society, regardless of the identities they embody, can have an equitable shot at success and happiness &#8212; is a goal that seems unrealistic for many people. &#8220;It&#8217;s a pipe dream, Sam,&#8221; they say, smugly. &#8220;Life isn&#8217;t rainbows and butterflies,&#8221; they say, adorably.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 To achieve social justice we will have to break down a lot of huge barriers that exist on a scale far above the individual, but even the biggest scale change is nothing more than the sum of _a whole lot_ of individual efforts.  My goal with this site is to support you in doing just that: making big change on an individual level.
 

@@ -31,6 +31,7 @@ tags:
    - Terminology
   # - Public Thinking
   # - TMI
+accolades: Rising Star
 ---
 I would never ask you to be politically correct.  I&#8217;ve gotten some flak from my &#8220;[When Gay is Okay][1]&#8221; and &#8220;[Why I say partner][2]&#8221; articles.  People feel that I&#8217;m soap-boxing for political correctness, when that couldn&#8217;t be further from the truth.  Before you send me an email, tweet, or facebook message saying &#8220;Sorry if I&#8217;m not all &#8216;PC&#8217;&#8230;&#8221;, read this: I&#8217;ve never asked you to be politically correct; I&#8217;ve asked you to be inclusive.
 

@@ -83,7 +83,7 @@ So, with that said, in no particular order, here&#8217;s what I&#8217;ve been ta
 
 ## Questions & Answers re: The Tenets
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
 Nope. And I&#8217;ll be updating it as I discover, label, and/or think through additional tenets. I&#8217;m sitting on several right now that I haven&#8217;t written up, because I want to vet them a bit more first.

@@ -6,15 +6,33 @@ date: 2012-04-04T00:59:42+00:00
 excerpt: "Christians and Muslims (and anyone else) selectively quoting a religious text to defend their homophobia isn't helping anyone."
 url: /2012/04/open-letter-to-biblical-literalists-on-homosexualit/
 featured_image: /wp-content/uploads/2012/04/nobody-remembers-the-pizza.jpg
-thesis_title:
-  - An open letter about Christianity and homosexuality to Bradley Dean (and other Biblical literalists)
-thesis_description:
-  - "Bradley Dean said Christians aren't as moral as Muslims because they aren't calling for the execution of gays.  This is our response."
-dsq_thread_id:
-  - 635663416
-sections:
-  - 'Articles &amp; Books'
-
+categories: 
+  # - Gender
+  # - Sexuality
+   - Social Justice
+tags:
+  # - Activism
+  # - Allyship
+  # - Being Inclusive
+  # - Education
+  # - Guide to Gender
+  # - LGBTQ
+  # - LGB
+  # - Trans
+  # - How-To
+  # - Humor
+  # - Identity
+  # - List
+  # - Privilege
+   - Rant
+   - Religion
+   - Replies
+  # - Start Here
+  # - Shorties
+  # - Social Justice Dogma
+  # - Terminology
+  # - Public Thinking
+  # - TMI
 ---
 [<img class="alignright size-full wp-image-1181 lazy-load" data-src="/wp-content/uploads/2012/04/bradley-dean.jpg" alt="Bradlee Dean" width="250" data-srcset="/wp-content/uploads/2012/04/bradley-dean.jpg 480w, /wp-content/uploads/2012/04/bradley-dean-300x198.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" />][1]Bradlee Dean, heavy metal rocker slash minister, recently alluded that the <a title="DailyMail.co.uk" href="http://www.dailymail.co.uk/news/article-2099397/Muslim-fanatics-called-execution-gays-wanted-set-medieval-state-Sharia-law-Derby-jailed.html" target="_blank">Muslims who were calling for execution of gays</a> are &#8220;more moral&#8221; than Christians (read about it at the <a title="Huffington Post: Preacher calls for execution of gays" href="http://www.huffingtonpost.com/2012/04/03/bradlee-dean-preacher-allegations-gays-execution_n_1399971.html?utm_campaign=040312&utm_medium=email&utm_source=Alert-gay-voices&utm_content=FullStory" target="_blank">Huffington Post</a>).
 
@@ -27,14 +45,12 @@ He&#8217;s since backtracked a lot, and wishy-washied, and etc.  But it&#8217;s
 </div>
 
 <!--more-->
-
-
   
 Dear Bradlee,
 
 I heard about the whole Rachel Maddow thing.  Bummer.  Here&#8217;s the deal: the context, the specific wordings, the supposed omissions &#8212; they don&#8217;t matter.  You think homosexuality is a sin, and whether or not you want gay people dead (you do), you&#8217;re already mislead.  Allow me to set you _straight_.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 oh &#8212; execution time, buddy (Genesis 38:9-10).  But I bet you&#8217;re not even worried about that (they&#8217;re just words, right?).  Fire away!
 

@@ -119,7 +119,7 @@ This was [my big addition][3] to the gender conversation.
 
 Visualizing gender on scales, or individual continua, instead of on a spectrum or as checkboxes, gives us even more room to capture the complicated and diverse ways gender shows up in our lives. 
 
-Instead of one spectrum with two different ideas at the poles, we&#8217;ve separated the ideas entirely. This resonates with a lot of people, because, well, they&#8217;re separate ideas. <aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+Instead of one spectrum with two different ideas at the poles, we&#8217;ve separated the ideas entirely. This resonates with a lot of people, because, well, they&#8217;re separate ideas. {{< heyheylook >}}
 
 ot;Not M&quot; to &quot;M&quot;, with an X plotted at the 100% point of the &quot;F&quot; scale" class="wp-image-3748 lazy-load" data-srcset="/wp-content/uploads/2019/02/scales-2.png 800w, /wp-content/uploads/2019/02/scales-2-300x169.png 300w, /wp-content/uploads/2019/02/scales-2-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure> 
 

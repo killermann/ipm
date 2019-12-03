@@ -32,6 +32,7 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
+accolades: Rising Star
 ---
 Let&#8217;s make a deal. Promise me that you&#8217;ll do everything in your power to read this entire article (all 800 words of it) before you start mentally formulating the comment/email/death threat you&#8217;re going to respond with.  
 
@@ -39,7 +40,7 @@ If you can make that promise, read on.  If not, go find an website that reinfor
   
 <!--more-->
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
 In a society where most people (politicians in particular) have some sort of faith that guides their decisions, it&#8217;s impossible to have a true separation of church and state.  That&#8217;s fine.  I don&#8217;t think we need to only elect atheistic representatives.  In fact, I&#8217;m candidly against that idea.

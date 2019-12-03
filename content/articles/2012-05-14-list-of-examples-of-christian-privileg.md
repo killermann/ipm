@@ -34,10 +34,11 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
+accolades: Greatest Hit
 ---
 Following is a list of privileges granted to people in the U.S. (and many western nations) for being Christian.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
 **Please comment below if you have any additions or revisions to make!**

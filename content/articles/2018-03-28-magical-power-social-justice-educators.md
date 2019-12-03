@@ -75,7 +75,7 @@ It wasn’t long before I met &#8220;Some&#8221;&#8216;s family members.
   * “Yeah, but I have this Black friend who says everyone, even White people, should be able to say the N-word.”
   * “Yeah, but my friend’s sister’s cousin regretted their transition and was miserable after, and you said trans people are happier if we support their transition.”
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
   * “This systemic barrier prevents _a lot_ of \_____ people from…”

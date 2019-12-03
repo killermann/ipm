@@ -33,6 +33,7 @@ tags:
    - Terminology
   # - Public Thinking
   # - TMI
+accolades: Bona Fide Hit
 ---
 We understand that sexual orientation and gender are separate concepts.  This is something that is relatively easily understood within the contexts of cisgender identities.  But how does sexual orientation &#8220;work&#8221; for genderqueer or trans-identified peeps?
 
@@ -52,15 +53,7 @@ For a moment, stop thinking in terms of cisgender versus genderqueer, and instea
 
 This understanding of attraction applies to cisgender folks and genderqueer folks.
 
-<aside class="heyHeyLook g2g2"> 
-            [ 
-            ![A Guide to Gender 2nd Edition by Sam Killermann][2]][3]{.image} 
-
-<div class="aside--text">
-  <p>
-    <strong>The post you're reading right now</strong> is included in my book, <em>A Guide to Gender</em>. You can get the 2nd Edition now (and read the expanded version of this post):<br /> <a href="https://amzn.to/2li0YWS" alt="Get A Guide to Gender 2nd Edition Paperback">Paperback</a> <a href="https://amzn.to/2li3Pzn" alt="Get A Guide to Gender 2nd Edition Kindle">Kindle</a> <a href="https://gum.co/g2g2" alt="Get A Guide to Gender 2nd Edition PDF">.PDF (pay-what-you-want/can) </a>
-  </p>
-</div></aside>
+{{< heyheylook >}}
 
 ### It&#8217;s who you&#8217;re attracted to, not you
 

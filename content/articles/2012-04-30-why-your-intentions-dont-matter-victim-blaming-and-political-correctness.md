@@ -5,19 +5,34 @@ type: post
 date: 2012-04-30T23:34:29+00:00
 url: /2012/04/why-your-intentions-dont-matter-victim-blaming-and-political-correctness/
 featured_image: /wp-content/uploads/2012/04/ingrids-intentionality-elixir.jpg
-thesis_title:
-  - "Why Being Well-Intentioned isn't Good Enough"
-thesis_description:
-  - "We discuss why it doesn't matter what your intentions were, it matters what happened, using victim blaming and political correctness as frameworks."
-thesis_keywords:
-  - victim blaming, victim, blaming, political, correctness, homosexuality, gay, intentions, well-intentioned, good, outcomes, terminology, gay, lesbian
-dsq_thread_id:
-  - 670803208
-algolia_searchable_posts_records_count:
-  - 7
-sections:
-  - 'Articles &amp; Books'
-
+categories: 
+  # - Gender
+  # - Sexuality
+   - Social Justice
+tags:
+   - Activism
+  # - Allyship
+  # - Being Inclusive
+   - Education
+   - Guide to Gender
+  # - LGBTQ
+  # - LGB
+  # - Trans
+  # - How-To
+  # - Humor
+  # - Identity
+  # - List
+  # - Privilege
+  # - Rant
+  # - Religion
+  # - Replies
+  # - Start Here
+  # - Shorties
+  # - Social Justice Dogma
+  # - Terminology
+  # - Public Thinking
+  # - TMI
+accolades: Rising Star
 ---
 [<img class="alignnone size-full wp-image-1439 lazy-load" title="&quot;Ingrid's Intentionality Elixir&quot; Comic" alt="&quot;Ingrid's Intentionality Elixir&quot; Comic" data-src="/wp-content/uploads/2012/04/ingrids-intentionality-elixir.jpg" width="1000" height="667" data-srcset="/wp-content/uploads/2012/04/ingrids-intentionality-elixir.jpg 1000w, /wp-content/uploads/2012/04/ingrids-intentionality-elixir-300x200.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" />][1]
 
@@ -31,15 +46,7 @@ I will elaborate on my response to that question more in a bit, but first I want
 
 ## Why the fascination with intentions?
 
-<aside class="heyHeyLook g2g2"> 
-            [ 
-            ![A Guide to Gender 2nd Edition by Sam Killermann][2]][3]{.image} 
-
-<div class="aside--text">
-  <p>
-    <strong>The post you're reading right now</strong> is included in my book, <em>A Guide to Gender</em>. You can get the 2nd Edition now (and read the expanded version of this post):<br /> <a href="https://amzn.to/2li0YWS" alt="Get A Guide to Gender 2nd Edition Paperback">Paperback</a> <a href="https://amzn.to/2li3Pzn" alt="Get A Guide to Gender 2nd Edition Kindle">Kindle</a> <a href="https://gum.co/g2g2" alt="Get A Guide to Gender 2nd Edition PDF">.PDF (pay-what-you-want/can) </a>
-  </p>
-</div></aside>There are a couple of things at play here that lead to the focus on the intentions rather than the outcome: the ideas of &#8220;political correctness&#8221; and &#8220;victim blaming,&#8221; and, most importantly, how they interact.  Before I can explain the interaction, let me explain what they are.
+There are a couple of things at play here that lead to the focus on the intentions rather than the outcome: the ideas of &#8220;political correctness&#8221; and &#8220;victim blaming,&#8221; and, most importantly, how they interact.  Before I can explain the interaction, let me explain what they are.
 
 ### Victim Blaming 101
 
@@ -107,15 +114,9 @@ What&#8217;s even more important is that outcomes happen externally.  It doesn&
 
 ## Moving beyond good intentions
 
-<aside class="heyHeyLook g2g2"> 
-            [ 
-            ![A Guide to Gender 2nd Edition by Sam Killermann][2]][3]{.image} 
+When people ask me what I do for a living, I like to respond I help good people be better people.  Well-intentioned people are good people.  We just have a little ways to go to be better people, and it all takes place after the outcome, not before it.
 
-<div class="aside--text">
-  <p>
-    <strong>The post you're reading right now</strong> is included in my book, <em>A Guide to Gender</em>. You can get the 2nd Edition now (and read the expanded version of this post):<br /> <a href="https://amzn.to/2li0YWS" alt="Get A Guide to Gender 2nd Edition Paperback">Paperback</a> <a href="https://amzn.to/2li3Pzn" alt="Get A Guide to Gender 2nd Edition Kindle">Kindle</a> <a href="https://gum.co/g2g2" alt="Get A Guide to Gender 2nd Edition PDF">.PDF (pay-what-you-want/can) </a>
-  </p>
-</div></aside>When people ask me what I do for a living, I like to respond I help good people be better people.  Well-intentioned people are good people.  We just have a little ways to go to be better people, and it all takes place after the outcome, not before it.
+{{< heyheylook >}}
 
 ### Don&#8217;t take it personally
 

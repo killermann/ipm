@@ -42,7 +42,7 @@ While this may seem like a brash announcement, in all honesty, this has always b
 
 That&#8217;s right, ©, <a title="Gandalf the White, Y'all" href="http://youtu.be/0Jc9WpF3t1s?t=1m52s" target="_blank">you have no power here</a>!
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
 ## FAQs (Future Anticipated Questions)

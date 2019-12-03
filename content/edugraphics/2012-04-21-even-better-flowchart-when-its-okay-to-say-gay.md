@@ -33,6 +33,7 @@ tags:
    - Terminology
   # - Public Thinking
   # - TMI
+accolades: Rising Star
 ---
 When I published my <a title="Flowchart: when it’s okay to say “that’s so gay”" href="/2012/04/flowchart-when-its-okay-to-say-thats-so-gay-prin/" target="_blank">original flowchart</a>, I said it was for the more analytical folks who are wondering if &#8220;gay&#8221; is the right word choice for them.  Well, this one is for the _most_ analytical folks, and also folks who enjoy data presented in cute and adorable ways.
   

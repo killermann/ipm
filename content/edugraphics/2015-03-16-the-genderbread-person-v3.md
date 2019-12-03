@@ -34,6 +34,7 @@ tags:
   # - Terminology
    - Public Thinking
   # - TMI
+accolades: Bona Fide Hit
 ---
 Taking the lessons learned from [version 2][1], and applying them to sexuality in a more meaningful way, here&#8217;s my best rendition of the genderbread person yet.
 
@@ -41,7 +42,7 @@ Taking the lessons learned from [version 2][1], and applying them to sexuality i
   Hey! Friend! I published a <a href="/2018/10/the-genderbread-person-v4/">version 4 of my Genderbread Person</a>! It&#8217;s at least 33.333% better than this one. (Tbh, I think it&#8217;s better in every way, and anything you like about 3.3 can easily be remixed into v4) <a href="/2018/10/the-genderbread-person-v4/">Check it out</a>.
 </address>
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 Someone pointed out that I hadn&#8217;t shared this here yet, even though it&#8217;s been _out _for awhile. I am in disbelief about how long it&#8217;s taken me to get this up on the site. I really don&#8217;t know what happened &#8212; time flies? I created the first iteration of my version 3 of the genderbread person when I published [my book][2] back in 2013.
 

@@ -48,7 +48,7 @@ Gender and sexuality are two different concepts. It&#8217;s like comparing apple
 
 **Gender as We&#8217;re Taught it**
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
 Boys are aggressive, impetuous, good at math, love the color blue. They get dirty, rough house, play sports, not house. Trucks and soldiers and legos are their toys, but they break them all, &#8216;cuz boys will be boys. Boys can grow up and be whatever they want. The world is their oyster, and whether or not they realize it&#8217;s their choice to capitalize on this privilege that&#8217;s limited just to guys, it&#8217;s there for them, the y-chromosome prize. There is no bar too high, or goal too far away, unless they want to be a nurse, &#8216;cuz that&#8217;s just gay.
@@ -109,10 +109,10 @@ Which, as you can guess, is often problematic_._ But assigning a gender to a per
 
 **Gender Identity**
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 I&#8217;ll say this again to say something that needs to be said: gender isn&#8217;t the parts that make up your body, it&#8217;s what&#8217;s in your head. To understand gender identity, and how it differers from expression and sex, we need to first make sense of what&#8217;s in our heads.
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 ls are running astray.
 

@@ -32,6 +32,7 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
+accolades: Rising Star
 ---
 <address>
   This is a second-part response to <a title="Top Ten Tips on how to Thicken your Skin" href="/2012/09/tips-on-thickening-skin-in-social-justice-work/" target="_blank">an email I received</a> from a high school senior (it&#8217;d probably help contextualize if you read her email first).  
@@ -47,7 +48,7 @@ I have three main approaches you can take below, but I&#8217;d love to hear sugg
 
 ## 1. Point out that not only does bisexuality and pansexuality exist, but everyone you know is probably at least a little bi-, whether they&#8217;ll admit/realize it or not.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 You can point this out to them a number of ways.
 

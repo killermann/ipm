@@ -6,17 +6,34 @@ date: 2011-12-13T21:25:04+00:00
 excerpt: And an introduction to the much healthier, much shinier Platinum Rule.
 url: /2011/12/the-corruption-of-the-golden-rule/
 featured_image: /wp-content/uploads/2011/12/golden-rule-sam-killermann.png
-dsq_thread_id:
-  - 503471185
-thesis_title:
-  - Why the Golden Rule Needs to be Replaced
-thesis_description:
-  - The Golden Rule, "Do unto others as you would have done unto you" is inherently flawed and teaches us to make false assumptions about treatment of others.
-algolia_searchable_posts_records_count:
-  - 4
-sections:
-  - 'Articles &amp; Books'
-
+categories: 
+  # - Gender
+  # - Sexuality
+   - Social Justice
+tags:
+   - Activism
+  # - Allyship
+   - Being Inclusive
+   - Education
+   - Guide to Gender
+  # - LGBTQ
+  # - LGB
+  # - Trans
+  # - How-To
+  # - Humor
+  # - Identity
+  # - List
+  # - Privilege
+   - Rant
+  # - Religion
+  # - Replies
+   - Start Here
+  # - Shorties
+  # - Social Justice Dogma
+  # - Terminology
+  # - Public Thinking
+  # - TMI
+accolades: Rising Star
 ---
 Do unto others as you would have them do unto you.  Right?
 
@@ -72,15 +89,7 @@ Do unto others **as they would have** done unto **them**, dudes.
 
 (I added the &#8220;dudes&#8221; to freshen up the unto, but the platinum rule itself was coined by Milton Bennett in the 70s.)
 
-<aside class="heyHeyLook g2g2"> 
-            [ 
-            ![A Guide to Gender 2nd Edition by Sam Killermann][1]][2]{.image} 
-
-<div class="aside--text">
-  <p>
-    <strong>The post you're reading right now</strong> is included in my book, <em>A Guide to Gender</em>. You can get the 2nd Edition now (and read the expanded version of this post):<br /> <a href="https://amzn.to/2li0YWS" alt="Get A Guide to Gender 2nd Edition Paperback">Paperback</a> <a href="https://amzn.to/2li3Pzn" alt="Get A Guide to Gender 2nd Edition Kindle">Kindle</a> <a href="https://gum.co/g2g2" alt="Get A Guide to Gender 2nd Edition PDF">.PDF (pay-what-you-want/can) </a>
-  </p>
-</div></aside>
+{{< heyheylook >}}
 
 There is a common response to the presentation of the platinum rule: &#8220;How do I figure out how other people want to be treated?&#8221; I&#8217;m always asked in a sassy, know-it-all kind of tone.  &#8220;Ask them,&#8221; I reply, in an equally sassy tone.
 

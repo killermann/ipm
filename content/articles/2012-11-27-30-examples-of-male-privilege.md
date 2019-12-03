@@ -30,8 +30,8 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
+accolades: Bona Fide Hit
 ---
- 
 
 Following is a list of male privileges. &nbsp;If you are male (and a man), listed below are benefits that result from being born with that gender and sex.
 
@@ -64,21 +64,13 @@ If you identify as a man, there’s a good chance you’ve never thought about t
  25. You can disregard your appearance without worrying about being criticized at work or in social situations.
  26. You can spend time on your appearance without being criticized for upholding unhealthy gender norms.
  27. If you’re not conventionally attractive (or in shape), you don’t have to worry as much about it negatively affecting your social or career potential.
- 28. You’re not expected to spend excessive amounts of money on grooming, style, and appearance to fit in, while making less money. <aside class="heyHeyLook g2g2"> 
-            [ 
-            ![A Guide to Gender 2nd Edition by Sam Killermann][1]][2]{.image} <div class="aside--text">
-      <p>
-        <strong>The post you're reading right now</strong> is included in my book, <em>A Guide to Gender</em>. You can get the 2nd Edition now (and read the expanded version of this post):<br /> <a href="https://amzn.to/2li0YWS" alt="Get A Guide to Gender 2nd Edition Paperback">Paperback</a> <a href="https://amzn.to/2li3Pzn" alt="Get A Guide to Gender 2nd Edition Kindle">Kindle</a> <a href="https://gum.co/g2g2" alt="Get A Guide to Gender 2nd Edition PDF">.PDF (pay-what-you-want/can) </a>
-      </p>
-    </div></aside>
-
+ 28. You’re not expected to spend excessive amounts of money on grooming, style, and appearance to fit in, while making less money. 
  29. You can have promiscuous sex and be viewed positively for it.
  30. You can go to a car dealership or mechanic and assume you’ll get a fair deal and not be taken advantage of.
  31. Colloquial phrases and conventional language reflect your gender (e.g., mailman, “all men are created equal”).
  32. Every major religion in the world is led by individuals of your gender.
  33. You can practice religion without subjugating yourself or thinking of yourself as less because of your gender.
  34. You are unlikely to be interrupted in conversations because of your gender.
- 35. 
 
 _After reading this (and before you write me an email), you might appreciate reading my article_ [_5 Reasons Why So Many People Believe Feminism Hates Men, and Why They&#8217;re Not True_][3]_._
 

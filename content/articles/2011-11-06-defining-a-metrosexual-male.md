@@ -33,6 +33,7 @@ tags:
    - Terminology
   # - Public Thinking
    - TMI
+accolades: Bona Fide Hit
 ---
 What does metrosexual mean?  What&#8217;s the difference between a metro guy and a non-metro guy?  Isn&#8217;t metrosexual just another word for gay?  Is your ringtone from Kimpossible?  These are questions I find myself answering on a semi-daily basis, and I&#8217;ll be answering them all and more here, now, in the first and only&#8230;
 

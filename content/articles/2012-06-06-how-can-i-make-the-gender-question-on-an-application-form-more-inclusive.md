@@ -33,6 +33,7 @@ tags:
    - Terminology
   # - Public Thinking
   # - TMI
+accolades: Bona Fide Hit
 ---
 <address>
   This is the first installment of Q & A, where I respond to reader&#8217;s questions in a public article.  If you have a question, <a title="Contact" href="/contact/">ask away</a>.  The question is above, and my answer is below.
@@ -130,7 +131,7 @@ And FINALLY, if you need to know sex rather than gender (the only examples that 
 
 > **6. I identify my sex as&#8230;
   
->** [] Female
+> [] Female
   
 > [] Male
   
@@ -140,15 +141,7 @@ And FINALLY, if you need to know sex rather than gender (the only examples that 
   
 > [] FtM Male
 
-<aside class="heyHeyLook g2g2"> 
-            [ 
-            ![A Guide to Gender 2nd Edition by Sam Killermann][1]][2]{.image} 
-
-<div class="aside--text">
-  <p>
-    <strong>The post you're reading right now</strong> is included in my book, <em>A Guide to Gender</em>. You can get the 2nd Edition now (and read the expanded version of this post):<br /> <a href="https://amzn.to/2li0YWS" alt="Get A Guide to Gender 2nd Edition Paperback">Paperback</a> <a href="https://amzn.to/2li3Pzn" alt="Get A Guide to Gender 2nd Edition Kindle">Kindle</a> <a href="https://gum.co/g2g2" alt="Get A Guide to Gender 2nd Edition PDF">.PDF (pay-what-you-want/can) </a>
-  </p>
-</div></aside>
+{{< heyheylook >}}
 
 ## A few additional thoughts
 

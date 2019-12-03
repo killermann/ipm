@@ -34,7 +34,7 @@ tags:
 ---
 I gave a keynote recently, and after someone (a sexual health educator) found me at the conference. &#8220;I just wanted to thank you,&#8221; they started.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
 ## Remembering the Journey
@@ -99,16 +99,16 @@ These two books, and a bunch of otheressays, emails, and conversations I&#8217;v
 But a year of learning and asking and processing and reflecting, while watching my little [experiment][12] pan out, has left me with one resounding sentiment: YES.
 
 
-    	** <aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+    	** {{< heyheylook >}}
 
 Uncopyrighting my work has protected myself from participating more than I need to in an unjust system I&#8217;m trying to subvert. **Can everyone do it? Nope. Should everyone do it (or should folks who don&#8217;t feel ashamed they still maintain their IP)? Absolutely not. But more people can than do, and the fear that is preventing all of us from embracing this idea is a massive barrier to justice.
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 ative system I hope the world will embody someday: one where everyone, of all identities, has equitable access to resources, love, and justice, and nobody has to ask for permission to smile.
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
  [4]: /2012/05/what-does-the-asterisk-in-trans-stand-for/ "What does the asterisk in “trans*” stand for?"

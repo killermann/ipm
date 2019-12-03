@@ -6,19 +6,34 @@ date: 2012-05-10T21:10:08+00:00
 excerpt: "Did that title irk you a bit? Perfect. We're off to a good start."
 url: /2012/05/5-reasons-my-approach-to-social-justice-work-is-better-than-yours/
 featured_image: /wp-content/uploads/2012/05/knowledge-grenades.jpg
-thesis_title:
-  - 5 Best Practices for Approaching Social Justice and Ally Work
-thesis_description:
-  - 'A lot of folks have good hearts and want to work for equality, be it for LGBT+ people, people of color, or any other targeted group.  Here are some suggestions to help.'
-thesis_keywords:
-  - how to be a social justice advocate, best practices, equity, equality, lgbt, trans, gay, ally
-dsq_thread_id:
-  - 684660437
-algolia_searchable_posts_records_count:
-  - 5
-sections:
-  - 'Articles &amp; Books'
-
+categories: 
+  # - Gender
+  # - Sexuality
+   - Social Justice
+tags:
+   - Activism
+  # - Allyship
+  # - Being Inclusive
+   - Education
+   - Guide to Gender
+  # - LGBTQ
+  # - LGB
+  # - Trans
+   - How-To
+  # - Humor
+  # - Identity
+   - List
+  # - Privilege
+   - Rant
+  # - Religion
+  # - Replies
+  # - Start Here
+  # - Shorties
+  # - Social Justice Dogma
+  # - Terminology
+  # - Public Thinking
+  # - TMI
+accolades: Sensation
 ---
 The way I approach social justice and ally work on this site and <a title="A show about snap judgments, identity, and oppression." href="/a-show-about-snap-judgments-identity-and-oppression/" target="_blank">in my show</a> has a distinct flavor.  Some would call it sweet, but I think <a title="The Genderbread Person v2.0" href="/2012/03/the-genderbread-person-v2-0/" target="_blank">ginger</a> is a bit spicy.
 
@@ -28,15 +43,7 @@ I don&#8217;t often do things by accident, and in this case it is very _on purpo
 
 ### 1. I try not to talk down to people
 
-<aside class="heyHeyLook g2g2"> 
-            [ 
-            ![A Guide to Gender 2nd Edition by Sam Killermann][1]][2]{.image} 
-
-<div class="aside--text">
-  <p>
-    <strong>The post you're reading right now</strong> is included in my book, <em>A Guide to Gender</em>. You can get the 2nd Edition now (and read the expanded version of this post):<br /> <a href="https://amzn.to/2li0YWS" alt="Get A Guide to Gender 2nd Edition Paperback">Paperback</a> <a href="https://amzn.to/2li3Pzn" alt="Get A Guide to Gender 2nd Edition Kindle">Kindle</a> <a href="https://gum.co/g2g2" alt="Get A Guide to Gender 2nd Edition PDF">.PDF (pay-what-you-want/can) </a>
-  </p>
-</div></aside>Did the title of this article irk you a bit?  It likely did.  How could I possibly know that my approach is better than yours?  I don&#8217;t know you. I don&#8217;t know your experiences. Nor do I know your dispositions.  
+Did the title of this article irk you a bit?  It likely did.  How could I possibly know that my approach is better than yours?  I don&#8217;t know you. I don&#8217;t know your experiences. Nor do I know your dispositions.  
 
 **I can&#8217;t know my approach is better**, so why would I start the conversation out that way?  Unfortunately, a lot of folks I&#8217;ve seen trying to do good start things out this way.
 
@@ -63,6 +70,8 @@ All of the graphics and articles I create here are created with a particular kno
   * Figure out _where_ they are (see #1 above).
   * Be patient and don&#8217;t skip steps.  People may fake understanding if you go too fast, and that doesn&#8217;t help anyone.
   * Think about where you were when you first confronted these issues.
+
+{{< heyheylook >}}
 
 ### 3. I try not to be overbearing or aggravating
 

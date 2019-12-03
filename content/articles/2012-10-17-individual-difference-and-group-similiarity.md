@@ -30,6 +30,7 @@ tags:
   # - Terminology
    - Public Thinking
   # - TMI
+accolades: Sensation
 ---
 In doing the work I do, I often find myself struggling to help people make sense of the two extremes of identity: on one side we have the idea that people in a group are all the same (stereotypes); while the other side supports this idea that everyone is absolutely unique (snowflakes).
 
@@ -39,7 +40,7 @@ I find myself saying &#8220;we&#8217;re not the same, but we&#8217;re also not t
 
 ## The Snowflake vs. The Stereotype
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 You have been told all your life that you&#8217;re unique, you&#8217;re special, like a snowflake.  Nobody is like you, you&#8217;re one in 7 billion (or one in 108 billion, an estimated total number of humans ever, if you want to get technical), and nobody can take that away from you.
 

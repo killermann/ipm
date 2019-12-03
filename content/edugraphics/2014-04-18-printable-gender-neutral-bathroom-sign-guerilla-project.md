@@ -35,6 +35,7 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
+accolades: Sensation
 ---
 <address>
   This sign has now officially <a title="How the Gender Neutral Bathroom Sign I Made is Being Manufactured and Donated to Colleges" href="/2014/07/how-the-gender-neutral-bathroom-sign-i-made-is-being-manufactured-and-donated-to-colleges/">become a thing</a>! Thanks for playing along

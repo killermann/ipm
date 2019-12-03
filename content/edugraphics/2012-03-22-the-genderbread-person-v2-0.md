@@ -34,6 +34,7 @@ tags:
   # - Terminology
    - Public Thinking
   # - TMI
+accolades: Greatest Hit
 ---
 <address>
   <strong>Heads up!</strong> I wrote a book all about gender that builds on the &#8220;-ness&#8221; concepts I introduced with this Genderbread Person. If you appreciate this, <a title="Guide to Gender" href="http://guidetogender.com" target="_blank">you&#8217;ll love this book</a>.
@@ -53,7 +54,7 @@ I would really like to see this model replace all instances of the old one.  It
 
 Men are from Mars and women are from Venus is a funny expression (and scientifically dubious), but it actually nails down the strength of this model.  Two planets, not two poles of one planet.  Placing man/masculine/male on one end of something (continuum, 2D plot, etc.) and woman/feminine/female on the other (as I did with the old model) creates and reinforces a fallacy central to gender _mis_understanding: to be more of one, you need to be less of the other.  That&#8217;s incorrect.  You can have both.  You can have your genderbread and eat it, too.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
 ### More inclusive

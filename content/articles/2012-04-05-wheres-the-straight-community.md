@@ -28,7 +28,7 @@ Most people would argue that gay sex is even more taboo than straight sex.  But
 
 ### Where are the positive straight celebrity role models?
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
 You might have in your mind examples of positive celeb role models and be thinking _Sam, you&#8217;re on crack.  There are WAY more straight celebrity role models_.  There are a ton of positive role models who _are_ straight, absolutely, but I can&#8217;t think of any who focus on their straight identity as a way to connect with straight youth.  At most, it&#8217;s an afterthought.

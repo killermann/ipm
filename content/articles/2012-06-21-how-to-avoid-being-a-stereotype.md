@@ -33,6 +33,7 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
+accolades: Sensation
 ---
 You want to be seen as an individual, right?  Of course you do.  But it&#8217;s bordering on impossible to avoid perpetuating at least some of the stereotypes attached to the various aspects of your identity.  There are just too many of them!
 

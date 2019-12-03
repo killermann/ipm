@@ -30,7 +30,7 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
-
+accolades: Greatest Hit
 ---
 Following is a list of middle-to-upper class privileges.  If you are a member of the middle class or upper class economic groups (or, in some cases, perceived to be) listed below are benefits that may be granted to you based on your group membership &#8212; benefits not granted to folks in the lower classes.
 

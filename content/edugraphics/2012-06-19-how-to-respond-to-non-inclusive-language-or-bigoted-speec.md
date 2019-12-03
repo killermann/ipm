@@ -15,11 +15,12 @@ tags:
   # - Allyship
   # - Being Inclusive
    - Education
-  # - Guide to Gender
+   - Guide to Gender
   # - LGBTQ
   # - LGB
   # - Trans
    - How-To
+   - Humor
   # - Identity
   # - List
   # - Privilege
@@ -31,6 +32,7 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
+accolades: Sensation
 ---
 <a title="Why your intentions don’t really matter, but outcomes do" href="/2012/04/why-your-intentions-dont-matter-victim-blaming-and-political-correctness/" target="_blank">Intentions don&#8217;t matter, outcomes do</a>.  However, I still think we need to do a much better job of being supportive of newcomers to the social justice &#8220;scene&#8221; who may be well-intended, but don&#8217;t quite know the ropes yet.  
 

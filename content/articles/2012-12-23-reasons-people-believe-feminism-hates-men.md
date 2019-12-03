@@ -15,7 +15,7 @@ tags:
   # - Allyship
   # - Being Inclusive
   # - Education
-  # - Guide to Gender
+   - Guide to Gender
   # - LGBTQ
   # - LGB
   # - Trans
@@ -30,10 +30,8 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
+accolades: GOAT
 ---
-<address>
-  I originally wrote the following article for <em>Everyday Feminism</em>. You can view that <a title="Why So Many People Think Feminism Hates Men" href="http://everydayfeminism.com/2012/12/6-reasons-why-so-many-people-believe-feminism-hates-men/" target="_blank" rel="noopener">here</a>.
-</address>
 
 “The feminist agenda is not about equal rights for women. It is about a socialist, anti-family political movement that encourages women to leave their husbands, kill their children, practice witchcraft, destroy capitalism, and become lesbians.”
 
@@ -53,15 +51,7 @@ In 30 seconds on Google, I found [this article][2] (first page of my first sea
 
 You don’t have to look very hard to find examples of “feminists” who hate men.
 
-<aside class="heyHeyLook g2g2"> 
-            [ 
-            ![A Guide to Gender 2nd Edition by Sam Killermann][4]][5]{.image} 
-
-<div class="aside--text">
-  <p>
-    <strong>The post you're reading right now</strong> is included in my book, <em>A Guide to Gender</em>. You can get the 2nd Edition now (and read the expanded version of this post):<br /> <a href="https://amzn.to/2li0YWS" alt="Get A Guide to Gender 2nd Edition Paperback">Paperback</a> <a href="https://amzn.to/2li3Pzn" alt="Get A Guide to Gender 2nd Edition Kindle">Kindle</a> <a href="https://gum.co/g2g2" alt="Get A Guide to Gender 2nd Edition PDF">.PDF (pay-what-you-want/can) </a>
-  </p>
-</div></aside>
+{{< heyheylook >}}
 
 ### But there’s a difference between “feminists” and “misandrists.”
 
@@ -115,21 +105,11 @@ Oh wait.
 
 Let me bust a few myths.
 
-<li dir="ltr">
-  <strong>Being a feminist doesn’t mean you believe “all men are rapists.”</strong>  This quote comes from a book by Marilyn French and it seems to be recited more by anti-feminists (as a means of debunking feminism) than feminists themselves.  It’s simply a ridiculous statement that’s been given a ridiculous amount of airtime.
-</li>
+1. <strong>Being a feminist doesn’t mean you believe “all men are rapists.”</strong>  This quote comes from a book by Marilyn French and it seems to be recited more by anti-feminists (as a means of debunking feminism) than feminists themselves.  It’s simply a ridiculous statement that’s been given a ridiculous amount of airtime.
 
-<ol start="2">
-  <li dir="ltr">
-    <strong>Being a feminist doesn’t mean you think all men are evil.</strong>  Following up on the last point, a lot of anti-feminist folks make the argument that feminists believe all men are evil.  This is not true.
-  </li>
-</ol>
+2. <strong>Being a feminist doesn’t mean you think all men are evil.</strong>  Following up on the last point, a lot of anti-feminist folks make the argument that feminists believe all men are evil.  This is not true.
 
-<ol start="3">
-  <li dir="ltr">
-    <strong>Being a feminist doesn’t mean you blame every individual man you know for hundreds of years of oppressive behavior.</strong>  Just like you wouldn’t point at a random White person today and blame them for slavery, you can’t blame an individual man today for a history of sexism.
-  </li>
-</ol>
+3. <strong>Being a feminist doesn’t mean you blame every individual man you know for hundreds of years of oppressive behavior.</strong>  Just like you wouldn’t point at a random White person today and blame them for slavery, you can’t blame an individual man today for a history of sexism.
 
 A lot of people think about the things above, think about the men they know (or, if they are men, they think about themselves), and think “That’s ridiculous, \____ isn’t an evil rapist who is responsible for hundreds of years of sexism.”
 
@@ -147,17 +127,7 @@ That’s why we need to do a better job as a society to teach people how to trea
 
 ## #4 Because Some Feminists Aren’t Willing To Address Men’s Issues (Though Some Are)
 
-<aside class="heyHeyLook g2g2"> 
-            [ 
-            ![A Guide to Gender 2nd Edition by Sam Killermann][4]][5]{.image} 
-
-<div class="aside--text">
-  <p>
-    <strong>The post you're reading right now</strong> is included in my book, <em>A Guide to Gender</em>. You can get the 2nd Edition now (and read the expanded version of this post):<br /> <a href="https://amzn.to/2li0YWS" alt="Get A Guide to Gender 2nd Edition Paperback">Paperback</a> <a href="https://amzn.to/2li3Pzn" alt="Get A Guide to Gender 2nd Edition Kindle">Kindle</a> <a href="https://gum.co/g2g2" alt="Get A Guide to Gender 2nd Edition PDF">.PDF (pay-what-you-want/can) </a>
-  </p>
-</div></aside>Working towards gender equity means equity for 
-
-_all_ genders, right?  Then what about men?  And what about trans\* folks?  This is a question that often gets raised by men (about men, not as much for trans\* folk).
+{{< heyheylook >}}Working towards gender equity means equity for _all_ genders, right?  Then what about men?  And what about trans\* folks?  This is a question that often gets raised by men (about men, not as much for trans\* folk).
 
 Feminism in general has mixed feelings about addressing men’s (and trans*) issues.
 
@@ -216,6 +186,10 @@ Do you use it to make for a more equitable society for <del>mothers, sisters, an
 Or do you keep whining about how feminists hate men and distracting yourself and others from serious issues of inequality?
 
 Your call.
+
+<address>
+  I originally wrote the following article for <em>Everyday Feminism</em>. You can view that <a title="Why So Many People Think Feminism Hates Men" href="http://everydayfeminism.com/2012/12/6-reasons-why-so-many-people-believe-feminism-hates-men/" target="_blank" rel="noopener">here</a>.
+</address>
 
  [1]: http://everydayfeminism.com/2012/07/feminist-myths/ "How Most Things You Know About Feminists Are Vicious Conservative Lies"
  [2]: http://rageagainstthemanchine.com/2009/07/05/why-i-hate-men-part-1-and-then-it-hit-me/

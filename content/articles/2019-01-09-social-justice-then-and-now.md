@@ -83,7 +83,7 @@ For me, one step forward I am taking is to stop performing the [comedy show][1],
 
 It doesn&#8217;t make sense to keep doing a show I was doing 8 years ago. Before people knew what &#8220;social justice&#8221; was. Before Social Justice, Inc. Before [Social Justice Dogma][6].
 
-Even if it&#8217;s easier to do the show now than ever. Even if it&#8217;s terrifying to cut a new trail. Actually, maybe, probably &#8212; no &#8212; _especially_ because of those things.<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+Even if it&#8217;s easier to do the show now than ever. Even if it&#8217;s terrifying to cut a new trail. Actually, maybe, probably &#8212; no &#8212; _especially_ because of those things.{{< heyheylook >}}
  
 But other things make more sense than ever, like [uncopyrighting][7] my work, and [keeping it freely available][4]. Of course accessibility still makes sense, because it&#8217;s core to social justice. So that won&#8217;t change.
 

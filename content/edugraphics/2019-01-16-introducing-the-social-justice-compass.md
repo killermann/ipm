@@ -194,7 +194,7 @@ _Don&#8217;t stop there! Come up with your own guiding questions! The questions 
 
 The Social Justice Compass isn&#8217;t meant to replace all the tools on your belt. Instead, it works really well as a complement to what a lot of us are already working with.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 But I&#8217;m sure you already figured that out &#8212; you&#8217;re so smart! (Sorry to be a complimentary tool.)
 

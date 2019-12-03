@@ -48,7 +48,7 @@ It&#8217;s amazing how gendered toys are.  If you see an action figure, you thi
 
 In releasing the LadyFigs and beginning a &#8220;LEGO for Girls&#8221; (my name, not theirs) ad campaign, LEGO has stated that they want to open up the product to the other 50% of the world.  Hey, LEGO, in case you didn&#8217;t know, your products have always been open to 100% of the population &#8211; the same 100% of the population you&#8217;re now alienating by taking such a 60s approach to reinforcing stale, unhealthy gender roles.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 **Update:** When I wrote this article, a petition was active on <a title="Change.org" href="http://www.change.org/petitions/tell-lego-to-stop-selling-out-girls-liberatelegos" target="_blank">Change.org</a>.  Part of my goal in writing it was to help convince folks to sign the petition using my top 10 frustrations with this campaign:
 

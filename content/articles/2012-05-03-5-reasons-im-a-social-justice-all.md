@@ -26,7 +26,7 @@ My answer is different every time, because it&#8217;s hard for me to get down to
 
 ### 1. Because I love my neighbor
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
 And I feel that love most when it hurts my heart.  I&#8217;m sure you can relate, thinking about someone you love in duress &#8212; it amplifies your emotions.  This often happens when I read about people who are being attacked because of one aspect of their identity.  And it makes me desperately want to live in a world where people can feel safe and included, regardless of their identity.  That&#8217;s why I&#8217;m a social justice advocate.
@@ -57,10 +57,10 @@ I was riding through downtown Austin with my partner and I saw a PETA bumper sti
 
 ### 5. Because achieving social justice would help me, too
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 Five is a good round number, so I want to end with the item that is the most obvious to me, but apparently (due to the constant questioning) just me.  Helping to make the world safer, more equitable, and more inclusive of all identities is incredibly beneficial to me, even with my super-privileged straight-ness, White-ness, and man-ness.  And I&#8217;m not talking about some hokey-pokey altruistic you feel better I feel better hippie nonsense (at least not right now).  I&#8217;m talking cold, hard, selfish, screw-you-I-want-my-cake-and-I&#8217;m-going-to-eat-it-too better.
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
 

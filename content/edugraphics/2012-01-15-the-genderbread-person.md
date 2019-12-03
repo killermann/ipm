@@ -34,6 +34,7 @@ tags:
   # - Terminology
    - Public Thinking
   # - TMI
+accolades: Bona Fide Hit
 ---
 <address class="focus">
   Please <a title="The Genderbread Person v2.0" href="/2012/03/the-genderbread-person-v2-0/">check out the new-and-improved Genderbread Person v2.0.</a>  It&#8217;s a heckuvalot better and just as free to share/print! I&#8217;m leaving this up for now for those who want it, but I&#8217;m no longer endorsing it as <em>the</em> effective model.
@@ -43,7 +44,7 @@ The Genderbread Person is an infographic that breaks down gender identity, gende
 
 It&#8217;s been around in some form for many years, and this is my whack at making an inclusive, adorable, easy to understand depiction. **Click below to download a printer-friendly copy for your own uses!**
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 It&#8217;s perfect for residence hall billboards, school hallways, campus kiosks, office walls, or to be used in diversity/social justice/sensitivity training. Leave a comment and let us know how you&#8217;re using it!
 

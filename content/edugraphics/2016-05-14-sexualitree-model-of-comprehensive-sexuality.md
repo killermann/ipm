@@ -38,7 +38,7 @@ Sexuality is a touchy subject. For example, just that opening joke might have be
 
 So, to get to the root of what we mean when we say &#8220;sexuality,&#8221; I&#8217;m happy to introduce you to the **[Sexualitree][1]**. (Also, I promise I&#8217;m done with the puns. _I. Can. Resist._)
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 [**The Sexualitree**][1] is a model that can help us see the different ways we experience (or don&#8217;t experience) sexuality. Sexuality is something that affects us all on different levels, and something we experience personally, individually, and uniquely. To understand how this works, it&#8217;s helpful to unpack the three distinct levels (intimate, relational, and cultural) that the myriad elements of sexuality (e.g., abstinence, body image, and consent, to name a few) affect us on &#8212; we&#8217;ll dig into all of this shortly, but first a little background.
 

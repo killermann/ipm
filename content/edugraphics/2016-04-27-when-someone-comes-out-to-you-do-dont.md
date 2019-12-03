@@ -41,7 +41,7 @@ In one of the first safe zone trainings I remember participating in, there was a
 
 And the facilitator&#8217;s answer elegantly touched on three different ideas: (1) that coming out is a personal decision; (2) there isn&#8217;t only one closet; and (3) it&#8217;s difficult to gauge how people might respond to the coming-out-er, so sometimes the risk of a bad response doesn&#8217;t outweigh the gain of a positive one.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 &#8220;Coming out&#8221; is a multi-faceted experience and decision. The facilitator&#8217;s response took a question that was aiming for a simple answer &#8212; a question rooted in an overly (and harmfully) simplistic understanding of a complicated subject &#8212; and redirected it to address the nuance it deserved.
 

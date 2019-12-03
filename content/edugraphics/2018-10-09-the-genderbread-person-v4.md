@@ -34,6 +34,7 @@ tags:
   # - Terminology
    - Public Thinking
   # - TMI
+accolades: Rising Star
 ---
 A few hundred workshops, three years, and one [book edition][1] later, I&#8217;m happy to finally publish here my 4th version of the [Genderbread Person][2]. Check it out, download it, and share it with your educator friend who is still using [v3.x][3]&nbsp;and say &#8220;well, actually&#8230;&#8221;
 
@@ -59,7 +60,7 @@ This also allows for easy top-to-bottom, left-to-right reading/facilitating. The
 
 ### Sex Assigned at Birth AND Anatomical Sex
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 A lot of people have been pushing for me to remove the anatomical sex continua and reference sex assigned at birth (SAAB) only. Others really find the benefit of discussing the variations of anatomical sex using continua, and have argued for that for years.
 

@@ -14,7 +14,7 @@
 <div id="share-count">
   <span>Almost</span> <a href="#share" title="Share">50K</a> <span>Shares</span>
 </div>
-{{ else if eq .Params.accolades "Bona-Fide Hit" }}
+{{ else if eq .Params.accolades "Bona Fide Hit" }}
 <div id="share-count">
   <span>Almost</span> <a href="#share" title="Share">100K</a> <span>Shares</span>
 </div>
@@ -25,5 +25,9 @@
 {{ else if eq .Params.accolades "GOAT" }}
 <div id="share-count">
   <span>Over</span> <a href="#share" title="Share">500K</a> <span>Shares</span>
+</div>
+{{ else }}
+<div id="share-count">
+  <a href="#share" title="Share">{{ .Params.accolades }}</a>
 </div>
 {{ end }}

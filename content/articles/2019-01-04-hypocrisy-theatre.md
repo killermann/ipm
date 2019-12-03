@@ -123,7 +123,7 @@ If it doesn&#8217;t work, why are so many people doing it, all the time?
 
 And why am I constantly feeling the urge to do it, too? To put on a little showing of Hypocrisy Theatre in my Facebook feed.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
   * It makes us feel good, right, better, smarter, truer, morally superior &#8212; as compared to &#8220;them&#8221; (whoever isn&#8217;t us);

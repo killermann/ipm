@@ -24,7 +24,7 @@ I made this [graphic][1] about a month ago, made a [printer-friendly][2] version
 
 **The Genderbread Person I created is far from perfect.**
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 I sought to improve upon previous versions, and though I did so, there&#8217;s still a lot of room for improvement, particularly in the area of sexual orientation.  I&#8217;ve received hundreds of comments, emails, and DMs to the effect of &#8220;it&#8217;s great, other than the sexual orientation part&#8221;, but not too many provide a working solution.
 

@@ -16,21 +16,12 @@ algolia_searchable_posts_records_count:
   - 4
 sections:
   - 'Articles &amp; Books'
-
+accolades: Bona Fide Hit
 ---
-[<img class="alignnone size-full wp-image-1368 lazy-load" title="&quot;Black and Gay&quot; Comic" data-src="/wp-content/uploads/2012/04/black-and-gay-comic.jpg" alt="&quot;Black and Gay&quot; Comic" width="950" height="633" data-srcset="/wp-content/uploads/2012/04/black-and-gay-comic.jpg 950w, /wp-content/uploads/2012/04/black-and-gay-comic-300x199.jpg 300w" sizes="(max-width: 950px) 100vw, 950px" />][1]
 
 In <a title="A show about snap judgments, identity, and oppression." href="/a-show-about-snap-judgments-identity-and-oppression/" target="_blank">my show</a>, I address the issue of positive stereotypes head-on, but I wanted to write an article about it as well.  For those of you unaware, positive stereotypes are assumptions about an entire group or identity (e.g., gay men) that are considered to be &#8220;good.&#8221;  Some examples of positive stereotypes of gay men: they are artsy, friendly, fun, social, well-spoken, well-dressed, well-groomed, fit, and sassy (I think sassy is positive).  The list goes on.  Those are all good things, yeah?  There can&#8217;t be any harm in perpetuating those stereotypes, right?
 
-<aside class="heyHeyLook g2g2"> 
-            [ 
-            ![A Guide to Gender 2nd Edition by Sam Killermann][2]][3]{.image} 
-
-<div class="aside--text">
-  <p>
-    <strong>The post you're reading right now</strong> is included in my book, <em>A Guide to Gender</em>. You can get the 2nd Edition now (and read the expanded version of this post):<br /> <a href="https://amzn.to/2li0YWS" alt="Get A Guide to Gender 2nd Edition Paperback">Paperback</a> <a href="https://amzn.to/2li3Pzn" alt="Get A Guide to Gender 2nd Edition Kindle">Kindle</a> <a href="https://gum.co/g2g2" alt="Get A Guide to Gender 2nd Edition PDF">.PDF (pay-what-you-want/can) </a>
-  </p>
-</div></aside>Wrong.
+Wrong.
 
 Positive stereotypes exist for just about every identity and have the capacity to be just as damaging as the negative ones.  Don&#8217;t believe me?  Read this list of reasons why and get back to me afterward.  Oh, and if you have any additional examples, as always, share them in the comments below.
 
@@ -50,6 +41,8 @@ You&#8217;ve heard that Asian people are good at math, right?  Well, tell an As
 
 <a title="http://pss.sagepub.com/content/11/5/399.short" href="http://pss.sagepub.com/content/11/5/399.short" target="_blank">Research</a> has shown that perceived positive stereotypes, when brought into the forefront of an individual&#8217;s mind, can actually make them do worse at the thing they are supposed to be able to do better.  In the article I linked, the researchers made Asian-American women explicitly aware of their ethnicity (and the expectations attached to it) right before testing their math skills, and saw that they were more likely to collapse under the pressure and do poorly in the test.
 
+{{< heyheylook >}}
+
 **Lesson learned:** if you find yourself in the <a title="Cash Cab!  PLEASE LET ME ON YOUR SHOW!" href="http://dsc.discovery.com/tv/cash-cab/" target="_blank">Cash Cab</a> and a math question comes up, &#8220;Dude, you&#8217;re Asian, of course you know the answer,&#8221; might not be the most effective pep talk.  (But tag me in.  Six words: Math Bowl, 8th Grade, First Place.)
 
 ### 3. Positive stereotypes can be alienating and depressing to individual&#8217;s who are _supposed_ to possess them, but don&#8217;t
@@ -68,15 +61,7 @@ This can be applied to just about any group membership that carries with it posi
 
 I&#8217;ve noticed that we&#8217;ve gotten to the point where, in most cases, people aren&#8217;t flinging around negative stereotypes that often.  Unless you&#8217;re hanging out with racists.  But the people who are up for leading the fight against prejudice seem to be completely okay with reinforcing positive stereotypes, because, as I said before, &#8220;what&#8217;s the harm?&#8221;   Well, now you know.
 
-<aside class="heyHeyLook g2g2"> 
-            [ 
-            ![A Guide to Gender 2nd Edition by Sam Killermann][2]][3]{.image} 
-
-<div class="aside--text">
-  <p>
-    <strong>The post you're reading right now</strong> is included in my book, <em>A Guide to Gender</em>. You can get the 2nd Edition now (and read the expanded version of this post):<br /> <a href="https://amzn.to/2li0YWS" alt="Get A Guide to Gender 2nd Edition Paperback">Paperback</a> <a href="https://amzn.to/2li3Pzn" alt="Get A Guide to Gender 2nd Edition Kindle">Kindle</a> <a href="https://gum.co/g2g2" alt="Get A Guide to Gender 2nd Edition PDF">.PDF (pay-what-you-want/can) </a>
-  </p>
-</div></aside>The next time you&#8217;re hanging with a friend and they say &#8220;gay men are so fashionable&#8221; (heard it twice this week, once from a gay man), or anything of the like, let them know that can be just as damaging as &#8220;gay men are so child molesty&#8221; (only heard this once, in my life).  If you don&#8217;t feel up to the challenge, shoot &#8217;em a link to this article.
+The next time you&#8217;re hanging with a friend and they say &#8220;gay men are so fashionable&#8221; (heard it twice this week, once from a gay man), or anything of the like, let them know that can be just as damaging as &#8220;gay men are so child molesty&#8221; (only heard this once, in my life).  If you don&#8217;t feel up to the challenge, shoot &#8217;em a link to this article.
 
 Passive aggressiveness is a trait that crosses all identity lines and group memberships 🙂
 

@@ -15,7 +15,7 @@ tags:
   # - Allyship
    - Being Inclusive
    - Education
-  # - Guide to Gender
+   - Guide to Gender
   # - LGBTQ
   # - LGB
   # - Trans
@@ -32,12 +32,13 @@ tags:
    - Terminology
   # - Public Thinking
   # - TMI
+accolades: Sensation
 ---
 With all the talk of <a title="Same-sex marriage opinions not reflected in votes" href="http://www.google.com/hostednews/ap/article/ALeqM5jJxvV4Zf2bjFKulWJFJbzIayelkw?docId=63af4efb5d434e8e9f481348391668fd" target="_blank">marriage equality</a>, <a title="Gay Xmen Wedding" href="http://www.rollingstone.com/culture/news/marvel-comics-hosts-first-gay-wedding-in-astonishing-x-men-20120522" target="_blank">gay comic book weddings</a>, and <a title="Even better flowchart: when it’s okay to say “gay”" href="/2012/04/even-better-flowchart-when-its-okay-to-say-gay/" target="_blank">even gayer flowcharts</a> flowing around the web, people are getting ever more sensitive about using inclusive language when they can.
 
 **That&#8217;s great!**  But more often than ever I am hearing folks use the term &#8220;non-straight&#8221; to refer to people who are lesbian, gay, bi-, pan- or even trans*.  That&#8217;s not so great.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
 (Psst&#8230; you can also replace &#8220;non-straight&#8221; with &#8220;non-white&#8221; or other &#8220;non-[insert dominant group here]&#8221; labels people often use)

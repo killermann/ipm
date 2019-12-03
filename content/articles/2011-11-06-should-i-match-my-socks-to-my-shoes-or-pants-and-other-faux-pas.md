@@ -6,17 +6,34 @@ draft: true
 date: 2011-11-06T22:14:03+00:00
 url: /2011/11/should-i-match-my-socks-to-my-shoes-or-pants-and-other-faux-pas/
 featured_image: /wp-content/uploads/2011/11/avoid-white-socks.jpg
-thesis_title:
-  - 'Should I match my socks to my pants, or my shoes?  This and other faux pas.'
-thesis_description:
-  - "Responses to many of the fashion faux pas men make on a daily basis.  A great starting point for pretending you know what you're doing."
-thesis_keywords:
-  - socks, shoes, pants, mens, fashion, tips, style, man, male, metrosexual, metro
-dsq_thread_id:
-  - 465830584
-sections:
-  - 'Articles &amp; Books'
-
+categories: 
+  # - Gender
+  # - Sexuality
+  # - Social Justice
+tags:
+  # - Activism
+  # - Allyship
+  # - Being Inclusive
+  # - Education
+  # - Guide to Gender
+  # - LGBTQ
+  # - LGB
+  # - Trans
+  # - How-To
+   - Humor
+  # - Identity
+  # - List
+  # - Privilege
+   - Rant
+  # - Religion
+  # - Replies
+  # - Start Here
+  # - Shorties
+  # - Social Justice Dogma
+  # - Terminology
+  # - Public Thinking
+  # - TMI
+accolades: Rising Star
 ---
 Are you planning on going jogging soon? Do you have an appointment with your personal trainer later? Are you filming a <a title="Hanes Paste Commercial" href="http://www.youtube.com/watch?v=eTpG37OvjFs" target="_blank">Hanes commercial</a> later?  If the answer to all of these questions is no, then you have no business wearing white socks.  Let&#8217;s talk about about socks, and other common, but easily avoidable fashion faux pas men seem so intent on committing. <!--more-->
 

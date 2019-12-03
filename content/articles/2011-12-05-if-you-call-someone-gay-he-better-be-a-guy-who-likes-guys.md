@@ -33,6 +33,7 @@ tags:
    - Terminology
   # - Public Thinking
   # - TMI
+accolades: Sensation
 ---
 <div class="focus">
   View this article in handy <a title="When to use the word “gay” [PRINT]" href="/2012/02/when-to-use-the-word-gay-print/">printable graphic</a> form if you don&#8217;t feel up to reading 400 words.
@@ -40,7 +41,7 @@ tags:
 
 Gay isn&#8217;t a bad word, assuming you&#8217;re using it to describe a man who is attracted (physically, spiritually, and emotionally) to other men, (depending on label preference) a woman who is attracted to women, or anyone else who self-identifies as gay.  In that case, feel comfortable using the word gay.  But that&#8217;s the extent of it.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 Gay has been turned into a bad word by people who have chosen to use it as an insult.  &#8220;Gay&#8221; is often used in exchange for &#8220;stupid&#8221;, &#8220;annoying&#8221;, &#8220;girly&#8221;, and &#8220;[any other negative word]&#8221;.  It&#8217;s become so common, in fact, that people will call something gay without even realizing the word is normally attached to sexuality, which is something a car, no matter how &#8220;gay&#8221; you might think it is, cannot be associated with.
 

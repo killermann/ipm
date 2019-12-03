@@ -34,6 +34,7 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
+accolades: GOAT
 ---
 <address class="focus">
   <strong>Update:</strong> <a title="The Genderbread Person v4" href="/2018/10/the-genderbread-person-v4/">View my newest version of the Genderbread Person, version 4 here.</a>  It&#8217;s a heckuvalot better and just as free to use however you&#8217;d like! And here is the <a href="/genderbread-person/">Genderbread Person page</a> with downloads and all versions.
@@ -55,7 +56,7 @@ Now let&#8217;s talk about it.
 
 As you&#8217;ll see above, we have four elements.  I will break those down, but first I want to talk in generalities.  First of all, if you noticed that the first three categories all pertain to gender, while the fourth pertains to sexuality, great job.  Skip ahead to the next paragraph.  For everyone else: if that doesn&#8217;t make sense to you, or you&#8217;re unsure of how all four interrelate, worry not.  By the end of this post it&#8217;ll all make sense or you can have your money back.  And if you never gave me money, give me money.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 Whenever I talk to groups about gender, a common problem arises: people tend to assume that someone has to be on either the left half or the right half of all the continuums above, and when I explain that many people zig zag through the list, they give me blank stares.  I&#8217;m about to say something that will likely freak you out, but be cool, because it&#8217;ll all make sense soon.  **Gender identity, gender expression, biological sex, and sexual orientation are independent of one another (i.e., they are not connected).  **With that said (I&#8217;m going to say it again later), let&#8217;s move on.
 
@@ -274,7 +275,7 @@ For example, someone can be born with the appearance of being male (penis, scrot
 
 _On the left we have &#8220;heterosexual,&#8221; meaning attracted to people of the opposite sex, or being straight.  On the right we have &#8220;homosexual,&#8221; meaning attracted to people of the same sex, or being gay or lesbian.  And in the middle we have bisexual, meaning attracted to people of both sexes.  Note: there is no place on the scale for &#8220;asexual&#8221;, which is the lack of sexual attraction to others, as it doesn&#8217;t fit into this continuum._
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 Sexual orientation is all about who you are physically, spiritually, and emotionally attracted to.  If you are male and you&#8217;re attracted to females, you&#8217;re straight.  If you&#8217;re a male who is attracted to males and females, you&#8217;re bisexual.  And if you&#8217;re a male who is attracted to males, you&#8217;re gay.  This is the one most of us know the most about.  We hear the most about it, it&#8217;s salient in our lives, and we understand where we stand best.  It&#8217;s pretty cut and dry, right?  Maybe.
 

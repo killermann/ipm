@@ -6,13 +6,34 @@ date: 2014-04-22T19:59:35+00:00
 excerpt: "Follow along on my personal blog for updates, and reach out if you're in the area."
 url: /2014/04/sam-killermann-in-cairo/
 featured_image: /wp-content/uploads/2014/04/austin-to-cairo-sam-killermann-june.jpg
-dsq_thread_id:
-  - 2631270899
-thesis_title:
-  - Sam Killermann is heading to Cairo for June 2014. Wanna be his friend?
-sections:
-  - News
-
+categories: 
+  # - Gender
+  # - Sexuality
+  # - Social Justice
+  - The Site
+tags:
+  # - Activism
+  # - Allyship
+  # - Being Inclusive
+  # - Education
+  # - Guide to Gender
+  # - LGBTQ
+  # - LGB
+  # - Trans
+  # - How-To
+  # - Humor
+  # - Identity
+  # - List
+  # - Privilege
+  # - Rant
+  # - Religion
+  # - Replies
+  # - Start Here
+  # - Shorties
+  # - Social Justice Dogma
+  # - Terminology
+  # - Public Thinking
+   - TMI
 ---
 Hey y&#8217;all!
 

@@ -31,6 +31,7 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
+accolades: Greatest Hit
 ---
 <address>
   <strong>Update: </strong>get involved in this <strong><a title="Let’s art: Printable Gender Neutral Bathroom Sign Guerilla Project" href="/2014/04/lets-art-printable-gender-neutral-bathroom-sign-guerilla-project/">simple guerilla activism project</a> </strong>I started based on the reaction to this graphic. <strong>DOUBLE UPDATE:</strong> this is now <a title="How the Gender Neutral Bathroom Sign I Made is Being Manufactured and Donated to Colleges" href="/2014/07/how-the-gender-neutral-bathroom-sign-i-made-is-being-manufactured-and-donated-to-colleges/" target="_blank">a thing</a>!
@@ -90,7 +91,7 @@ Yes you can, Adam. We all can.
 
 Any one-person, private restroom can (and, I&#8217;d argue, should) be a gender neutral restroom. It basically already is. Use whatever sign you&#8217;d like, or just do it the British way and put W.C. on the door (I believe it stands for &#8220;Who Cares?&#8221;).
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
  [4]: /wp-content/uploads/2014/04/sign-on-doors.jpg

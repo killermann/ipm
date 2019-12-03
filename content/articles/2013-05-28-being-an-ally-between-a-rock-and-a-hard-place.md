@@ -36,7 +36,7 @@ I&#8217;m an ally. I&#8217;ve written before <a title="My Reasons for being an A
 
 I haven&#8217;t focused on this because I don&#8217;t want to scare anybody off. Allyship is a necessary ingredient in the social change gumbo: the heat. The more we have, the faster things will cook, and the sooner we can all be sittin&#8217; barefoot in my backyard slurping down delicious equity! Dang, I need a backyard.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 om-jerry" width="700" height="500" data-srcset="/wp-content/uploads/2013/05/hatemail-from-jerry.jpg 700w, /wp-content/uploads/2013/05/hatemail-from-jerry-300x214.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />][2]
 

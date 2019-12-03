@@ -102,7 +102,7 @@ If you understand what I&#8217;m getting at with any of those blurbs, then you g
 
 If you don&#8217;t, then it&#8217;s probably not a species indigenous to your sub-community within the movement, or in the type of work you&#8217;re doing. No need to worry about it. You have other elephants.
 
-The particular aspect of the dogma doesn&#8217;t matter; what matters is that we start talking about whatever is showing up, whatever rules and beliefs we&#8217;re creating and reinforcing, that might be getting in our own way.<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+The particular aspect of the dogma doesn&#8217;t matter; what matters is that we start talking about whatever is showing up, whatever rules and beliefs we&#8217;re creating and reinforcing, that might be getting in our own way.{{< heyheylook >}}
 
  
 

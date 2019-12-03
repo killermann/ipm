@@ -6,15 +6,33 @@ date: 2012-05-12T00:41:53+00:00
 draft: true
 url: /?p=1493
 featured_image: /wp-content/uploads/2012/05/help-wanted.gif
-thesis_title:
-  - "Donate to It's Pronounced Metrosexual to allow us to keep growing"
-thesis_description:
-  - "We've hit our server's limitations and need to upgrade to a fancy, expensive new solution.  We need all the help we can get."
-dsq_thread_id:
-  - 686023071
-sections:
-  - Housekeeping
-
+categories: 
+  # - Gender
+  # - Sexuality
+  # - Social Justice
+tags:
+  # - Activism
+  # - Allyship
+  # - Being Inclusive
+  # - Education
+  # - Guide to Gender
+  # - LGBTQ
+  # - LGB
+  # - Trans
+  # - How-To
+  # - Humor
+  # - Identity
+  # - List
+  # - Privilege
+  # - Rant
+  # - Religion
+  # - Replies
+  # - Start Here
+  # - Shorties
+  # - Social Justice Dogma
+  # - Terminology
+  # - Public Thinking
+  # - TMI
 ---
 <div id="attachment_1494" style="width: 310px" class="wp-caption alignright">
   <a href="/wp-content/uploads/2012/05/sam-killermann-facebook-status.jpg"><img aria-describedby="caption-attachment-1494" class="size-full wp-image-1494 lazy-load" title="Sam Killermann Facebook Status" data-src="/wp-content/uploads/2012/05/sam-killermann-facebook-status.jpg" alt="Sam Killermann Facebook Status" width="300" height="227" /></a>
@@ -40,7 +58,7 @@ Please consider a small gift to help pay for the additional bandwidth we need to
 
 ### Buying a shirt from The Metro Store
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
 

@@ -48,7 +48,7 @@ But that was all before someone shared this Silverman quote with me:
 > 
 > But yeah, no, I find marriage has a very ugly mark on it right now, and I would not want to be a part of it.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 The quote may not be anything new to you, but it perfectly describes my issues with marriage as it stands now. ** I am currently in a serious relationship, and I like the idea of making a lifelong commitment, but I don&#8217;t like the idea of drinking from a fountain that says &#8220;straights only.&#8221; **
 

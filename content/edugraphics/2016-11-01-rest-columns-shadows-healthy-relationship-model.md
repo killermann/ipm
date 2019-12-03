@@ -37,7 +37,7 @@ tags:
 ---
 It&#8217;s hard to define what a healthy relationship looks like because we all navigate relationships differently. Relationships are generally seen through the lenses of [our gender][1] as well as [our sexuality][2], but there are [many other aspects of our identity][3] that are going to inform what we see as good or bad, desirable or detestable, healthy or unhealthy.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
  It&#8217;s not as simple as &#8220;don&#8217;t be a jerk&#8221; (although that&#8217;s a great starting point).
 
@@ -115,7 +115,7 @@ Recognizing how a behavior, value, or statement appears in your relationship &#8
 
 ## <img class="aligncenter size-full wp-image-3053 lazy-load" data-src="/wp-content/uploads/2016/11/REST-shadows.jpg" alt="rest-shadows-by-sam-killermann-karen-rayne" width="900" height="225" data-srcset="/wp-content/uploads/2016/11/REST-shadows.jpg 900w, /wp-content/uploads/2016/11/REST-shadows-300x75.jpg 300w, /wp-content/uploads/2016/11/REST-shadows-768x192.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />The Makings of a Healthy Relationship
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
  So what do we do? None of the above is a blueprint; it&#8217;s more of a rubric. The idea that healthy relationships have positive manifestations of respect, equality, safety, and trust doesn&#8217;t tell you much about _how to make_ those things happen, as much as it tells you _how to gauge _what&#8217;s happening.
 

@@ -33,6 +33,7 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
+accolades: GOAT
 ---
 <address>
   <strong>Heads up!</strong>&nbsp;I wrote a book all about gender that provides tools for standing up against gender-based oppression (like the things below) and working toward a socially justice society. If you appreciate all that jazz,&nbsp;<a title="A Guide to Gender" href="http://guidetogender.com" target="_blank" rel="noopener noreferrer">you’ll love this book</a>.
@@ -78,14 +79,7 @@ Try and be more cognizant and you&#8217;ll start to realize how much work we hav
  24. Your gender is an option on a form.
  25. You can tick a box on a form without someone disagreeing and telling you not to lie.
  26. You don’t have to fear interactions with police officers due to your gender identity.
- 27. You can go places with friends on a whim knowing there will be bathrooms there you can use. <aside class="heyHeyLook g2g2"> 
-            [ 
-            ![A Guide to Gender 2nd Edition by Sam Killermann][2]][3]{.image} <div class="aside--text">
-      <p>
-        <strong>The post you're reading right now</strong> is included in my book, <em>A Guide to Gender</em>. You can get the 2nd Edition now (and read the expanded version of this post):<br /> <a href="https://amzn.to/2li0YWS" alt="Get A Guide to Gender 2nd Edition Paperback">Paperback</a> <a href="https://amzn.to/2li3Pzn" alt="Get A Guide to Gender 2nd Edition Kindle">Kindle</a> <a href="https://gum.co/g2g2" alt="Get A Guide to Gender 2nd Edition PDF">.PDF (pay-what-you-want/can) </a>
-      </p>
-    </div></aside>
-
+ 27. You can go places with friends on a whim knowing there will be bathrooms there you can use. 
  28. You don’t have to convince your parents of your true gender and/or have to earn your parents’ and siblings’ love and respect all over again because of your gender identity.
  29. You don’t have to remind your extended family over and over to use proper gender pronouns (e.g., after transitioning).
  30. You don’t have to deal with old photographs that do not reflect who you truly are.

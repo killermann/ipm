@@ -32,6 +32,7 @@ tags:
   # - Terminology
   # - Public Thinking
    - TMI
+accolades: Sensation
 ---
 I received the following email from a high school senior (we&#8217;ll call her Angie), replied to her, she appreciated the response and told me she&#8217;d be cool with me sharing it with you folks in case any one else might be able to find it useful.
 

@@ -72,7 +72,7 @@ Here are a few simple things (that may be obvious) I&#8217;ve learned from lots 
 ## RECOVERY: After the Protest
 
 
-    	** <aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+    	** {{< heyheylook >}}
 
 
 **17. If you&#8217;re not safe and sound, ask for help.** Depending on what&#8217;s happened, rely on your community, the fellow protestors, or your friends/family. The ACLU is a great resource. Just don&#8217;t feel pressured to deal with whatever happened on your own.

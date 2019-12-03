@@ -33,6 +33,7 @@ tags:
    - Terminology
   # - Public Thinking
   # - TMI
+accolades: Rising Star
 ---
 Using the term &#8220;partner&#8221; to replace boyfriend or girlfriend is widely suggested as a means to speak more inclusively, allowing gay, lesbian, or bisexual people feel more comfortable.  When I use this term to refer to my partner around straight people, I&#8217;m often asked, &#8220;why did you say your partner instead of your girlfriend?&#8221;  What&#8217;s the point?  Let me explain the three main reasons why I have replaced boyfriend/girlfriend/husband/wife with partner.
 

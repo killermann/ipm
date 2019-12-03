@@ -42,7 +42,7 @@ The questions below help me answer a general question: &#8220;Will I be taking u
 
 ## Taking up Space vs. Adding to a Space
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 The potential conflict rests with the social identities that comprise us, and how those identities may contribute to or detract from a space. There are two angles to this.
 

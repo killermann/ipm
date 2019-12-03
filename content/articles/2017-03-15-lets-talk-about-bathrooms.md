@@ -68,15 +68,7 @@ As an example, one might argue that we have always had men’s and women’s pub
 
 Occasionally, an element of “social experiment” is added to these arguments (e.g., “We shouldn’t let this liberal conspiracy into our bathrooms”). This argument, for me, evokes the image of a mad scientist whose method of wreaking havoc is slightly altering bathroom policies.
 
-<aside class="heyHeyLook g2g2"> 
-            [ 
-            ![A Guide to Gender 2nd Edition by Sam Killermann][1]][2]{.image} 
-
-<div class="aside--text">
-  <p>
-    <strong>The post you're reading right now</strong> is included in my book, <em>A Guide to Gender</em>. You can get the 2nd Edition now (and read the expanded version of this post):<br /> <a href="https://amzn.to/2li0YWS" alt="Get A Guide to Gender 2nd Edition Paperback">Paperback</a> <a href="https://amzn.to/2li3Pzn" alt="Get A Guide to Gender 2nd Edition Kindle">Kindle</a> <a href="https://gum.co/g2g2" alt="Get A Guide to Gender 2nd Edition PDF">.PDF (pay-what-you-want/can) </a>
-  </p>
-</div></aside>
+{{< heyheylook >}}
 
 ### “How would this even work? What would we put on the door?”
 

@@ -31,10 +31,11 @@ tags:
    - Terminology
   # - Public Thinking
   # - TMI
+accolades: Greatest Hit
 ---
 A few people have asked why I write &#8220;trans\*&#8221; (with the asterisk) instead of just &#8220;trans&#8221; when referring to trans\* folks on my site.  Well, I&#8217;m happy to answer that!
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 
 There are certainly downsides and upsides to the asterisk (similar to the @ in Latin@/Chican@, like &#8220;<a href="http://www.npr.org/blogs/thetwo-way/2013/01/07/168818064/latin-offers-a-gender-neutral-choice-but-how-to-pronounce-it" target="_blank" rel="noopener">How do you pronounce it?</a>&#8221; (with the asterisk, you don&#8217;t pronounce it), and it&#8217;s not for everyone, but you can investigate and weigh the pros and cons and decide for yourself.

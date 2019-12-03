@@ -41,7 +41,7 @@ I, for one, am not entirely happy with the world that has been built for me.  I
   
 <!--more-->
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 Last week I made a <a title="How to respond when someone uses non-inclusive (or bigoted) language" href="/2012/06/how-to-respond-to-non-inclusive-language-or-bigoted-speec/" target="_blank">comic explaining how to respond to bigoted language</a>.  When I posted it on <a title="To Facebook!" href="http://facebook.com/metrosam" target="_blank">our Facebook page</a>, a fan, Eric, asked how to respond &#8220;when someone uses non-inclusive or bigoted language online in video games?&#8221;  What he was referring to was the rampant use of slurs (homophobic, racist, and otherwise) in online multiplayer games &#8212; something anyone who plays can attest to.
 
@@ -63,8 +63,8 @@ I&#8217;m telling you all of this for a few reasons:
 
 4. **I want you to <a title="To the Pledge" href="http://gamersagainstbigotry.org/signatures" target="_blank">sign the pledge to end bigotry in gaming</a>**, though it&#8217;s mostly the first three&#8211; let&#8217;s be honest &#8212; this one would also be nice 🙂
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 
 There are so many elegant quotes I could end this with.  Ghandi <a title="Or maybe he didn't" href="http://www.elephantjournal.com/2011/08/be-the-change-you-wish-to-see-in-the-world-not-gandhi/" target="_blank">allegedly</a> said &#8220;Be the change you wish to see in the world,&#8221; Ray Davis said, &#8220;Status quos are meant to be broken,&#8221; and Ernie said &#8220;When I squeeze you, you make noise,&#8221; which could have been about his rubber ducky, or it could be a metaphor describing the relationship between cause and effect in social change.
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
+{{< heyheylook >}}
 

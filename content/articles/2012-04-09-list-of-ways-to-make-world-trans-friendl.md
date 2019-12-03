@@ -6,15 +6,34 @@ date: 2012-04-09T17:55:12+00:00
 excerpt: 'The world, as it is right now, is unwelcoming, inaccessible, and dangerous for many folks who are trans*. Here are a few humble steps we can take to remedy that, in the spirit of social justice.'
 url: /2012/04/list-of-ways-to-make-world-trans-friendl/
 featured_image: /wp-content/uploads/2012/04/identifying-as-awesome.jpg
-thesis_title:
-  - List of 5+ ways to make a transgender-inclusive world.
-thesis_description:
-  - A list of suggestions for making trans-friendly communities, including a few easy things you can start doing right now, and some more in-depth suggestions that will take some work.
-dsq_thread_id:
-  - 642379743
-sections:
-  - 'Articles &amp; Books'
-
+categories: 
+   - Gender
+  # - Sexuality
+  # - Social Justice
+tags:
+   - Activism
+   - Allyship
+  # - Being Inclusive
+  # - Education
+  # - Guide to Gender
+  # - LGBTQ
+  # - LGB
+   - Trans
+   - How-To
+  # - Humor
+  # - Identity
+   - List
+  # - Privilege
+  # - Rant
+  # - Religion
+  # - Replies
+   - Start Here
+  # - Shorties
+  # - Social Justice Dogma
+  # - Terminology
+  # - Public Thinking
+  # - TMI
+accolades: Sensation
 ---
 We live in a world that recognizes two options for gender.  If you&#8217;re not _exactly_ &#8220;man&#8221; or &#8220;woman&#8221; you&#8217;re going to have a hard time finding your place, because right now there isn&#8217;t a _place_ for you.  Let&#8217;s change that.
 
@@ -24,8 +43,7 @@ Following is a list of suggestions to make the world a bit less binary and a lot
 
 ### 1. Read our list of cisgender privileges (<a title="30+ Examples of Cisgender Privilege" href="/2011/11/list-of-cisgender-privileges/" target="_blank">link</a>) and share it with your friends.
 
-<aside class="heyHeyLook wednesdayEmail"><p><span class="icon">💌</span><strong>Most Wednesdays</strong></p><p>I publish new Social Justice, Gender, & Sexuality Resources.</p> <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside> 
-
+{{< heyheylook >}}
 
 Following up on the last point, it&#8217;d be helpful if you understood what, exactly, transgender _is_.  Well, lucky for you, I wrote an <a title="Breaking through the binary: Gender explained using continuums" href="/2011/11/breaking-through-the-binary-gender-explained-using-continuums/" target="_blank">article that&#8217;s a solid intro to gender identity</a>.  Read it and you&#8217;ll have a better idea of what it means to be transgender or genderqueer.  Share it with a friend and they will, too.  Then you&#8217;ll both understand what Steven Taylor means (in the comments below) by &#8220;outer dress has no moral obligation to match inner anatomy.&#8221;  After you&#8217;ve read that, if you find yourself wondering <a title="Sexual Orientation for the Genderqueer Person" href="/2012/02/sexual-orientation-for-the-genderqueer/" target="_blank">how sexual orientation works for genderqueer people</a>, we&#8217;ve got you covered there, too.
 
