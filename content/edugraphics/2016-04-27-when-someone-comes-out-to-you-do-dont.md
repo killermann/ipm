@@ -7,8 +7,7 @@ excerpt: |
   "It's 2018. Do we REALLY still need to be talking about coming out?" Yes. Yes, we do.
 url: /2016/04/when-someone-comes-out-to-you-do-dont/
 featured_image: /wp-content/uploads/2016/04/Coming-Out-Handout-v2-by-Meg-Bolger-Sam-Killermann.png
-downloadable_pdf:
-  - 3401
+download: /downloads/Safe Zone Project Coming Out Handout by Sam Killermann and Meg Bolger.pdf
 categories: 
   # - Gender
    - Sexuality

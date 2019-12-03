@@ -6,8 +6,7 @@ date: 2016-05-14T21:52:31+00:00
 excerpt: 'An approachable way to look at something we all experience -- and all the different ways we do. You are the tree. Be the tree.'
 url: /2016/05/sexualitree-model-of-comprehensive-sexuality/
 featured_image: /wp-content/uploads/2016/05/Sexualitree-Poster-1600.png
-downloadable_pdf:
-  - 3064
+download: /downloads/Sexualitree-Poster.zip
 categories: 
   # - Gender
    - Sexuality

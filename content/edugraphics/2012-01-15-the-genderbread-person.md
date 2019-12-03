@@ -6,8 +6,7 @@ date: 2012-01-15T20:01:52+00:00
 excerpt: 'My first version of this tasty little guide to gender. It presents gender along three different continuums, one for identity, expression, & biological sex.'
 url: /2012/01/the-genderbread-person/
 featured_image: /wp-content/uploads/2012/01/Genderbread-Person.jpg
-downloadable_pdf:
-  - 2551
+download: /wp-content/uploads/2012/01/Genderbread-Person.pdf
 categories: 
    - Gender
   # - Sexuality

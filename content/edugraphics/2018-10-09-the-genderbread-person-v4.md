@@ -1,13 +1,12 @@
 ---
-title: The Genderbread Person v4
+title: The Genderbread Person version 4
 author: Sam Killermann
 type: post
 date: 2018-10-09T06:00:05+00:00
 excerpt: For 2018 and beyond, my fourth take on this tasty little introduction to understanding gender.
 url: /2018/10/the-genderbread-person-v4/
 featured_image: /wp-content/uploads/2018/10/Genderbread-Person-v4-1200.png
-downloadable_pdf:
-  - 3428
+download: /downloads/Genderbread Person v4 ALL.pdf
 categories: 
    - Gender
   # - Sexuality

@@ -1,13 +1,12 @@
 ---
-title: The Genderbread Person v3
+title: The Genderbread Person version 3
 author: Sam Killermann
 type: post
 date: 2015-03-16T02:05:52+00:00
 excerpt: Gender is one of those things everyone thinks they understand, but don’t. This tasty little guide is meant to be an appetizer for understanding. It’s okay if you’re hungry for more.
 url: /2015/03/the-genderbread-person-v3/
 featured_image: /wp-content/uploads/2015/03/Genderbread-Person-3.3.jpg
-downloadable_pdf:
-  - 2861
+download: /wp-content/uploads/2015/03/Genderbread-Person-3.3-HI-RES.pdf
 categories: 
    - Gender
   # - Sexuality

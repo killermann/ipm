@@ -6,10 +6,7 @@ date: 2014-04-18T14:03:30+00:00
 excerpt: Print one of the signs below and attach it to any single-stall, individual bathroom you see in your community that is currently (and unnecessarily) gendered. Raise awareness. Create change.
 url: /2014/04/printable-gender-neutral-bathroom-sign-guerilla-project/
 featured_image: /wp-content/uploads/2014/04/fb-share-card.jpg
-dsq_thread_id:
-  - 2621406018
-downloadable_pdf:
-  - 2554
+download: /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign.pdf
 categories: 
    - Gender
   # - Sexuality

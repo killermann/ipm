@@ -6,6 +6,7 @@ date: 2012-05-30T20:01:08+00:00
 excerpt: "Trans* is an umbrella term that refers to a bunch of the identities within the gender identity spectrum. Here's a handy graphic that helps explain what I mean."
 url: /2012/05/what-does-the-asterisk-in-trans-stand-for/
 featured_image: /wp-content/uploads/2012/05/TRANS-Asterisk-Poster-v2-1200.png
+download: /wp-content/uploads/2012/05/TRANS-Asterisk-Poster-v2.pdf
 categories: 
    - Gender
   # - Sexuality

@@ -6,8 +6,7 @@ date: 2016-11-01T23:01:31+00:00
 excerpt: Visualizing the components of a healthy relationship (respect, equality, safety, and trust) as columns and shadows.
 url: /2016/11/rest-columns-shadows-healthy-relationship-model/
 featured_image: /wp-content/uploads/2016/11/Columns-and-Shadows-Model-V1-by-Sam-Killermann-Karen-Rayne.png
-downloadable_pdf:
-  - 3067
+download: /downloads/Columns and Shadows - A Healthy Relationship Model.pdf
 categories: 
   # - Gender
    - Sexuality

@@ -6,8 +6,7 @@ date: 2012-05-14T18:13:19+00:00
 excerpt: "If you're a Christian in the US, these are a bunch of unearned benefits you get that members of other faiths (or non-religious people) do not. It's not about shame. It's about understanding."
 url: /2012/05/list-of-examples-of-christian-privileg/
 featured_image: /wp-content/uploads/2012/05/not-on-the-list-comic1.jpg
-downloadable_pdf:
-  - 2735
+download: /downloads/Its-Pronounced-Metrosexual-Christian-Privilege-List.pdf
 categories: 
   # - Gender
   # - Sexuality
@@ -66,13 +65,6 @@ Following is a list of privileges granted to people in the U.S. (and many wester
  21. You can be polite, gentle, or peaceful, and not be considered an &#8220;exception&#8221; to those practicing your faith.
  22. Fundraising to support congregations of your faith will not be investigated as potentially threatening or terrorist behavior.
  23. Construction of spaces of worship will not likely be halted due to your faith.
-
-    	  
-    <aside class="heyHeyLook wednesdayEmail"> 
-    **Most Wednesdays 💌** I publish new Social Justice, Gender, & Sexuality Resources &xrarr;
-    
-    
-                <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside>
  24. You are never asked to speak on behalf of all the members of your faith.
  25. You can go anywhere and assume you will be surrounded by members of your faith.
  26. Without special effort, your children will have a multitude of teachers who share your faith.
@@ -84,6 +76,3 @@ Following is a list of privileges granted to people in the U.S. (and many wester
  32. You can complain about your religion being under attack without it being perceived as an attack on another religion.
  33. You can dismiss the idea that identifying with your faith bears certain privileges.
  34. **Share more in the comments below!**
-
-<div>
-</div>

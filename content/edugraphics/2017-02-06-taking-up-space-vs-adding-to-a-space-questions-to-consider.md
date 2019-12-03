@@ -7,8 +7,7 @@ excerpt: |
   Unpacking the phrase "you're taking up space," and talking about showing up in a social justice framework.
 url: /2017/02/taking-up-space-vs-adding-to-a-space-questions-to-consider/
 featured_image: /wp-content/uploads/2017/02/Taking-Up-Space-vs.-Adding-to-a-Space-1.png
-downloadable_pdf:
-  - 3108
+download: /downloads/FLOWCHART_ Taking Up Space vs. Adding to a Space.pdf
 categories: 
   # - Gender
   # - Sexuality
@@ -34,7 +33,7 @@ tags:
   # - Terminology
   # - Public Thinking
    - TMI
-
+accolades: Crowd-Pleaser
 ---
 A lot of us want to just &#8220;be people,&#8221; and leave our social identities at the door when we enter a room. In September 2016, I was asked to participate in Katie Couric&#8217;s &#8220;[Gender Revolution][1]&#8221; documentary (by National Geographic). The following questions were what I worked through &#8212; and what I generally work through &#8212; when deciding to say &#8220;yes&#8221; or &#8220;no.&#8221;
 

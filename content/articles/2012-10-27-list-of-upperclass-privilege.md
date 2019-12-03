@@ -36,18 +36,13 @@ Following is a list of middle-to-upper class privileges.  If you are a member o
 
 The goal of the list is to help folks who have access to these privileges be more cognizant of their privilege, encouraging better understanding of class-based difference in our society.
 
-  1. <aside class="heyHeyLook wednesdayEmail"> 
-    **Most Wednesdays 💌** I publish new Social Justice, Gender, & Sexuality Resources &xrarr;
-    
-    
-                <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside>Politicians pay attention to your class, and fight for your vote in election seasons.
+<!-- more -->
+
+  1. Politicians pay attention to your class, and fight for your vote in election seasons.
   2. You can advocate for your class to politicians and not have to worry about being seen as looking for a handout.
   3. You can readily find accurate (or non-caricatured) examples of members your class depicted in films, television, and other media.
   4. New products are designed and marketed with your social class in mind.
   5. If you see something advertised that you _really_ want, you will buy it.
-  
-    <!--more-->
-
   6. You can swear (or commit a crime) without people attributing it to the low morals of your class.
   7. If you find yourself in a legally perilous situation, you can hire an attorney to ensure your case is heard justly.
   8. You can talk with your mouth full and not have people attribute this to the uncivilized nature of your social class.
@@ -78,4 +73,4 @@ The goal of the list is to help folks who have access to these privileges be mor
  33. The &#8220;dream&#8221; of a house, a healthy family, and a solid career isn&#8217;t a dream at all, but simply a plan.
  34. People do not assume based on the dialect you grew up speaking that you are unintelligent or lazy.
  35. When you choose to use variants of language (e.g., slang terms) people chalk them up to plasticity in the language (rather than assuming your particular dialectical variants deserve redicule and punishment).
- 36. **[leave a comment below with another example!]**
+ 36. **[leave a reply below with another example!]**

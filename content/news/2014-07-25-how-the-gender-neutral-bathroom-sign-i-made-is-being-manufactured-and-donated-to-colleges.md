@@ -35,11 +35,7 @@ A few months ago I [sarcastically] [threw my hat][1] into the Gender Neutral Ba
 
 Obviously, I&#8217;m thrilled. But my favorite part is all the little steps it took for this to happen. So let&#8217;s recap:
 
-  * <aside class="heyHeyLook wednesdayEmail"> 
-    **Most Wednesdays 💌** I publish new Social Justice, Gender, & Sexuality Resources &xrarr;
-    
-    
-                <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside>First, I wrote an incredibly <a title="Solution for the “Confusing” Gender Neutral Toilet Sign Issue" href="/2014/04/gender-neutral-bathroom-sign/" target="_blank">snarky article</a> from a coffee shop in Philly, where I was visiting to speak at a conference. My actual primary argument in my article wasn&#8217;t that my sign was the best, but a satire of how _not-difficult_ it is to solve this &#8220;problem.&#8221;
+  * First, I wrote an incredibly <a title="Solution for the “Confusing” Gender Neutral Toilet Sign Issue" href="/2014/04/gender-neutral-bathroom-sign/" target="_blank">snarky article</a> from a coffee shop in Philly, where I was visiting to speak at a conference. My actual primary argument in my article wasn&#8217;t that my sign was the best, but a satire of how _not-difficult_ it is to solve this &#8220;problem.&#8221;
   * I shared it with the wonderful group of people who I&#8217;ve rounded up on Facebook via my <a href="http://facebook.com/metrosam" target="_blank">IPM Page</a>, <a href="https://www.facebook.com/MetroSam/posts/690824747647724" target="_blank">and they loved it</a>. And while the snark was appreciated, more people were onboard with the actual sign than I would have ever guessed.
   * Then <a href="https://www.facebook.com/MetroSam/posts/690824747647724" target="_blank">someone</a> said something super important:
   

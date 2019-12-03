@@ -66,11 +66,7 @@ If you&#8217;re a masculine dude&#8230;
  21. You&#8217;re not constantly aware/sensitive to how you smell. Though, to be frank, everyone else is (stinko).
  22. People don&#8217;t assume they can ask you to help them go shopping, and force you to either acknowledge their stereotyping of you or lie on principle and pretend you won&#8217;t love that.
  23. You never find yourself pretending to be interested in sports you don&#8217;t care about, which leads to awkward conversations where you are weighing in on things you know nothing about, but have developed a vague-but-specific method of conversing that keeps you under cover (albeit stressfully so): &#8220;Yeah, they&#8217;re looking pretty good this year, at least compared to previous years and/or other teams that play sport in this arena.&#8221;
- 24. <aside class="heyHeyLook wednesdayEmail"> 
-    **Most Wednesdays 💌** I publish new Social Justice, Gender, & Sexuality Resources &xrarr;
-    
-    
-                <a class="button" title="Join my mailing list" href="http://bit.ly/2MmE28c" target="_blank"> Get the Email. </a> </aside>You can wear a sports jersey without people thinking you&#8217;re being ironic.
+ 24. You can wear a sports jersey without people thinking you&#8217;re being ironic.
  25. People are never so surprised when it turns out you&#8217;re actually good at sports that they start to question their sobriety.
  26. When people realize you own a hammer (or other tools), they don&#8217;t assume they were part of some Village People-esque halloween costume, but instead assume you know how to use them to, you know, hammer stuff.
  27. Similarly, people aren&#8217;t surprised when you&#8217;re into any &#8220;bro&#8221; stuff (e.g., beer, video games, science, wearing socks with sandals).
@@ -78,7 +74,7 @@ If you&#8217;re a masculine dude&#8230;
  29. You&#8217;ve never been beaten up because of your gender expression. Though, in seriousness, it&#8217;s likely that the pressures of bro-ness led to some of my (and my metro brethren&#8217;s) many adolescent beatings, and some of the aggressors were just as afflicted by gender role pressures as I was.
  30. Similarly serious, you never feel pressured to participate in objectifying, borderline misogynistic conversations about women that make you uncomfortable, for fear of people questioning your manhood if you don&#8217;t.
  31. <span style="font-size: 13px; line-height: 19px;">People don&#8217;t laugh when you describe yourself as a &#8220;real man,&#8221; thinking it&#8217;s a joke, because EVERYTHING IS AN EFFING JOKE TO SOME PEOPLE!</span>
- 32. Other metrosexual guys out there, feel free to share more examples in the comments below (:
+ 32. Other metrosexual guys out there, feel free to share more examples in the replies below (:
 
 _Additions from readers:_
 
