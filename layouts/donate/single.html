@@ -10,7 +10,8 @@
 }
 
 h2 {
-  margin-bottom: 1rem;
+  margin: 1em auto 1rem;
+  max-width: 720px;
 }
 
 .card {
@@ -26,11 +27,10 @@ h2 {
 
 .card h3 {
   margin: 0 auto 1rem;
-  color: rgba(10,10,10,.7);
 }
 
 .card h3 span {
-  color: black;
+  color: var(--teal-700);
 }
 
 .credit-cards {
@@ -45,6 +45,10 @@ h2 {
   text-align: center;
 }
 
+.footer {
+  margin-top: 0;
+}
+
 @media only screen and (min-width 768px) {
 
 }
@@ -56,7 +60,7 @@ h2 {
 </header>
 <div class="entry-content">
   <p>
-    <strong>Thank you for considering a donation!</strong> To make it as easy as possible, I've got several options below, including <a href="#DonatePaypal" alt="Intro">Paypal / Credit Card</a>, <a href="#Patreon" alt="Patreon">Patreon</a>, and even <a href="#DonateCheck" alt="Check">check</a>. If you want to support the site, and there's something missing that you'd like me to add, please <a href="/contact/" title="contact">reach out</a>.
+    <strong>Thank you for considering a donation!</strong> To make it as easy as possible, I've got several options below, including <a href="#DonatePaypal" alt="Intro">Paypal / Credit Card</a>, <a href="#Patreon" alt="Patreon">Patreon</a>, and even <a href="#DonateCheck" alt="Check">check</a>. <a href="#Learn-More">Learn more</a> about donating down below. If you want to support the site, and there's something missing that you'd like me to add, please <a href="/contact/" title="contact">reach out</a>.
   </p>
   <p>
     Reader-funding is a new experiment as of 2018, and <a href="/2018/09/the-state-of-this-site-or-funding-online-work-in-2018-an-infographic/" title="The State of this Site (Or “Funding Online Work in 2018, an Infographic”)" target="_blank">I wrote all about it 6 months in</a> (disclosing numbers, and some other thoughts), in case you want to read about how it's going.
@@ -106,12 +110,24 @@ h2 {
     <div class="card">
       <h3 class="alt-font">Want to send something <span>in the mail?</span></h3>
       <p>I love mail! If you're sending a check, <strong>please make checks out to "hues"</strong> (IPM is part of the <a href="https://hues.xyz" title="hues: art, tools, and resources for global justice" rel="noopener noreferrer" target="_blank">hues global justice collective</a>). Here's my mailing address:</p>
-      <p><big>
+      <big>
         It's Pronounced Metrosexual<br/>
         P.O. Box 684412<br/>
         Austin, TX 78768
-      </big></p>
+      </big>
     </div><!--/card-->
+  </div>
+</section>
+<section style="background: var(--grey-100); margin-top: 4em; padding: 4em 0;">
+  <h2 id="Learn-More" class="tc">Learn More about Donating to IPM</h2>
+  <div class="entry-content">
+    {{ .Content }}
+  </div>
+  <div class="tc">
+    <span>⇡ Go back up to:</span>&nbsp;&nbsp;
+    <a href="#DonatePaypal" title="Back up to Paypal" class="alt-font highlight">Paypal / Credit Card</a>&nbsp;&nbsp;
+    <a href="#Patreon" title="Back up to Patreon" class="alt-font highlight">Patreon</a>&nbsp;&nbsp;
+    <a href="#DonateCheck" title="Back up to Check" class="alt-font highlight">Check</a>
   </div>
 </section>
 {{ end }}

@@ -306,6 +306,7 @@ a, a:visited {
 	display: inline-block;
 	position: relative;
 	padding: .15em;
+	z-index: 2;
 
 	&:after {
 		content: '';
@@ -1109,7 +1110,6 @@ FOOTER STYLES
 	margin-top: 4em;
 	font-size: .8em;
 	position: relative;
-	background-color: #f1f1f1;
 	font-family: $alt-font;
 	color:rgba(0,0,0,.55);
 	text-align: center;

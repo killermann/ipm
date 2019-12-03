@@ -2,12 +2,13 @@
 title: Make a Donation
 author: Sam Killermann
 body_class: rainbow-header
+description: Contribute to IPM and support other's access to free online resources for gender, sexuality, & social justice education.
 type: donate
 date: 2012-11-29T17:25:37+00:00
 ---
 It&#8217;s my goal to keep this site ad-free and to continue producing quality pieces for you to read, share, and use.  If you appreciate what I&#8217;ve created here, and would like to support me so I can keep doing it, donations are a great way to do so.
 
-## 7 Reasons to Donate to IPM
+### 7 Reasons to Donate to IPM
 
 1. Everything I create here &#8212; from [genderbread people][1] to the [dirty 30s][2] &#8211;I allow others to use for free. As a testament to this, I&#8217;ve [released my copyright][3] on everything I produce.
 2. I make about negative <del>$80/month</del> $400/month ([needed new hosting][4]) keeping this site running.
@@ -17,7 +18,13 @@ It&#8217;s my goal to keep this site ad-free and to continue producing quality p
 6. I&#8217;ll love you forever, even though I [already do][5].
 7. The less time I need to spend on freelance work to pay my bills the more time I can spend here, writing articles and creating resources.
 
-## Why don&#8217;t I have ads for revenue?
+### Are donations tax-deductible?
+
+No, despite IPM being an [uncopyrighted](/uncopyright/), free, open-source online resource that is run like a non-profit, donations to IPM are not tax deductible. IPM is not a 501\(c)\(3) non-profit, but is part of the [hues Global Justice Collective](https://hues.xyz).
+
+If it's important for you that your donation be tax deductible, and you want to support a similar cause, I'd suggest you [make a contribution to GLSEN](https://act.glsen.org/onlineactions/x2U7iN4z0EejZIQ4F2a9Yw2).
+
+### Why don&#8217;t I have ads for revenue?
 
 Good question.  The answer: for a couple of reasons.
 
