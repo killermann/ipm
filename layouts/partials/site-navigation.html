@@ -8,7 +8,7 @@
 		<span style="opacity: .5;">Menu</span>
 	</a>
 
-	<a href="{{ .Site.BaseURL }}" class="logo mobileOnly" aria-label="Home" title="{{ .Site.Title }}">
+	<a href="{{ .Site.BaseURL }}" class="logo mobileOnly" aria-label="Home" title="{{ .Site.Title }}" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Mobile', eventLabel: 'Logo'});">
 		<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 246"><path class="flag" d="M228 246zm-47-137l47-52c6-6 14-15 10-25s-17-7-25-4c-13 3-24 9-36 12 2-10 5-25-2-35-4-4-11-6-17-5-10 1-20 5-29 10a181 181 0 00-26 16l-6 4h-3a17 17 0 00-2-2 12 12 0 00-9 0c-9 4-9 20-9 28l1 16-1 29c-1 23-2 55-1 78l2 26c0 6 0 13 2 19s3 11 8 13c7 3 16-1 18-8 2-4 0-7-2-10s-2-8-3-12l-2-35v-42l36-32c-2 10-10 31 2 36 8 4 18-1 24-5 9-6 16-13 23-20zm-79-12l-6 4 1-29 1-8 1-9 10-5 21-15a131 131 0 0127-11c-1 11-14 30 1 38 5 3 12 2 17 1l22-5-21 24a255 255 0 01-24 23 126 126 0 004-17c0-5 0-11-3-16-8-13-25 1-33 7s-12 12-18 18z" fill="#fff"/><path d="M285 157c2-23 5-48-1-72-4-10-11-21-23-21-16 0-25 17-31 29-11 23-20 48-28 73-3-6-7-13-14-16s-11-2-16 0c-10 5-18 15-23 26-4-6-12-7-16-3s-1 11-1 16c-1 11-3 23 0 34 3 9 14 14 20 7s6-16 9-24c4-12 8-29 20-35 9 15 2 31 7 47 2 10 14 18 21 8 2-2 3-6 4-9l3-13 7-25c4-16 10-31 16-46s11-31 22-43c6 21 4 43 2 64l-6 52c0 8-1 15 1 23 2 5 4 12 10 13s11-4 12-9l1-21c-1-10 0-20 1-29l3-26zM49 224c-3-10-3-20-4-30l-2-30-1-31c0-4 1-9-1-13a11 11 0 00-9-5 11 11 0 00-9 4c-2 3-2 8-2 12v30a599 599 0 004 59c1 9 2 20 13 22s17-10 11-18z" fill="#fff"/><path class="heart" d="M43 48c-5 1-12 10-15 14-6-6-20-19-26-8s5 29 12 39c4 5 11 12 15 12s8-4 12-9c6-8 12-18 14-28s1-22-12-20z" fill="#ff1f64"/></svg>
 	</a>
 
@@ -18,7 +18,7 @@
 		{{- if .Site.Menus.main }}
 			{{- range .Site.Menus.main }}
 			<li>
-				<a id="nav-{{ .Name | urlize }}" class="section-link {{- if eq $url .URL }} active{{ end -}}" href="{{ .URL }}" title="{{ .Name }}">
+				<a id="nav-{{ .Name | urlize }}" class="section-link {{- if eq $url .URL }} active{{ end -}}" href="{{ .URL }}" title="{{ .Name }}" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: '{{ .Name }}'});">
 					{{ if .Pre }}
 						{{ .Pre }}{{ .Name }}{{ .Post }}
 					{{ else }}
@@ -40,33 +40,33 @@
 <nav id="explore-menu">
 	<ul class="site-sections">
 		<li>
-			<a class="section-link {{- if eq $url "/about/" }} active{{ end -}}" href="/about/" title="About">
+			<a class="section-link {{- if eq $url "/about/" }} active{{ end -}}" href="/about/" title="About" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Mobile', eventLabel: 'About'});">
 				<span>About</span>
 			</a>
 		</li>
 		<li>
-			<a class="section-link {{- if eq $url "/articles/" }} active{{ end -}}" href="/articles/" title="Articles">
+			<a class="section-link {{- if eq $url "/articles/" }} active{{ end -}}" href="/articles/" title="Articles" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Mobile', eventLabel: 'Articles'});">
 				<span>Articles</span>
 			</a>
 		</li>
 		<li>
-			<a class="section-link {{- if eq $url "/edugraphics/" }} active{{ end -}}" href="/edugraphics/" title="Edugraphics">
+			<a class="section-link {{- if eq $url "/edugraphics/" }} active{{ end -}}" href="/edugraphics/" title="Edugraphics" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Mobile', eventLabel: 'Edugraphics'});">
 				<span>Edugraphics</span>
 			</a>
 		</li>
 		<li class="mobileHide"></li>
 		<li>
-			<a class="section-link {{- if eq $url "/books/" }} active{{ end -}}" href="/books/" title="Books">
+			<a class="section-link {{- if eq $url "/books/" }} active{{ end -}}" href="/books/" title="Books" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Mobile', eventLabel: 'Books'});">
 				<span>Books</span>
 			</a>
 		</li>
 		<li>
-			<a class="section-link {{- if eq $url "/videos/" }} active{{ end -}}" href="/videos/" title="Videos">
+			<a class="section-link {{- if eq $url "/videos/" }} active{{ end -}}" href="/videos/" title="Videos" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Mobile', eventLabel: 'Videos'});">
 				<span>Videos</span>
 			</a>
 		</li>
 		<li>
-			<a class="section-link {{- if eq $url "/courses/" }} active{{ end -}}" href="/courses/" title="Courses">
+			<a class="section-link {{- if eq $url "/courses/" }} active{{ end -}}" href="/courses/" title="Courses" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Mobile', eventLabel: 'Courses'});">
 				<span>Courses</span>
 			</a>
 		</li>
@@ -74,47 +74,47 @@
 
 	<div class="explore-blobs">
 		<nav class="menu-blob" id="explore-the-site">
-			<a class="blob-link" href="/about/about-the-blog/" title="About the Site">
+			<a class="blob-link" href="/about/about-the-blog/" title="About the Site" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: 'About the Site'});">
 				About the Site
 			</a>
-			<a class="blob-link" href="/about/about-sam-killermann/" title="About the Sam">
+			<a class="blob-link" href="/about/about-sam-killermann/" title="About the Sam" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: 'About the Sam'});">
 				About the Sam
 			</a>
-			<a class="blob-link" href="/uncopyright/" title="Uncopyright">
+			<a class="blob-link" href="/uncopyright/" title="Uncopyright" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: 'Uncopyright'});">
 				Uncopyright
 			</a>
-			<a class="blob-link" href="/contact/" title="Contact">
+			<a class="blob-link" href="/contact/" title="Contact" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: 'Contact'});">
 				Contact
 			</a>
-			<a id="nav-news" class="blob-link" href="/news/" title="News">
+			<a id="nav-news" class="blob-link" href="/news/" title="News" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: 'News'});">
 				<div id="new-news" class="noti hide"></div>
 				News
 			</a>
 		</nav>
 		<nav class="menu-blob" id="explore-the-content">
-			<a class="blob-link" href="/all/" title="All Posts">
+			<a class="blob-link" href="/all/" title="All Posts" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: 'All Posts'});">
 				All Posts
 			</a>
-			<a class="blob-link" href="/categories/gender/" title="The Gender Stuff">
+			<a class="blob-link" href="/categories/gender/" title="The Gender Stuff" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: 'Gender'});">
 				Gender
 			</a>
-			<a class="blob-link" href="/categories/sexuality/" title="The Sexuality Stuff">
+			<a class="blob-link" href="/categories/sexuality/" title="The Sexuality Stuff" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: 'Sexuality'});">
 				Sexuality
 			</a>
-			<a class="blob-link" href="/categories/social-justice/" title="The Social Justice Stuff">
+			<a class="blob-link" href="/categories/social-justice/" title="The Social Justice Stuff" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: 'Social Justice'});">
 				Social Justice
 			</a>
-			<a class="blob-link" href="/downloads/" title="All Downloads">
+			<a class="blob-link" href="/downloads/" title="All Downloads" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: 'Downloads'});">
 				Downloads
 			</a>
 		</nav>
 		<nav class="menu-blob" id="browse-by-tag">
 			{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
 				{{ if gt .Count 2 }}
-				<a class="blob-link" href="/tags/{{ $name | urlize }}">#{{ $name }}</a>
+				<a class="blob-link" href="/tags/{{ $name | urlize }}" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: 'Tag'});">#{{ $name }}</a>
 				{{ end }}
 			{{ end }}
-			<a style="opacity:.7;" class="blob-link" href="/tags/" title="View All Tags">view all &#10142;</a>
+			<a style="opacity:.7;" class="blob-link" href="/tags/" title="View All Tags" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: 'View All Tags'});">view all &#10142;</a>
 		</nav>
 	</div>
 	
