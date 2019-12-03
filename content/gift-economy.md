@@ -6,7 +6,7 @@ date: 2018-01-25T19:37:33+00:00
 ---
 It&#8217;s Pronounced Metrosexual operates within the [gift economy][1] (just like [hues][2], which IPM is part of).
 
-What this means, generally, is that I don&#8217;t set a &#8220;price&#8221; as a barrier. Instead, I do everything I can to offer everything here as a gift (from the [resources][3], to the [campus programs][4]), and allow those who receive the gift to reciprocate based on ability, gratitude, and/or what feels fair.
+What this means, generally, is that I don&#8217;t set a &#8220;price&#8221; as a barrier. Instead, I do everything I can to offer everything here as a gift (from the resources & [downloads](/downloads/), to the campus programs that started IPM), and allow those who receive the gift to [reciprocate](/support/) based on ability, gratitude, and/or what feels fair.
 
 For me, access is a core tenet to social justice, so constructing financial barriers preventing people from accessing my work feels wrong &#8212; it would be antithetical to the goals of the work itself.
 
@@ -18,11 +18,11 @@ I gift my content here by [releasing my copyright][5], by not having any pay wal
 
 In all of this, I trust that some people will be able reciprocate the gift in ways that allow this project to stay alive, to thrive, and to continue doing good in the world.
 
-In the past, people would bring me in to [perform for their campus or organization][4], and gift honoraria that support this site, and keep this work alive. This was the primary way I supported this site, but as of 2019 I&#8217;m no longer performing campus programs, and trying to fund my work here directly.
+In the past, people would bring me in to perform for their campus or organization, and gift honoraria that supported this site, and enabled me to create the work that lives here. For years, this was the way I supported this site, but as of 2019 I&#8217;m no longer performing campus programs, and I'm trying to fund my work here by asking readers to [support the site directly](/support/).
 
 The primary way that most folks can give back now, and support the work I&#8217;m doing here, is by [becoming patrons][7] ([supporters of the site][12] or [author][8]), or making [one-time donations][9].
 
-You can also gift to IPM by supporting different projects within the hues collective, like [Every Shirt is Political][10] or [Impetus Books][11].
+You can also gift to IPM by supporting different projects within the [hues Global Justice Collective][2], like [Every Shirt is Political][10] or [Impetus Books][11].
 
 In all the ways people have gifted back, so far, it&#8217;s worked. We&#8217;ve managed to balance our books, I have been paid enough (just barely, most of the time) to make rent, and the site has [stayed online][12] (even if we&#8217;ve had some close calls).
 
@@ -31,7 +31,7 @@ Here&#8217;s to over 5 years living a bold experiment,
 <3 sK
 
  [1]: https://en.wikipedia.org/wiki/Gift_economy
- [2]: https://hues.xyz/about/gift/
+ [2]: https://hues.xyz/
  [3]: /about/about-the-blog/
  [4]: /campus-programs/
  [5]: /2013/11/uncopyright/

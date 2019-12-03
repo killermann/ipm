@@ -7,7 +7,7 @@ date: 2011-11-03T18:55:31+00:00
 featured_image: /wp-content/uploads/2011/11/sam-killermann-color-purple-1600-1.png
 ---
 
-Hi, y&#8217;all! I&#8217;m [Sam Killermann][1] (yes, my real last name), and I&#8217;m the social justice advocate [(read why][2]) behind this site. Here, I write the [articles][3], doodle the [edugraphics][4], and code the [site itself][5]. I used to perform <a href="/a-show-about-snap-judgments-identity-and-oppression/">the live show</a> that this site is named after, but that's another story.
+Hi, y&#8217;all! I&#8217;m [Sam Killermann][1] (yes, my real last name), and I&#8217;m the social justice advocate [(read why][2]) behind this site. Here, I write the [articles][3], doodle the [edugraphics][4], and code the [site itself][5]. I used to perform the live show that this site is named after, but that's another story.
 
 On this page, you can read more about me than I&#8217;m sure you&#8217;d care to know, most of written in the third-person (for easy copy/pasting for you), as responses to common questions/asks and quotes taken from other outlets. If you want more About-ness, I have the following other about-ish pages that are generally updated more frequently than this one:
 
