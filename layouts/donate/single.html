@@ -5,8 +5,12 @@
 .bento {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 2vw;
+  padding: 0 2vw 3em;
   justify-content: center;
+}
+
+h2 {
+  margin-bottom: 1rem;
 }
 
 .card {
@@ -14,6 +18,10 @@
   margin: 2vw;
   max-width: 400px;
   padding: 1.5em;
+}
+
+#DonateCheck .card {
+  max-width: calc(800px + 4vw);
 }
 
 .card h3 {
@@ -33,6 +41,7 @@
 .button {
   display: block;
   width: 100%;
+  text-align: center;
 }
 
 select, label {
@@ -53,10 +62,10 @@ select, label {
 </header>
 <div class="entry-content">
   <p>
-    <strong>Thank you for considering a donation</strong>. To make it as easy as possible, I've got a <em>lot</em> of options below, including <a href="#DonatePaypal" alt="Intro">Paypal</a>, <a href="#DonateCrypto" alt="Crypto">Crypto</a>, <a href="#Patreon" alt="Patreon">Patreon</a>, and even <a href="#DonateCheck" alt="Check">check</a>. If you want to support the site, and there's something missing that you'd like me to add, please <a href="https://www.itspronouncedmetrosexual.com/contact" alt="contact">reach out</a>.
+    <strong>Thank you for considering a donation</strong>. To make it as easy as possible, I've got several options below, including <a href="#DonatePaypal" alt="Intro">Paypal / Credit Card</a>, <a href="#Patreon" alt="Patreon">Patreon</a>, and even <a href="#DonateCheck" alt="Check">check</a>. If you want to support the site, and there's something missing that you'd like me to add, please <a href="/contact/" title="contact">reach out</a>.
   </p>
   <p>
-    Reader-funding is a new experiment as of 2018, and <a href="https://www.itspronouncedmetrosexual.com/2018/09/the-state-of-this-site-or-funding-online-work-in-2018-an-infographic/" title="The State of this Site (Or “Funding Online Work in 2018, an Infographic”)" target="_blank">I wrote all about it 6 months in</a> (disclosing numbers, and some other thoughts), in case you want to read about how it's going.
+    Reader-funding is a new experiment as of 2018, and <a href="/2018/09/the-state-of-this-site-or-funding-online-work-in-2018-an-infographic/" title="The State of this Site (Or “Funding Online Work in 2018, an Infographic”)" target="_blank">I wrote all about it 6 months in</a> (disclosing numbers, and some other thoughts), in case you want to read about how it's going.
   </p>
   <p>
     <a href="https://www.itspronouncedmetrosexual.com/about/about-sam-killermann" title="About Sam Killermann" target="_blank"><svg id="heart-sK" alt="heart sK" style="width:90px;height:50px;"xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133.83 66.6"><defs><style>.cls-1,.cls-2{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:5px;}.cls-1{stroke:#eb366e;}.cls-2{stroke:#000;}</style></defs><title>heart sK</title><path id="heart" class="cls-1" d="M22,36.39S20.5,26.67,11.64,23.5s-12.6,3.94-3,16.8S23.61,63.9,23.2,54.23,22.48,20.75,34.14,9.61C43.25.9,51.06,5.09,50.45,17.53c-.76,15.4-20.05,37.6-20.05,37.6"/><path id="sK" class="cls-2" d="M63,36.06a15.16,15.16,0,0,0-11-5.5C44,30.15,37.8,37,54.4,49.41s-19,22.07-11.93,4.84C46.05,45.53,58.78,34.86,64.77,24,71.94,11,74.91-2.56,73.24,5.35c-3.07,14.52-3.71,54.27-3.13,51.17,4.08-21.92,33.81-52.2,31-50.35S69.39,35.07,74.91,33.64,129,21.09,130.83,24.16"/></svg></a>
@@ -68,123 +77,63 @@ select, label {
 
   <div class="bento">
     <div class="card">
-      <h3 class="alt-font">Make a <span>One-Time</span> Contribution</h3>
-      <p>Any amount (even $1) helps</p>
-      <form class="paypalForm" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="BMGTDBTXYL62U">
-        <button name="submit" type="submit" class="button">
-        One-Time Donation
-        </button>
-        <img src="/img/accepting-all-major-credit-cards.jpg" alt="Accepting all major credit cards" class="credit-cards"/>
-        <img style="position:absolute;top:-99999px;left:-99999px;" alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-      </form>
-    </div><!--/card-->
-    <div class="card">
-      <h3 class="alt-font">Make a <span>Monthly</span> Contribution</h3>
-      <form class="paypalForm paypal--subscription" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="4D2VHSEDTKCT4">
-        <label for="os0">Choose Your Level of Support</label>
-        <select name="os0">
-          <option value="Massive">Massive: $100.00 per Month</option>
-          <option value="Huge">Huge: $50.00 per Month</option>
-          <option value="Big">Big: $20.00 per Month</option>
-          <option value="Solid">Solid: $10.00 per Month</option>
-          <option value="Stout">Stout: $5.00 per Month</option>
-          <option value="Small & Mighty">Small & Mighty: $1.00 per Month</option>
-        </select>
-        <input type="hidden" name="currency_code" value="USD">
-        <button name="submit" type="submit" class="button">
-          Start Monthly Donation
-        </button>
-        <img src="/img/accepting-all-major-credit-cards.jpg" alt="Accepting all major credit cards" class="credit-cards"/>
-        <img style="position:absolute;top:-99999px;left:-99999px;" alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-      </form>
-  
+      <h3 class="alt-font">Make a <span>One-Time</span> or <span>Monthly</span> Contribution</h3>
+      <p>Whatever amount you want (even $1 helps), and you can use PayPal or any major credit card.</p>
+      <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R4PV49LVUMW3Y&source=url" class="button">Choose Donation Amount</a>   
+      <img src="/img/accepting-all-major-credit-cards.jpg" alt="Accepting all major credit cards" class="credit-cards"/>
     </div><!--/card-->
     <div class="card">
       <h3 class="alt-font">Make a <span>Yearly</span> Contribution</h3>
+      <p>Select the level that feels right for you, and you can use PayPal or any major credit card.</p>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
         <input type="hidden" name="hosted_button_id" value="QDBRG5WBQCABL">
-        <label for="os0">Level of Support</label>
+        <label for="os0" value="Level of Support">Level of support</label>
         <select name="os0">
-          <option value="Massive">Massive: $100.00 per Year</option>
-          <option value="Huge">Huge: $50.00 per Year</option>
-          <option value="Big">Big: $20.00 per Year</option>
-          <option value="Solid">Solid: $10.00 per Year</option>
-          <option value="Stout">Stout: $5.00 per Year</option>
-          <option value="Small & Mighty">Small & Mighty: $1.00 per Year</option>
+          <option value="Massive">Massive : $100.00 USD - yearly</option>
+          <option value="Huge">Huge : $50.00 USD - yearly</option>
+          <option value="Big">Big : $20.00 USD - yearly</option>
+          <option value="Solid">Solid : $10.00 USD - yearly</option>
+          <option value="Stout">Stout : $5.00 USD - yearly</option>
+          <option value="Small & Mighty">Small & Mighty : $1.00 USD - yearly</option>
         </select>
-
         <input type="hidden" name="currency_code" value="USD">
-
-        <button name="submit" type="submit" class="button button-wide">
-          Start Yearly Donation
-        </button>
+        <input type="submit" class="button" name="submit" value="Start Annual Donation"/>
+        <img alt="" border="0" style="position: absolute;" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         <img src="/img/accepting-all-major-credit-cards.jpg" alt="Accepting all major credit cards" class="credit-cards"/>
-
-
-        <img style="position:absolute;top:-99999px;left:-99999px;" alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-      </form>  
+      </form>
     </div><!--/card-->
   </div><!--/bento-->
+
 </section>
 
-      
-
-    
-    <article class="loopCard">
-      <div class="loopText">
-        <h3 class="loopTitle">Make a Montly Contribution</h3>
-      </div>
-      <div class="paypal">
-        
-
-      </div>
-    </article>
-    <article class="loopCard">
-      <div class="loopText">
-        <h3 class="loopTitle">Make a Yearly Contribution</h3>
-      </div>
-
-      <div class="paypal">
-        
-      </div>
-    </article>
-
-  
-  <section id="otherDonations" role="sidebar" class="sidebar">
-    <h2 id="Patreon">Patreon</h2>
-    <article class="loopCard">
-      <div class="loopText">
-        <h3 class="loopTitle">Patreon is a platform that helps people support creators</h3>
-        <p>You choose how much you want to contribute each month, and get exclusive access to community, comments, and content I publish there.</p>
-        <a class="button button-large button-wide" href="https://bit.ly/2pfQrTl" target="_blank" alt="Become an IPM Patron" onClick="ga('send', 'event', { eventCategory: 'Donations', eventAction: 'button_click', eventLabel: 'Patronize Page-Donate'});">
-          Become an IPM Patron
-        </a>
-      </div>
-
-    </article>
-
-    <h2 id="DonateCheck">Snailmail (Check or Other)</h2>
-    <article class="loopCard snailmail">
-      <div class="loopText">
-        <h3 class="loopTitle">Want to send something in the mail?</h3>
-        <p>I love mail! Here's my mailing address:</p>
-        <p><big>
-          It's Pronounced Metrosexual<br/>
-          P.O. Box 684412<br/>
-          Austin, TX 78768
-        </big></p>
-        <p>If you're sending a check, <strong>please make checks out to "hues"</strong> (IPM is part of the <a href="https://hues.xyz" alt="hues">hues global justice collective</a>).</p>
-      </div>
-
-    </article>
-
-  </section>
-
-</div><!--/content-->
-
+<section id="Patreon">
+  <h2 class="tc">Patreon</h2>
+  <div class="bento">
+    <div class="card">
+      <h3 class="alt-font">Become a <span>Patron of the Site</span></h3>
+      <p>Make a monthly contribution at whatever level you choose.</p>
+      <a href="https://patreon.com/join/itspronouncedmetrosexual" class="button">Become IPM's Patron</a>   
+    </div><!--/card-->
+    <div class="card">
+      <h3 class="alt-font">Become a <span>Patron of the Author</span></h3>
+      <p>Make a monthly contribution at whatever level you choose.</p>
+      <a href="https://patreon.com/join/killermann" class="button">Become sK's Patron</a>   
+    </div><!--/card-->
+  </div>
+</section>
+<section id="DonateCheck">
+  <h2 class="tc">Snailmail (Check or Other)</h2>
+  <div class="bento">
+    <div class="card">
+      <h3 class="alt-font">Want to send something <span>in the mail?</span></h3>
+      <p>I love mail! If you're sending a check, <strong>please make checks out to "hues"</strong> (IPM is part of the <a href="https://hues.xyz" title="hues: art, tools, and resources for global justice" rel="noopener noreferrer" target="_blank">hues global justice collective</a>). Here's my mailing address:</p>
+      <p><big>
+        It's Pronounced Metrosexual<br/>
+        P.O. Box 684412<br/>
+        Austin, TX 78768
+      </big></p>
+    </div><!--/card-->
+  </div>
+</section>
 {{ end }}
