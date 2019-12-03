@@ -3,11 +3,6 @@ title: Gift Economy
 author: Sam Killermann
 type: page
 date: 2018-01-25T19:37:33+00:00
-algolia_searchable_posts_records_count:
-  - 2
-algolia_posts_page_records_count:
-  - 2
-
 ---
 It&#8217;s Pronounced Metrosexual operates within the [gift economy][1] (just like [hues][2], which IPM is part of).
 
@@ -25,7 +20,7 @@ In all of this, I trust that some people will be able reciprocate the gift in wa
 
 In the past, people would bring me in to [perform for their campus or organization][4], and gift honoraria that support this site, and keep this work alive. This was the primary way I supported this site, but as of 2019 I&#8217;m no longer performing campus programs, and trying to fund my work here directly.
 
-The primary way that most folks can give back now, and support the work I&#8217;m doing here, is by [becoming patrons][7] ([supporters of the site][7] or [author][8]), or making [one-time donations][9].
+The primary way that most folks can give back now, and support the work I&#8217;m doing here, is by [becoming patrons][7] ([supporters of the site][12] or [author][8]), or making [one-time donations][9].
 
 You can also gift to IPM by supporting different projects within the hues collective, like [Every Shirt is Political][10] or [Impetus Books][11].
 
@@ -36,14 +31,14 @@ Here&#8217;s to over 5 years living a bold experiment,
 <3 sK
 
  [1]: https://en.wikipedia.org/wiki/Gift_economy
- [2]: http://healthyunderstoodeducatedsafe.com/about/gift/
+ [2]: http://hues.xyz/about/gift/
  [3]: /about-the-blog/
  [4]: /campus-programs/
  [5]: /2013/11/uncopyright/
  [6]: /articles-books/
- [7]: /support/
- [8]: /support/author/
+ [7]: /patronize/
+ [8]: https://patreon.com/killermann
  [9]: /donate/
- [10]: http://everyshirtispolitical.com
+ [10]: https://everyshirtispolitical.com
  [11]: http://impetus.pw
  [12]: http://patreon.com/itspronouncedmetrosexual
