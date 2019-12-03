@@ -30,17 +30,10 @@ tags:
   # - Terminology
   # - Public Thinking
   # - TMI
-
 ---
 <address>
   This is an excerpted NEW chapter from the 2nd Edition of my book, <a href="http://guidetogender.com">A Guide to Gender</a>, which came out today (March 15th, 2017). I&#8217;m publishing it here because today <a href="http://time.com/4701658/texas-senate-bathroom-bill-sb6-transgender/">my state&#8217;s senate took another step in a harmful direction</a>, approving SB6, our current &#8220;bathroom bill.&#8221; We must overcome this bigotry and ignorance. Lives are at stake (and they&#8217;re not the cis lives these laws are purporting to protect).
 </address>
-
-> President Kennedy: “Congratulations! How do you feel?”
-  
-> Forrest Gump: “I gotta pee.”
-  
-> – Forrest Gump (1994)
 
 In the winter of 2013, I was bouncing around North America attending town halls. I was invited by local activists, trans* folks, and advocacy groups who wanted me to hear about or weigh in on a discussion that was taking center stage in their communities. The issue being discussed: bathrooms. And, more specifically, who gets to pee where.
 

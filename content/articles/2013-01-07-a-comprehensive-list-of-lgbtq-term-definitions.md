@@ -33,7 +33,7 @@ tags:
 accolades: GOAT
 ---
 <address>
-  Hi! This post is now available as part of an <strong><a href="https://itspronouncedmetrosexual.com/2019/02/defining-lgbtq-guide-to-gender-sexuality-terminology/" title="Announcing: Defining LGBTQ+ E-Book">E-Book called &#8220;Defining LGBTQ+&#8221;</a></strong>. It includes the most recently updated definitions for all the terms below, the rules, and a bunch of other stuff. You can <strong><a href="https://gum.co/defininglgbtq?wanted=true" target="_blank" title="Download LGBTQ+ Terminology E-Book" rel="noopener noreferrer">download it as a .PDF</a></strong> right now.
+  Hi! This post is now available as part of an <strong><a href="/2019/02/defining-lgbtq-guide-to-gender-sexuality-terminology/" title="Announcing: Defining LGBTQ+ E-Book">E-Book called &#8220;Defining LGBTQ+&#8221;</a></strong>. It includes the most recently updated definitions for all the terms below, the rules, and a bunch of other stuff. You can <strong><a href="https://gum.co/defininglgbtq?wanted=true" target="_blank" title="Download LGBTQ+ Terminology E-Book" rel="noopener noreferrer">download it as a .PDF</a></strong> right now.
 </address>
 
 *This list is neither comprehensive nor inviolable, but it&#8217;s a work in progress toward those goals. With identity terms, trust the person who is using the term and their definition of it above any dictionary. These definitions are the creation of a cultural commons: emails, online discussions, and in-person chats, with the initial curation being mine, then growing into a collaboration between [Meg Bolger](https://megbolger.com) and me at&nbsp;[TheSafeZoneProject.com][1].

@@ -229,8 +229,8 @@ And if your heart, like mine, desires equity, it&#8217;ll point you toward it ev
 
  [1]: /2019/01/social-justice-then-and-now/
  [2]: http://talklikeapirate.com/wordpress/
- [3]: https://www.itspronouncedmetrosexual.com/2018/03/taxonomy-social-justice-people/
+ [3]: /2018/03/taxonomy-social-justice-people/
  [4]: http://pirates.wikia.com/wiki/Jack_Sparrow%27s_compass
- [5]: https://itspronouncedmetrosexual.com/tag/social-justice-dogma/
- [6]: https://www.itspronouncedmetrosexual.com/2013/11/uncopyright/
+ [5]: /tag/social-justice-dogma/
+ [6]: /2013/11/uncopyright/
  [7]: /contact/

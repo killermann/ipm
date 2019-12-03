@@ -6,5 +6,10 @@
 /articles-books/                /articles/
 /videos-podcasts/               /videos/
 /activities-courses/            /courses/
+/category/gender-2/             /categories/gender/
+/category/sexuality-2/          /categories/sexuality/
+/about-sam-killermann/          /about/about-sam-killermann/
+/about-the-blog/                /about/about-the-blog/
+/category/socialjustice/        /category/social-justice/
 /category/*                     /categories/:splat
 /tag/*                          /tags/:splat

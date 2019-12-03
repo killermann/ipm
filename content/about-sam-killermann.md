@@ -110,8 +110,8 @@ If you want to get in touch with Sam personally to talk about something you read
  [4]: /edugraphics-printables/
  [5]: https://github.com/killermann/ipm
  [6]: https://samuelkillermann.com/about
- [7]: http://itspronouncedmetrosexual.com/2012/03/the-genderbread-person-v2-0/
- [8]: http://itspronouncedmetrosexual.com/2014/07/how-the-gender-neutral-bathroom-sign-i-made-is-being-manufactured-and-donated-to-colleges/
+ [7]: /genderbread-person/
+ [8]: /2014/07/how-the-gender-neutral-bathroom-sign-i-made-is-being-manufactured-and-donated-to-colleges/
  [9]: http://www.guidetogender.com/
  [10]: http://youtu.be/NRcPXtqdKjE
  [11]: http://thesafezoneproject.com/

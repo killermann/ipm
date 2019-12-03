@@ -36,7 +36,7 @@ Finally, and this is no small grievance, Google repeatedly shut down my ad accou
 
 So no advertising is my path. And reader-funding is my new (as of 2018) path.
 
- [1]: /2012/03/the-genderbread-person-v2-0/ "The Genderbread Person v2.0"
+ [1]: /genderbread-person/ "The Genderbread Person v2.0"
  [2]: /tags/privilege/
  [3]: /2013/11/uncopyright/ "Announcement: I’m Uncopyrighting Everything I’ve Published Here"
  [4]: https://www.patreon.com/posts/i-migrated-ipms-16260203

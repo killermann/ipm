@@ -116,7 +116,7 @@ I hope you&#8217;ll take this leap with me.
 
  [1]: /2017/12/introduction-social-justice-dogma/
  [2]: /2017/12/why-i-finally-broke-silence-social-justice-dogma/
- [3]: https://itspronouncedmetrosexual.com/tag/social-justice-dogma
+ [3]: /tag/social-justice-dogma
  [4]: /2018/06/unhelpful-tenets-social-justice-dogma/
  [5]: https://hereticpodcast.com/updates/want-to-be-a-guest-want-to-nominate-one-yes-please-heres-how/
  [6]: /videos-podcasts/

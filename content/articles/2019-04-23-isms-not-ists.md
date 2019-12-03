@@ -59,6 +59,6 @@ And that if we don’t do it carefully, it’s likely to create more problems th
 
 It already is.
 
- [1]: https://itspronouncedmetrosexual.com/category/socialjustice/
+ [1]: /category/socialjustice/
  [2]: /2018/10/what-kind-of-social-justice-are-you-talking-about/
- [3]: https://itspronouncedmetrosexual.com/tag/privilege
+ [3]: /tag/privilege

@@ -31,8 +31,8 @@ Here&#8217;s to over 5 years living a bold experiment,
 <3 sK
 
  [1]: https://en.wikipedia.org/wiki/Gift_economy
- [2]: http://hues.xyz/about/gift/
- [3]: /about-the-blog/
+ [2]: https://hues.xyz/about/gift/
+ [3]: /about/about-the-blog/
  [4]: /campus-programs/
  [5]: /2013/11/uncopyright/
  [6]: /articles-books/

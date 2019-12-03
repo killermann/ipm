@@ -43,11 +43,11 @@ That will cost at least $400/month, and will help prevent against cyber attacks,
 
 ### This is long overdue, and will help sustain the site in more ways than one.
 
-For the past several years, IPM hosting has been donated by a very kind person who wanted to support IPM and [now on hiatus]&nbsp;[GAB][5]. But I feel like I&#8217;ve long since overstayed my welcome, a guest who moved into a friend&#8217;s couch. And whenever the site gets slammed, I feel a &#8220;beggars can&#8217;t be choosers&#8221; type of guilt asking my host for help, knowing that I cannot afford the level of hosting this site needs.
+For several years, IPM hosting was donated by a very kind person who wanted to support the cause. But I felt like I had long since overstayed my welcome, a guest who moved into a friend&#8217;s couch. And whenever the site got slammed, I felt a &#8220;beggars can&#8217;t be choosers&#8221; type of guilt asking my host for help, knowing that I could not afford the level of hosting this site needs.
 
 Because the online resource itself doesn&#8217;t generate any revenue (I give everything away for free, and operate the site in the spirit of the&nbsp;[gift][6]), it&#8217;s dependent upon other things to survive (e.g., people paying me dollars to perform shows, speak, and royalties from my books).
 
-It&#8217;s also reliant upon me beyond income (my technical skills [low], my time [stretched thin]) to survive. If I go (e.g., if one of the 10,000 death threats I get a year is followed through), so does the site. That would be a bummer on two accounts.
+It&#8217;s also reliant upon me beyond income (my technical skills [low], my time [stretched thin]) to survive. If I go (e.g., if one of the 10,000 death threats I've received is followed through), so does the site. That would be a bummer on two accounts.
 
 ### From the very cockles of my heart: Thank you.
 
@@ -75,9 +75,8 @@ Let's start with Patreon. This video explains it pretty well:
 
 The short version in case you don't want to watch a video: Patreon is a platform that allows people to support creators they appreciate, building on the age-old idea of &#8220;patronage.&#8221;
 
- [1]: /about-sam-killermann/
+ [1]: /about/about-sam-killermann/
  [2]: /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign.pdf
  [3]: /2012/03/the-genderbread-person-v2-0/#sthash.nOkF12Lr.dpbs
  [4]: https://www.patreon.com/itspronouncedmetrosexual
- [5]: http://gamersagainstbigotry.org/
  [6]: https://en.wikipedia.org/wiki/Gift_economy

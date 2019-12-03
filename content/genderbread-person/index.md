@@ -1,6 +1,7 @@
 ---
 title: The Genderbread Person
 author: Sam Killermann
+body_class: rainbow-header
 type: page
 date: 2015-03-18T14:19:30+00:00
 featured_image: /wp-content/uploads/2015/03/genderbread-person-stickers.jpg
@@ -9,6 +10,8 @@ featured_image: /wp-content/uploads/2015/03/genderbread-person-stickers.jpg
 The Genderbread Person is a cute, approachable model for understanding the social construction of gender, based on the input of thousands of voices over several decades. Every version I ([Sam Killermann][1]) have made is yours to use however you&#8217;d like, having [uncopyrighted][2] all of my work here in 2013, a decision I&#8217;ve [never regretted][3].<a id="top"></a>
 
 This page holds a bunch of different versions of the Genderbread Person I&#8217;ve made in a variety of file types &#8212; all in one place for easy use as a reference and resource &#8212; as well as some others I&#8217;ve been sent from around the web.
+
+![Genderbread Person Stickers](/wp-content/uploads/2015/03/genderbread-person-stickers.jpg)
  
 ## A Table of Contents for this Page
 
@@ -115,7 +118,7 @@ Here are a few GP3.3 downloads & links:
   
 [<img class="alignnone size-medium wp-image-2911 lazy-load" data-src="/wp-content/uploads/2015/03/genderkoek-300x211.png" alt="genderkoek" width="300" height="211" data-srcset="/wp-content/uploads/2015/03/genderkoek-300x211.png 300w, /wp-content/uploads/2015/03/genderkoek-1024x722.png 1024w, /wp-content/uploads/2015/03/genderkoek.png 1053w" sizes="(max-width: 300px) 100vw, 300px" />][36][<img class="alignnone size-medium wp-image-2916 lazy-load" data-src="/wp-content/uploads/2015/03/interactive-genderbread-person-300x195.jpg" alt="interactive-genderbread-person" width="300" height="195" data-srcset="/wp-content/uploads/2015/03/interactive-genderbread-person-300x195.jpg 300w, /wp-content/uploads/2015/03/interactive-genderbread-person.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /><img class="alignnone size-medium wp-image-2912 lazy-load" data-src="/wp-content/uploads/2015/03/Gender-Gumby-Photo-300x225.jpg" alt="Gender Gumby Photo" width="300" height="225" data-srcset="/wp-content/uploads/2015/03/Gender-Gumby-Photo-300x225.jpg 300w, /wp-content/uploads/2015/03/Gender-Gumby-Photo.jpg 1024w, /wp-content/uploads/2015/03/Gender-Gumby-Photo-800x600.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />][37][<img class="alignnone size-medium wp-image-2913 lazy-load" data-src="/wp-content/uploads/2015/03/gender-gumby-232x300.jpg" alt="gender-gumby" width="232" height="300" data-srcset="/wp-content/uploads/2015/03/gender-gumby-232x300.jpg 232w, /wp-content/uploads/2015/03/gender-gumby.jpg 612w" sizes="(max-width: 232px) 100vw, 232px" />][38][<img class="alignnone size-medium wp-image-2914 lazy-load" data-src="/wp-content/uploads/2015/03/interactive-gp-300x177.gif" alt="interactive-gp" width="300" height="177" />][39][<img class="alignnone size-medium wp-image-2915 lazy-load" data-src="/wp-content/uploads/2015/03/msu-gp-slide-300x225.jpg" alt="msu-gp-slide" width="300" height="225" data-srcset="/wp-content/uploads/2015/03/msu-gp-slide-300x225.jpg 300w, /wp-content/uploads/2015/03/msu-gp-slide.jpg 1024w, /wp-content/uploads/2015/03/msu-gp-slide-800x600.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />][40]
 
- [1]: /about-sam-killermann/ "Sam Killermann, Social Justice Comedian"
+ [1]: /about/about-sam-killermann/ "Sam Killermann, Social Justice Comedian"
  [2]: /2013/11/uncopyright/ "Announcement: I’m Uncopyrighting Everything I’ve Published Here"
  [3]: /2014/12/uncopyright-reflection/ "I Uncopyrighted My Work One Year Ago: Here’s What I’ve Learned"
  [4]: #usage

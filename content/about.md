@@ -68,10 +68,10 @@ I hope you trust that everything here is yours as much as it is mine, that you a
 If nothing else, I hope you do everything in your power to make the people in your life feel completely unashamed of who they are.
 
 <div style="margin: 2em auto; text-align: center; font-size: 1.2em;">
-  <a class="button" href="https://www.itspronouncedmetrosexual.com/support">Support the Site</a> <a class="button" href="https://www.itspronouncedmetrosexual.com/support/author">Support the Author</a>
+  <a class="button" href="/support/">Support the Site</a> <a class="button" href="/donate/">Make a Donation</a>
 </div>
 
- [1]: /about-sam-killermann/
+ [1]: /about/about-sam-killermann/
  [2]: /2013/11/uncopyright/
  [3]: /gift-economy/
  [4]: /about/about-the-blog/
