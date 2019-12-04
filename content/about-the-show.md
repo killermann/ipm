@@ -3,18 +3,17 @@ title: What’s this Show About?
 author: Sam Killermann
 type: page
 url: /about/about-the-show/
-draft: true
 date: 2011-11-03T01:19:27+00:00
 ---
-_It&#8217;s Pronounced Metrosexual_ is a one-man comedy show about snap judgments, identity, and oppression&#8211;funny stuff, right?
+<address>Hey friend! As of 2018, I'm no long performing the IPM show. This is a weird thing to say, because IPM was originally <em>only</em> a comedy show, and for about 7 years it's been the primary way I've made rent and supported this online resource, but it's my response to the realities of the world we live in and our current cultural moment. I <em>might</em> write more about this, but for not suffice it to say I don't think it's the right thing to do. And for now, I'm just telling you that the show is canceled, but I'm leaving all this stuff below here for posterity.</address>
+
+_It&#8217;s Pronounced Metrosexual_ is a comedy show about snap judgments, identity, and oppression&#8211;funny stuff, right?
 
 IPM was written through the [eyes of straight man who is oftentimes perceived to be gay][1].  It&#8217;s real life: true stories collected and sewn together to create a 45-minute show ripe with laughs that leaves the audience thinking.  As Sam tells his story,he creates a visceral metaphor for stereotyping as a form of oppression.  The issues and over-arching themes he discusses can be applied to all groups&#8211;it&#8217;s not just for &#8216;primped straight boys.&#8217;
 
 It&#8217;s an easy, [low-budget][2] way to create a high-impact experience for audience members.  All you need is a stage, a stool, a chair, and a microphone.  Sam will do the rest.
 
-<address>
-  Check out <a title="Boston College Article" href="http://www.bcheights.com/killermann-makes-serious-issues-comical-1.2950377" target="_blank">this article</a> published in a local paper after Sam performed at Boston College.  It&#8217;s a fantastic summary of the show, from an outside perspective.
-</address>
+Check out <a title="Boston College Article" href="http://www.bcheights.com/killermann-makes-serious-issues-comical-1.2950377" target="_blank">this article</a> published in a local paper after Sam performed at Boston College.  It&#8217;s a fantastic summary of the show, from an outside perspective.
 
 ## Frequently Answered Questions
 
