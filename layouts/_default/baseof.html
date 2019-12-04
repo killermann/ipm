@@ -21,13 +21,10 @@
 	<meta name="MobileOptimized" content="375">
 	<meta name="viewport" content="width=device-width,minimum-scale=1">
 	{{ hugo.Generator }}
-
 	<link rel="stylesheet" href="{{ .Site.BaseURL }}style.css">
-
 	{{ block "favicon" . }}
 	{{ partial "site-favicon.html" . }}
 	{{ end -}}
-
 	<!-- Facebook Open Graph -->
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="{{ if ne .Permalink "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}"/>
