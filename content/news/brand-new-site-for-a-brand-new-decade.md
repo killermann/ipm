@@ -68,7 +68,7 @@ This is still a ship with a single crew member, and I'll be the one writing [all
 
 Everything here is [still uncopyrighted](/2013/11/uncopyright/), and yours to print, use, improve, and share however you'd like.
 
-I still think [John Mulaney's "What's New Pusscat?" bit](https://www.youtube.com/watch?v=Mw7Gryt-rcc) is one of the funniest stories ever told on stage.
+I still think [John Mulaney's "What's New Pussycat?" bit](https://www.youtube.com/watch?v=Mw7Gryt-rcc) is one of the funniest stories ever told on stage.
 
 And [I still love you.](/2012/05/5-reasons-im-a-social-justice-all/)
 
