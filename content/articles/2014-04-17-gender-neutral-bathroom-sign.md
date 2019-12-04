@@ -57,7 +57,7 @@ I decided to put my super sharp visualization cortex part of my brain to work, t
 
 ## Introducing: The Sam Killermann Super Innovative Gender Neutral Bathroom Sign
 
-[<img class="alignnone size-full wp-image-2409 lazy-load" data-src="/wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-White-1000.jpg" alt="Gender-Neutral-Toilet-Sign-White-1000" width="1000" height="1000" data-srcset="/wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-White-1000.jpg 1000w, /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-White-1000-150x150.jpg 150w, /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-White-1000-300x300.jpg 300w, /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-White-1000.jpg 125w" sizes="(max-width: 1000px) 100vw, 1000px" />][1]
+<img class="alignnone size-full wp-image-2409 lazy-load" data-src="/wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-White-1000.jpg" alt="Gender-Neutral-Toilet-Sign-White-1000" width="1000" height="1000" data-srcset="/wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-White-1000.jpg 1000w, /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-White-1000-150x150.jpg 150w, /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-White-1000-300x300.jpg 300w, /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-White-1000.jpg 125w" sizes="(max-width: 1000px) 100vw, 1000px" />
 
 I know I probably need to explain this so you can help walk your state reps, building managers, and administrators through the idea. So let me walk you through the design phase of this graphic step by step, including my thoughts as the designer.
 
@@ -65,21 +65,23 @@ I know I probably need to explain this so you can help walk your state reps, bui
 
 You&#8217;re not going to believe this, but like most great ideas, the idea for this toilet design to denote that a room has a toilet actually came to me while I was sitting on the toilet. Serendipity, I&#8217;d say.
 
-[<img class="alignnone size-full wp-image-2343 lazy-load" data-src="/wp-content/uploads/2014/04/Step-2-Gender-Neutral-Bathroom-Sign.jpg" alt="Step-2-Gender-Neutral-Bathroom-Sign" width="800" height="400" data-srcset="/wp-content/uploads/2014/04/Step-2-Gender-Neutral-Bathroom-Sign.jpg 800w, /wp-content/uploads/2014/04/Step-2-Gender-Neutral-Bathroom-Sign-300x150.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][2]
+<img class="alignnone size-full wp-image-2343 lazy-load" data-src="/wp-content/uploads/2014/04/Step-2-Gender-Neutral-Bathroom-Sign.jpg" alt="Step-2-Gender-Neutral-Bathroom-Sign" width="800" height="400" data-srcset="/wp-content/uploads/2014/04/Step-2-Gender-Neutral-Bathroom-Sign.jpg 800w, /wp-content/uploads/2014/04/Step-2-Gender-Neutral-Bathroom-Sign-300x150.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />
 
 &nbsp;
 
 One of the hardest parts of creating innovative, break through visuals to represent complex ideas is being sure you include all the necessary components and dimensions of what you&#8217;re trying to convey. I think I nailed it. But I had to be sure&#8230;
 
-[<img class="alignnone size-full wp-image-2344 lazy-load" data-src="/wp-content/uploads/2014/04/Step-3-Gender-Neutral-Bathroom-Sign.jpg" alt="Step-3-Gender-Neutral-Bathroom-Sign" width="800" height="400" data-srcset="/wp-content/uploads/2014/04/Step-3-Gender-Neutral-Bathroom-Sign.jpg 800w, /wp-content/uploads/2014/04/Step-3-Gender-Neutral-Bathroom-Sign-300x150.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][3]
+<img class="alignnone size-full wp-image-2344 lazy-load" data-src="/wp-content/uploads/2014/04/Step-3-Gender-Neutral-Bathroom-Sign.jpg" alt="Step-3-Gender-Neutral-Bathroom-Sign" width="800" height="400" data-srcset="/wp-content/uploads/2014/04/Step-3-Gender-Neutral-Bathroom-Sign.jpg 800w, /wp-content/uploads/2014/04/Step-3-Gender-Neutral-Bathroom-Sign-300x150.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />
 
 At an alarming, unprecedented 100% success rate, literally every participant in my focus group correctly identified the abstract, gender-neutral concept I came up with to identify a restroom. Granted, my research at this point is limited geographically to Philadelphia, specifically the corner of Sansom & 20th Street, but I have reason to believe that we can generalize beyond this population. I will confirm this as I continue my travels.
 
-Here are a couple examples of the sign, hypothetically, in action:[<img class="alignnone size-full wp-image-2353 lazy-load" data-src="/wp-content/uploads/2014/04/sign-on-doors.jpg" alt="sign-on-doors" width="800" height="437" data-srcset="/wp-content/uploads/2014/04/sign-on-doors.jpg 800w, /wp-content/uploads/2014/04/sign-on-doors-300x163.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][4]
+Here are a couple examples of the sign, hypothetically, in action:
+
+<img class="alignnone size-full wp-image-2353 lazy-load" data-src="/wp-content/uploads/2014/04/sign-on-doors.jpg" alt="sign-on-doors" width="800" height="437" data-srcset="/wp-content/uploads/2014/04/sign-on-doors.jpg 800w, /wp-content/uploads/2014/04/sign-on-doors-300x163.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />
 
 Lastly, here it is in a few different colors, to demonstrate the concept&#8217;s versatility:
 
-[<img class="alignnone size-full wp-image-2354 lazy-load" data-src="/wp-content/uploads/2014/04/colors.jpg" alt="colors" width="800" height="300" data-srcset="/wp-content/uploads/2014/04/colors.jpg 800w, /wp-content/uploads/2014/04/colors-300x112.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][5]
+<img class="alignnone size-full wp-image-2354 lazy-load" data-src="/wp-content/uploads/2014/04/colors.jpg" alt="colors" width="800" height="300" data-srcset="/wp-content/uploads/2014/04/colors.jpg 800w, /wp-content/uploads/2014/04/colors-300x112.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />
 
 To the final person I surveyed, a self-identified man who begrudgingly gave me his name, Adam, I asked, &#8220;If you saw this image on a door, what do you think my be behind that door?&#8221;
 
@@ -87,11 +89,11 @@ To which he replied, quickly and confidently, &#8220;A person taking a shit. Now
 
 Yes you can, Adam. We all can.
 
+{{< heyheylook >}}
+
 ## Joking Aside, It&#8217;s Really Not That Hard
 
 Any one-person, private restroom can (and, I&#8217;d argue, should) be a gender neutral restroom. It basically already is. Use whatever sign you&#8217;d like, or just do it the British way and put W.C. on the door (I believe it stands for &#8220;Who Cares?&#8221;).
-
-{{< heyheylook >}}
 
 
  [4]: /wp-content/uploads/2014/04/sign-on-doors.jpg

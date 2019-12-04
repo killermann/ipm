@@ -60,8 +60,7 @@ How cool is that, folks? I would say this is a pretty great example of conscious
 
 _Oh, and I totally forgot one absolutely integral, kind of terrifying piece of this whole puzzle: The Nic Cage_
 
-[<img class="alignright size-large wp-image-2361 lazy-load" data-src="/wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-Nic-Cage-2000-1024x1024.png" alt="Gender-Neutral-Toilet-Sign-Nic-Cage-2000" width="1024" height="1024" data-srcset="/wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-Nic-Cage-2000-1024x1024.png 1024w, /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-Nic-Cage-2000-150x150.png 150w, /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-Nic-Cage-2000-300x300.png 300w, /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-Nic-Cage-2000.png 125w" sizes="(max-width: 1024px) 100vw, 1024px" />][3]
+[<img class="aligncenter size-large wp-image-2361 lazy-load" data-src="/wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-Nic-Cage-2000-1024x1024.png" alt="Gender-Neutral-Toilet-Sign-Nic-Cage-2000" width="1024" height="1024" data-srcset="/wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-Nic-Cage-2000-1024x1024.png 1024w, /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-Nic-Cage-2000-150x150.png 150w, /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-Nic-Cage-2000-300x300.png 300w, /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-Nic-Cage-2000.png 125w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
 
  [1]: /2014/04/gender-neutral-bathroom-sign/ "Solution for the “Confusing” Gender Neutral Toilet Sign Issue"
  [2]: http://www.mydoorsign.com/all-gender-restroom-signs
- [3]: /wp-content/uploads/2014/04/Gender-Neutral-Toilet-Sign-Nic-Cage-2000.png

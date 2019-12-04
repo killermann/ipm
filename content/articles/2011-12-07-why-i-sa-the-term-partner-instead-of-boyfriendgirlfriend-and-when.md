@@ -37,7 +37,7 @@ accolades: Rising Star
 ---
 Using the term &#8220;partner&#8221; to replace boyfriend or girlfriend is widely suggested as a means to speak more inclusively, allowing gay, lesbian, or bisexual people feel more comfortable.  When I use this term to refer to my partner around straight people, I&#8217;m often asked, &#8220;why did you say your partner instead of your girlfriend?&#8221;  What&#8217;s the point?  Let me explain the three main reasons why I have replaced boyfriend/girlfriend/husband/wife with partner.
 
-### 1. It doesn&#8217;t hurt anyone _to_ say partner
+### 1. It doesn&#8217;t hurt anyone to say partner
 
 Using the term &#8220;partner&#8221;, particularly when inquiring about stranger&#8217;s partner (&#8220;how long have you been with your partner?&#8221; instead of &#8220;how long have you been with your girlfriend?&#8221;), avoids the heteronormative assumption that the guy you are asking has a girlfriend/wife or the gal you are asking has a boyfriend/husband.
 

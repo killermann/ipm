@@ -10,8 +10,8 @@ summaryLength = 40
 	name = "Sam Killermann"
 
 [params]
-	author_patrons_count = 12
-	site_patrons_count = 34
+	author_patrons_count = 14
+	site_patrons_count = 27
 	email_list_url = "https://itspronouncedmetrosexual.us3.list-manage.com/subscribe/post?u=7f90a3f9a7e245fa145b3ba44&id=ffe51c3832"
   mainSections = ["articles", "edugraphics", "books", "videos", "courses", "news"]
 	description = "Learn about gender, sexuality, & social justice with Sam Killermann. Your free online resource for everything from genderbread people to LGBTQ vocabulary."

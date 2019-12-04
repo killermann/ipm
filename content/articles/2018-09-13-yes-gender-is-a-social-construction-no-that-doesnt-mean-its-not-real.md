@@ -46,7 +46,7 @@ The famous example: money. Nobody would argue that there is any _inherent_ value
 
 Gender is one of the few ways we still allow (actually, _encourage_) systemic, identity-based discrimination and segregation. It&#8217;s one of the fundamental ways we&#8217;re taught to see the world, and the world is taught to see us. It&#8217;s infused in our names and how we [talk about][2] others.
 
-Now, is it _based _in biology? _Influenced _by? Completely _unmoored_ from? That&#8217;s a different argument, and one we can&#8217;t get to until we stop conflating it with this one.
+Now, is it _based_ in biology? _Influenced_ by? Completely _unmoored_ from? That&#8217;s a different argument, and one we can&#8217;t get to until we stop conflating it with this one.
 
 It&#8217;s like arguing about the [gold standard][3].
 

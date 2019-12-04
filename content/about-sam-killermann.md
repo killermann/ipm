@@ -15,7 +15,7 @@ On this page, you can read more about me than I&#8217;m sure you&#8217;d care to
   * [**https://samuelkillermann.com/about**][6] &#8211;&nbsp;Sooo many words and all the personal identity deets you need (or are gonna get)
 
 <div style="margin: 2em auto; text-align: center; font-size: 1.2em;">
-  <a class="button" href="https://www.patreon.com/join/killermann?utm_source=ipm&utm_medium=about_the_author&utm_campaign=new_experiment">Become Sam&#8217;s Boss</a> <a class="button" href="https://bemyboss.es?utm_medium=about_the_author&utm_campaign=new_experiment">Learn More</a>
+  <a class="button" target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/join/killermann?utm_source=ipm&utm_medium=about_the_author">Become My Patron</a> <a class="button button-alt" href="/patronize/">Learn More</a>
 </div>
 
 <figure class="aligncenter is-resized"><a href="/2012/12/reasons-people-believe-feminism-hates-men/"><img data-src="/wp-content/uploads/2012/12/im-a-feminist.jpg" alt="Sam Killermann: &quot;Yes, I'm a Feminist&quot; doodle" class="wp-image-2032 lazy-load" width="400" height="300" data-srcset="/wp-content/uploads/2012/12/im-a-feminist.jpg 800w, /wp-content/uploads/2012/12/im-a-feminist-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a><figcaption>My most popular doodle ever, shared more times across more social media pages than I could ever account for</figcaption></figure>
@@ -28,11 +28,10 @@ Sam Killermann is a dedicated ally and advocate for social justice. Ultimately, 
 
 Check out Sam&#8217;s <a href="https://www.youtube.com/watch?v=NRcPXtqdKjE" target="_blank" rel="noopener noreferrer">TEDxTalk, &#8220;Understanding the Complexities of Gender&#8221;</a> for a taste of how he social justice comedes:
 
-
 {{< youtube NRcPXtqdKjE >}}
 
 <div style="margin: 2em auto; text-align: center; font-size: 1.2em;">
-  <a class="button" href="https://www.patreon.com/join/killermann?utm_source=ipm&utm_medium=about_the_author&utm_campaign=new_experiment">Become Sam&#8217;s Boss</a> <a class="button" href="https://bemyboss.es?utm_medium=about_the_author&utm_campaign=new_experiment">Learn More</a>
+  <a class="button" target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/join/killermann?utm_source=ipm&utm_medium=about_the_author">Become My Patron</a> <a class="button button-alt" href="/patronize/">Learn More</a>
 </div>
 
 ## Sam Killermann Generic Bio
@@ -53,10 +52,6 @@ Sam is the co-creator of&nbsp;[TheSafeZoneProject.com][11], a free online resour
 
 Outside of his key initiatives, Sam is a frequent keynote speaker, makes political shirts for&nbsp;[EveryShirtIsPolitical][12], co-facilitates&nbsp;[FacilitatingXYZ][13], was named a “Person We Love” by Yes! Magazine, Austin “Changemaker,” &nbsp;and is always dreaming up new social good projects. When he’s not on the road, he likes to spend at least a few hours a day bicycling around sunny Austin, TX, where he counts himself lucky to live.
 
-<div style="margin: 2em auto; text-align: center; font-size: 1.2em;">
-  <a class="button" href="https://www.patreon.com/join/killermann?utm_source=ipm&utm_medium=about_the_author&utm_campaign=new_experiment">Become Sam&#8217;s Boss</a> <a class="button" href="https://bemyboss.es?utm_medium=about_the_author&utm_campaign=new_experiment">Learn More</a>
-</div>
-
 ## How&#8217;d he end up doing this?
 
 There is no college major to end up being a &#8220;social justice comedian,&#8221; as many of his peers have labeled him. &nbsp;But believe it or not, he draws deeply from his education when writing and performing.
@@ -74,7 +69,7 @@ You can hear him talk more about his career, and his thoughts on careers and lif
 </div>
 
 <div style="margin: 2em auto; text-align: center; font-size: 1.2em;">
-  <a class="button" href="https://www.patreon.com/join/killermann?utm_source=ipm&utm_medium=about_the_author&utm_campaign=new_experiment">Become Sam&#8217;s Boss</a> <a class="button" href="https://bemyboss.es?utm_medium=about_the_author&utm_campaign=new_experiment">Learn More</a>
+  <a class="button" target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/join/killermann?utm_source=ipm&utm_medium=about_the_author">Become My Patron</a> <a class="button button-alt" href="/patronize/">Learn More</a>
 </div>
 
 ## More than just metro.
@@ -101,7 +96,7 @@ If you want to get in touch with Sam personally to talk about something you read
   * Twitter: <a title="Sam on Twitter" href="http://twitter.com/killermann" target="_blank" rel="noopener noreferrer">http://twitter.com/killermann</a>
 
 <div style="margin: 2em auto; text-align: center; font-size: 1.2em;">
-  <a class="button" href="https://www.patreon.com/join/killermann?utm_source=ipm&utm_medium=about_the_author&utm_campaign=new_experiment">Become Sam&#8217;s Boss</a> <a class="button" href="https://bemyboss.es?utm_medium=about_the_author&utm_campaign=new_experiment">Learn More</a>
+  <a class="button" target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/join/killermann?utm_source=ipm&utm_medium=about_the_author">Become My Patron</a> <a class="button button-alt" href="/patronize/">Learn More</a>
 </div>
 
  [1]: https://samuelkillermann.com
