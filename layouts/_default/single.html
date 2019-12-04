@@ -38,9 +38,9 @@
 			<span class="author-name theme-font">by Sam Killermann</span>
 		</a>
 		<p class="patron-message">
-			Sam is able to create {{with .CurrentSection.Params.title }}{{ . | lower }}{{ else }}resources{{ end }} like this thanks to <a target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/killermann" title="Sam Killermann Patreon">funding from {{ with .Site.Params.author_patrons_count }}{{ . }}{{ end }} patrons</a>. And we can keep this site thriving thanks to <a target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/itspronouncedmetrosexual" title="IPM Patreon">IPM’s {{ with .Site.Params.site_patrons_count }}{{ . }}{{ end }} patrons</a>.
+			Sam is able to create {{with .CurrentSection.Params.title }}{{ . | lower }}{{ else }}resources{{ end }} like this thanks to <a target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/killermann" title="Sam Killermann Patreon" onClick="ga('send', 'event', 'Patronize', '{{ .Title }}', 'Funding from sK Patrons');">funding from {{ with .Site.Params.author_patrons_count }}{{ . }}{{ end }} patrons</a>. And we can keep this site thriving thanks to <a target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/itspronouncedmetrosexual" title="IPM Patreon" onClick="ga('send', 'event', 'Patronize', '{{ .Title }}', 'Funding from IPM Patrons');">IPM’s {{ with .Site.Params.site_patrons_count }}{{ . }}{{ end }} patrons</a>.
 		</p>
-		<a href="/patronize" title="Become a Patron" class="alt-font highlight">Become a Patron.</a> <a href="/patronize/#what-is-patronage-all-about" title="Learn about becoming a Patron" class="alt-font highlight">Learn More.</a>
+		<a href="/patronize/" title="Become a Patron" class="alt-font highlight" onClick="ga('send', 'event', 'Patronize', '{{ .Title }}', 'Become a Patron');">Become a Patron.</a> <a href="/patronize/#what-is-patronage-all-about" title="Learn about becoming a Patron" class="alt-font highlight" onClick="ga('send', 'event', 'Patronize', '{{ .Title }}', 'Learn More');">Learn More.</a>
 	</section>
 
 	<div class="wrap">

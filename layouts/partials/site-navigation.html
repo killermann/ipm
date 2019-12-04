@@ -1,6 +1,6 @@
 <nav role="navigation" class="header-nav">
 
-	<a href="#menu" id="explore-button" title="Menu" data-tooltip="Menu" class="bonus-point" aria-label="Open full menu to explore site">
+	<a href="#menu" id="explore-button" title="Menu" data-tooltip="Menu" class="bonus-point" aria-label="Open full menu to explore site" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Header', eventLabel: 'Explore Menu'});">
 		<svg width="0" height="0" class="open" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
 		  <path d="M17 44l116 3c11 0 33 5 43-3s-4-16-12-18c-18-2-36-1-54-1l-57-2c-12 0-32-4-44 1-14 6-3 20 8 20zM16 99l110 3c13 1 28 3 41-1 14-5 11-17-3-19-7-2-15 0-23 0h-27l-54-2H31c-7-1-15-2-22 0-15 5-4 18 7 19zM1 147c5 14 29 9 39 9h64c18 1 37 3 55 2 8 0 28-4 19-16-7-8-23-6-32-6l-66-2c-7 0-87-7-79 13z"/>
 		</svg>
@@ -29,7 +29,7 @@
 			{{ end -}}
 		{{ end -}}
 	</ul>
-	<a href="{{ .Site.BaseURL }}support" id="donate-button" class="bonus-point" title="Support" aria-label="Support the Site by Donating">
+	<a href="{{ .Site.BaseURL }}support" id="donate-button" class="bonus-point" title="Support" aria-label="Support the Site by Donating" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Header', eventLabel: 'Chip In'});">
 		<span style="opacity: .5;">Chip In</span>
 		<svg width="0" height="0" xmlns="http://www.w3.org/2000/svg" alt="Raised Fist" viewBox="0 0 144 180">
 		  <path d="M3 91c0 5 2 13 7 16 7 3 12-4 14-10 2-7 0-15 0-22V47c-1-6-2-14-8-17-7-3-12 5-14 11v21l1 29zM37 23c1 22-2 45 1 67 1 6 3 15 10 15 8 0 11-8 11-14V28c-1-7-2-17-10-18s-12 6-12 13zM71 17v25c0 6-1 13 3 19 4 5 10 7 14 2s5-13 5-19l1-23c0-6-1-14-6-18-9-7-17 7-17 14zM106 56c2 12 15 15 19 4 3-7 2-14 2-21V16c-2-10-13-18-20-6-3 6-2 14-2 21l1 25z"/>
