@@ -12,5 +12,6 @@
 /about-the-show/                /about/about-the-show/
 /about-the-blog/                /about/about-the-blog/
 /category/socialjustice/        /category/social-justice/
+/2019/06/new-course-community-social-justice-minus-dogma/   /courses/social-justice-minus-dogma-course/
 /category/*                     /categories/:splat
 /tag/*                          /tags/:splat
