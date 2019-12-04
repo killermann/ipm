@@ -58,7 +58,7 @@ TL;DR: **All of these new things can represented in this one image**, which is t
 
 ![100 for performance, 100 for accessibility, 100 for best practices, 100 for SEO, and progressive web app enabled](https://i.imgur.com/eKcVSJF.png)
 
-## What's not new, pusscats:
+## What's not new, pussycats:
 
 Beyond the site's digital architecture itself, not much is changing.
 
