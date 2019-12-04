@@ -4,7 +4,6 @@ author: Sam Killermann
 type: post
 date: 2019-12-04T11:49:05+00:00
 excerpt: I rebuilt IPM from the ground up to make it more accessible, less resource-intensive, faster, more secure, and future-proof. Here's why and how.
-url: /2019/03/social-justice-dogma-course-community/
 featured_image: /img/posts/succulent-not-included.jpg
 categories: 
    - The Site
