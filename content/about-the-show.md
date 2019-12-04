@@ -5,7 +5,7 @@ type: page
 url: /about/about-the-show/
 date: 2011-11-03T01:19:27+00:00
 ---
-<address>Hey friend! As of 2018, I'm no long performing the IPM show. This is a weird thing to say, because IPM was originally <em>only</em> a comedy show, and for about 7 years it's been the primary way I've made rent and supported this online resource, but it's my response to the realities of the world we live in and our current cultural moment. I <em>might</em> write more about this, but for not suffice it to say I don't think it's the right thing to do. And for now, I'm just telling you that the show is canceled, but I'm leaving all this stuff below here for posterity.</address>
+<address>Hey friend! As of 2018, I'm no long performing the IPM show. This is a weird thing to say, because IPM was originally <em>only</em> a comedy show, and for about 7 years it's been the primary way I've made rent and supported this online resource, but it's my response to the realities of the world we live in and our current cultural moment. I <em>might</em> write more about this, but for now suffice it to say I don't think it's the right thing to do. But I'm leaving all this stuff below here for posterity.</address>
 
 _It&#8217;s Pronounced Metrosexual_ is a comedy show about snap judgments, identity, and oppression&#8211;funny stuff, right?
 
