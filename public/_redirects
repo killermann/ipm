@@ -13,5 +13,8 @@
 /about-the-blog/                /about/about-the-blog/
 /category/socialjustice/        /category/social-justice/
 /2019/06/new-course-community-social-justice-minus-dogma/   /courses/social-justice-minus-dogma-course/
+/feed/                          /index.xml
+https://itspronouncedmetrosexual.netlify.com/ https://www.itspronouncedmetrosexual.com/ 
+http://itspronouncedmetrosexual.netlify.com/ https://www.itspronouncedmetrosexual.com/ 
 /category/*                     /categories/:splat
 /tag/*                          /tags/:splat
