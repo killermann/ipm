@@ -10,7 +10,7 @@ categories:
 tags:
    - TMI
 ---
-I created this site in 2011 not knowing what I was doing, or what to expect. Hundreds of millions of downloads, shares, and resources distributed later, as we're about to embark on a new decade, I figured it was time to recreate this site. Bonus: now I _kinda_ know what I'm doing.
+I created [the IPM site](/about/) in 2011 not knowing what I was doing, or what to expect. Hundreds of millions of downloads, shares, and resources distributed later, as we're about to embark on a new decade, I figured it was time to recreate this site. Bonus: now I _kinda_ know what I'm doing.
 
 Let's start with some context. 
 

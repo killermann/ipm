@@ -22,9 +22,7 @@
 		
 	</div>
 
-	<div class="card-image lazy-load" {{ with .Params.featured_image }}data-background-image="{{.}}"{{ end }}>
-		&nbsp;
-	</div>
+	<div class="card-image lazy-load" {{ with .Params.featured_image }}data-background-image="{{.}}"{{ end }}></div>
 
 	<a class="abs-fill" href="{{ .Permalink }}"><span class="hidden">{{ .Title }}</span></a>
 </article>

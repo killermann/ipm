@@ -165,7 +165,7 @@ if (ipmElabThree){
 <section class="section-main grid">
 	<div class="cards">
 		<span class="aside-note">The Latest 👇</span>
-		{{ range first 6 .Pages.ByDate.Reverse}}
+		{{ range first 6 (where site.Pages "Type" "post" ) }}
 			{{ partial "card.html" . }}
 		{{ end }}
 		<nav class="flex space-between">
