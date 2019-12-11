@@ -6,7 +6,7 @@ date: 2016-01-28T00:21:05+00:00
 excerpt: 11 Key Concepts You Didn't Know You Didn't Know (Co-authored with Meg Bolger)
 url: /books/unlocking-the-magic-of-facilitation
 buy: https://amzn.to/2dDFVuJ
-featured_image: /img/posts/unlocking-the-magic-of-facilitation-by-sam-killermann-meg-bolger-featured-image.jpg
+featured_image: /img/featured/unlocking-the-magic-of-facilitation-by-sam-killermann-meg-bolger-featured-image.jpg
 categories:
   - Social Justice
 tags: 

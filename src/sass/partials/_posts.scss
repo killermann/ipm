@@ -587,7 +587,7 @@
 .aligncenter, 
 .alignwide {
   img {
-    width: 100%;
+    max-width: 100%;
     border-radius: 4px;
   }
 }
@@ -760,11 +760,16 @@ GLOSSARY TERMINOLOGY LGBTQ POST
 *********************/
 
 .term {
-	float:left;
 	font-weight:bold;
-	margin-right: .5em !important;
-	display:inline-block;
+	margin: 2em auto 0 !important;
 	font-family:$alt-font;
+
+	a:before {
+		content: "";
+		display: block;
+		padding-top: 50px; /* header height + empty space */
+		margin-top: -50px; /* header height to degrees padding’s space */
+	}
 }
 
 .Bold-Italic {
@@ -782,5 +787,5 @@ GLOSSARY TERMINOLOGY LGBTQ POST
 }
 
 .definition {
-	margin: 1em auto;
+	margin: .5em auto 0 !important;
 }

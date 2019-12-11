@@ -6,7 +6,7 @@ date: 2017-03-14T00:21:05+00:00
 excerpt: "The Social Justice Advocate's Handbook"
 url: /books/guide-to-gender/
 buy: https://amzn.to/2li0YWS
-featured_image: /img/posts/guide-to-gender-2nd-edition-by-sam-killermann-featured-image.jpg
+featured_image: /img/featured/guide-to-gender-2nd-edition-by-sam-killermann-featured-image.jpg
 categories:
   - Gender
 tags: 

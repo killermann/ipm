@@ -6,7 +6,7 @@ date: 2019-02-21T00:21:05+00:00
 excerpt: 'A Guide to Gender & Sexuality Terminology'
 url: /books/defining-lgbtq/
 buy: https://gum.co/defininglgbtq?wanted=true
-featured_image: /img/posts/defining-lgbtq-by-sam-killermann-featured-image.jpg
+featured_image: /img/featured/defining-lgbtq-by-sam-killermann-featured-image.jpg
 categories:
   - Gender
   - Sexuality

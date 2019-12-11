@@ -36,7 +36,7 @@ accolades: GOAT
   Hi! This post is now available as part of an <strong><a href="/books/defining-lgbtq/" title="Defining LGBTQ+ E-Book">E-Book called &#8220;Defining LGBTQ+&#8221;</a></strong>. It includes the most recently updated definitions for all the terms below, the rules, and a bunch of other stuff. You can <strong><a href="https://gum.co/defininglgbtq?wanted=true" target="_blank" title="Download LGBTQ+ Terminology E-Book" rel="noopener noreferrer">download it as a .PDF</a></strong> right now.
 </address>
 
-*This list is neither comprehensive nor inviolable, but it&#8217;s a work in progress toward those goals. With identity terms, trust the person who is using the term and their definition of it above any dictionary. These definitions are the creation of a cultural commons: emails, online discussions, and in-person chats, with the initial curation being mine, then growing into a collaboration between [Meg Bolger](https://megbolger.com) and me at&nbsp;[TheSafeZoneProject.com][1].
+*This list is neither comprehensive nor inviolable, but it&#8217;s a work in progress toward those goals. With identity terms, trust the person who is using the term and their definition of it above any dictionary. These definitions are the creation of a cultural commons: emails, online discussions, and in-person chats, with the initial curation being mine, then growing into a collaboration between [Meg Bolger](https://megbolger.com) and me at [TheSafeZoneProject.com][1].
 
 <span style="font-weight: 400;">We are constantly&nbsp;honing and adjusting language to &#8212; our humble goal &#8212; have the definitions resonate with at least 51 out of 100 people who use the words.&nbsp;Identity terms are tricky, and trying to write a description that works <em>perfectly</em> for <em>everyone</em> using that label simply isn&#8217;t possible.</span>
 
@@ -245,7 +245,7 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor025"></a>drag queen
+  <a id="term-drag-queen"></a>drag queen
 </p>
 
 <p class="definition">
@@ -253,7 +253,7 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor026"></a>dyke
+  <a id="term-dyke"></a>dyke
 </p>
 
 <p class="definition">
@@ -261,7 +261,7 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor027"></a>emotional attraction
+  <a id="term-emotional-attraction"></a>emotional attraction
 </p>
 
 <p class="definition">
@@ -269,7 +269,7 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor028"></a>fag(got)
+  <a id="term-fag"></a>fag(got)
 </p>
 
 <p class="definition">
@@ -277,7 +277,7 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor029"></a>feminine-of-center; masculine-of-center
+  <a id="term-feminine-of-center-masculine-of-center"></a>feminine-of-center; masculine-of-center
 </p>
 
 <p class="definition">
@@ -285,7 +285,7 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor030"></a>feminine-presenting; masculine-presenting
+  <a id="term-feminine-masculine-presenting"></a>feminine-presenting; masculine-presenting
 </p>
 
 <p class="definition">
@@ -293,7 +293,7 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor031"></a>femme
+  <a id="term-femme"></a>femme
 </p>
 
 <p class="definition">
@@ -301,15 +301,15 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor032"></a>fluid(ity)
+  <a id="term-fluidity"></a>fluid(ity)
 </p>
 
 <p class="definition">
-  <span class="Taxonomy">adj. : </span>generally with another term attached, like gender-fluid or fluid-sexuality, fluid(ity) describes an identity that may change or shift over time between or within the mix of the options available (e.g., man and woman, bi and straight).
+  <span class="Taxonomy">adj. : </span>generally with another term attached, like "gender fluid" or fluid sexuality, fluid(ity) describes an identity that may change or shift over time between or within the mix of the options available (e.g., man and woman, bi and straight).
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor033"></a>FtM / F2M; MtF / M2F
+  <a id="term-ftm-mtf"></a>FtM / F2M; MtF / M2F
 </p>
 
 <p class="definition">
@@ -317,7 +317,7 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor034"></a>gay
+  <a id="term-gay"></a>gay
 </p>
 
 <p class="definition">
@@ -325,7 +325,7 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor035"></a>gender binary
+  <a id="term-gender-binary"></a>gender binary
 </p>
 
 <p class="definition">
@@ -333,7 +333,7 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor036"></a>gender expression
+  <a id="term-gender-expression"></a>gender expression
 </p>
 
 <p class="definition">
@@ -341,15 +341,7 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor037"></a>gender fluid
-</p>
-
-<p class="definition">
-  <span class="Taxonomy">adj. : </span>a gender identity best described as a dynamic mix of boy and girl. A person who is gender fluid may always feel like a mix of the two traditional genders, but may feel more man some days, and more woman other days.
-</p>
-
-<p class="term">
-  <a id="_idTextAnchor038"></a>gender identity
+  <a id="term-gender-identity"></a>gender identity
 </p>
 
 <p class="definition">
@@ -357,7 +349,7 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor039"></a>gender neutrois
+  <a id="term-gender-neutrois"></a>gender neutrois
 </p>
 
 <p class="definition">
@@ -365,23 +357,32 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor040"></a>gender non-conforming
+  <a id="term-gender-non-conforming"></a>gender non-conforming
 </p>
 
 <p class="definition">
-  <span class="Numerals">1</span><span class="Taxonomy"> adj. : </span>a gender expression descriptor that indicates a non-traditional gender presentation (masculine woman or feminine man).<span class="Taxonomy"> </span><span class="Numerals">2</span><span class="Taxonomy"> adj. : </span>a gender identity label that indicates a person who identifies outside of the gender binary. Often abbreviated as “GNC.”
+  <span class="Numerals">1</span><span class="Taxonomy"> adj. : </span>a gender descriptor that indicates a non-traditional gender expression or identity (e.g., "masculine woman").<span class="Taxonomy"> </span><span class="Numerals">2</span><span class="Taxonomy"> adj. : </span>a gender identity label that indicates a person who identifies outside of the gender binary. Often abbreviated as “GNC.”
 </p>
 
 <p class="term">
-  <a id="_idTextAnchor041"></a>gender normative / gender straight
+  <a id="term-gender-normative"></a>gender normative / gender straight
 </p>
 
 <p class="definition">
   <span class="Taxonomy">adj. : </span>someone whose gender presentation, whether by nature or by choice, aligns with society’s gender-based expectations.
 </p>
 
+
 <p class="term">
-  <a id="_idTextAnchor042"></a>genderqueer
+  <a id="term-genderfluid"></a>genderfluid / gender fluid
+</p>
+
+<p class="definition">
+  <span class="Numerals">1</span><span class="Taxonomy"> adj. :</span> a gender identity label often used by people whose sense of self in relation to gender changes from time-to-time. The time frame might be over the course of many months, days, shorter, or longer, but the consistent experience is one of change. <span class="Taxonomy"></span><span class="Numerals">2</span><span class="Taxonomy"> adj. :</span> a general descriptor for an individual's or society's ever-changing (i.e., "fluid") embodiment of gender, in the ways it affects us or we express it individually (e.g., someone might express gender fluidly), and/or in how it is socially constructed.
+</p>
+
+<p class="term">
+  <a id="term-genderqueer"></a>genderqueer
 </p>
 
 <p class="definition">
@@ -393,7 +394,7 @@ Some definitions here may include words you aren&#8217;t familiar with, or have 
 </p>
 
 <p class="definition">
-  <span class="Taxonomy">adj. : </span>someone who either by nature or by choice does not conform to gender-based expectations of society (e.g. transgender, transsexual, intersex, genderqueer, cross-dresser, etc).
+  <span class="Taxonomy">adj. : </span>someone who either by nature or by choice does not conform to gender-based expectations of society (e.g. transgender, transsexual, intersex, genderqueer, cross-dresser, etc). (See gender non-conforming)
 </p>
 
 <p class="term">

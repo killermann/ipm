@@ -1,10 +1,11 @@
 ---
-title: Why your intentions don’t really matter, but outcomes do
+title: Why Your Intentions Don't Really Matter, but Outcomes Do
 author: Sam Killermann
 type: post
 date: 2012-04-30T23:34:29+00:00
 url: /2012/04/why-your-intentions-dont-matter-victim-blaming-and-political-correctness/
 featured_image: /wp-content/uploads/2012/04/ingrids-intentionality-elixir.jpg
+excerpt: We're obsessed with intentions, and the idea of "I didn't meant to cause that harm" comes up constantly in social justice spaces. Here's one way to think about that.
 categories: 
   # - Gender
   # - Sexuality
@@ -34,11 +35,10 @@ tags:
   # - TMI
 accolades: Rising Star
 ---
-[<img class="alignnone size-full wp-image-1439 lazy-load" title="&quot;Ingrid's Intentionality Elixir&quot; Comic" alt="&quot;Ingrid's Intentionality Elixir&quot; Comic" data-src="/wp-content/uploads/2012/04/ingrids-intentionality-elixir.jpg" width="1000" height="667" data-srcset="/wp-content/uploads/2012/04/ingrids-intentionality-elixir.jpg 1000w, /wp-content/uploads/2012/04/ingrids-intentionality-elixir-300x200.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" />][1]
 
 I&#8217;ve created a <a title="Flowchart: when it’s okay to say “that’s so gay”" href="/2012/04/flowchart-when-its-okay-to-say-thats-so-gay-prin/" target="_blank">few</a> <a title="A visual aid: when “gay” is okay" href="/2011/12/a-visual-aid-when-gay-okay-to-sa/" target="_blank">graphics</a> about <a title="Even better flowchart: when it’s okay to say “gay”" href="/2012/04/even-better-flowchart-when-its-okay-to-say-gay/" target="_blank">when it&#8217;s okay to say &#8220;gay&#8221;</a> and the one argument that keeps coming up goes something like &#8220;How can you regulate language? What&#8217;s offensive to one person is not to another.  What matters is your intentions.&#8221;
 
-**Intentions don&#8217;t matter, effect does.**
+To that, the first and most important thing I have to say is this: **Your intentions don&#8217;t matter as much as the effect of your actions.**
 
 I will elaborate on my response to that question more in a bit, but first I want to pose another question, and posit an answer.
 
@@ -58,7 +58,7 @@ Sound screwy to you?  Then you&#8217;re in the minority.  <a title="London 201
 
 ### &#8220;Political Correctness&#8221;
 
-I don&#8217;t think the graphics I make or anything I do here or in my live show is encouraging being &#8220;politically correct.&#8221;  I support being inclusive.  I wrote an entire article about the <a title="Political Correctness VS. Inclusiveness" href="/2011/12/political-correct-versus-being-inclusiv/" target="_blank">difference between being inclusive and politically correct</a>, so I&#8217;ll let you read that if you want to hear more.  For this article, all that&#8217;s important is knowing that a lot of people oppose my graphics (and my life in general) because they oppose the idea of being &#8220;PC.&#8221;
+I don&#8217;t think the graphics I make or anything I do here or in my live show is encouraging being &#8220;politically correct.&#8221;  I support being inclusive.  I wrote an entire article about the [difference between being inclusive and politically correct](/2011/12/political-correct-versus-being-inclusiv/), so I&#8217;ll let you read that if you want to hear more.  For this article, all that&#8217;s important is knowing that a lot of people oppose my graphics (and my life in general) because they oppose the idea of being &#8220;PC.&#8221;
 
 The opposition to &#8220;political correctness&#8221; appears to be strong across the political spectrum.  Regardless of left or right leanings, people don&#8217;t like to be told what to say, and they don&#8217;t like being censored.  I echo those feelings.
 

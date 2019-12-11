@@ -4,7 +4,7 @@ author: Sam Killermann
 type: post
 date: 2019-12-04T11:49:05+00:00
 excerpt: I rebuilt IPM from the ground up to make it more accessible, less resource-intensive, faster, more secure, and future-proof. Here's why and how.
-featured_image: /img/posts/succulent-not-included.jpg
+featured_image: /img/featured/succulent-not-included.jpg
 categories: 
    - The Site
 tags:

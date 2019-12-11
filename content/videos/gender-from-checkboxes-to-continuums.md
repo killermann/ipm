@@ -4,7 +4,7 @@ author: Sam Killermann
 type: post
 date: 2017-04-27T17:34:36+00:00
 excerpt: "In this Nerd Nite talk, \"Gender, From Boxes to -Ness\", I walk you through the different ways I've thought about gender over the years."
-featured_image: /img/posts/gender-from-boxes-to-ness-sam-killermann.jpg
+featured_image: /img/featured/gender-from-boxes-to-ness-sam-killermann.jpg
 featured_video: q8bSIuyJHD8
 categories: 
    - Gender

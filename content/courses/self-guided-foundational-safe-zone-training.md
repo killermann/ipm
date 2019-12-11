@@ -5,7 +5,7 @@ type: post
 date: 2018-07-27T17:34:36+00:00
 excerpt: "Co-created with Meg Bolger at The Safe Zone Project, this course is a beginners-friendly intro to LGBTQ+ inclusion and resepect."
 description: "Learn about your first impressions of LGBTQ+ people, core vocabulary, gender & sexuality theory, privilege & coming out, and get your questions answered."
-featured_image: /img/posts/foundational-safe-zone-training-course-screenshot.jpg
+featured_image: /img/featured/foundational-safe-zone-training-course-screenshot.jpg
 categories: 
    - Gender
    - Sexuality

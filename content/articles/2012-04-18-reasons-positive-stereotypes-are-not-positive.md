@@ -3,23 +3,22 @@ title: 3 Reasons Positive Stereotypes aren’t that Positive
 author: Sam Killermann
 type: post
 date: 2012-04-18T04:30:19+00:00
+excerpt: We know all stereotypes aren't negative (e.g., "gay men are stylish", "Asians are good at math"), but it turns out even the "good" ones may be not be good at all.
 url: /2012/04/reasons-positive-stereotypes-are-not-positive/
 featured_image: /wp-content/uploads/2012/04/black-and-gay-comic.jpg
-thesis_description:
-  - |
-    We know all stereotypes aren't negative (gay men are stylish, Asians are good at math), but it turns out even the "good" ones may be not be good at all.
-thesis_keywords:
-  - stereotypes, oppression, prejudice, identity, positive, research, examples
-dsq_thread_id:
-  - 655053644
-algolia_searchable_posts_records_count:
-  - 4
-sections:
-  - 'Articles &amp; Books'
+categories: 
+  - Social Justice
+tags:
+  - Education
+  - Identity
+  - List
+  - Start Here
 accolades: Bona Fide Hit
 ---
 
-In <a title="A show about snap judgments, identity, and oppression." href="/a-show-about-snap-judgments-identity-and-oppression/" target="_blank">my show</a>, I address the issue of positive stereotypes head-on, but I wanted to write an article about it as well.  For those of you unaware, positive stereotypes are assumptions about an entire group or identity (e.g., gay men) that are considered to be &#8220;good.&#8221;  Some examples of positive stereotypes of gay men: they are artsy, friendly, fun, social, well-spoken, well-dressed, well-groomed, fit, and sassy (I think sassy is positive).  The list goes on.  Those are all good things, yeah?  There can&#8217;t be any harm in perpetuating those stereotypes, right?
+In <a title="A show about snap judgments, identity, and oppression." href="/a-show-about-snap-judgments-identity-and-oppression/" target="_blank">my show</a>, I address the issue of positive stereotypes head-on, but I wanted to write an article about it as well.  For those of you unaware, positive stereotypes are assumptions about an entire group or identity (e.g., gay men) that are considered to be "good."
+
+Some examples of positive stereotypes of gay men: they are artsy, friendly, fun, social, well-spoken, well-dressed, well-groomed, fit, and sassy (I think sassy is positive).  The list goes on.  Those are all good things, yeah?  There can&#8217;t be any harm in perpetuating those stereotypes, right?
 
 Wrong.
 

@@ -4,7 +4,7 @@ author: Sam Killermann
 type: post
 date: 2019-06-27T17:34:36+00:00
 excerpt: "Six modules. Go at your own pace. Charting a path toward equity, living social justice."
-featured_image: /img/posts/social-justice-minus-dogma-course-screenshot.jpg
+featured_image: /img/featured/social-justice-minus-dogma-course-screenshot.jpg
 categories: 
   # - Gender
   # - Sexuality
