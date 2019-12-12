@@ -11,7 +11,8 @@ categories:
   - Sexuality
 tags: 
   - Terminology
-  - Printable
+  - LGBTQ
+  - Start Here
 ---
 Hi friends! I&#8217;m going to keep this short. I just put together [an E-Book called &#8220;Defining LGBTQ+.&#8221;][1] It&#8217;s a guide to gender and sexuality terminology, based on my article [Comprehensive List of LGBTQ+ Vocabulary Definitions][2], which was based on the glossary from my first book ([A Guide to Gender][3]), that grew into a collaboration with [Meg Bolger](https://megbolger.com) ([The Safe Zone Project][4]) and thousands of you.
 

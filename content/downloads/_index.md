@@ -1,6 +1,6 @@
 ---
 title: Downloads
-seo_title: Free Downloads of Gender, Sexuality, & Social Justice Resources
+seo_title: Free Downloads of Gender, Sexuality, & Social Justice Resources created by Sam Killermann
 subtitle: Articles, Edugraphics, Books, Videos, & Courses by sK
 description: Download printable, uncopyrighted .PDFs for use in the classroom, workshops, or community activism & organizing
 type: downloads

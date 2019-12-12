@@ -13,7 +13,8 @@ tags:
   - Terminology
   - Identity
   - LGBTQ
-  - Printable
+  - Trans
+  - Start Here
 ---
 
 The first edition was featured as #1 best-seller in Gender on Amazon, and is being used by gender studies & sociology professors on 3 continents. Now with a new foreword by the author, brand new chapters, fixed tpyos, and more gender!
