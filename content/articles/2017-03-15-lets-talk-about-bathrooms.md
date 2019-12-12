@@ -135,7 +135,7 @@ That’s how easy this _can_ be. This whole problem doesn’t have to be a probl
 
 Or at least I hope that’s the case.
 
-\***
+***
 
 <a href="#_ftnref1" name="_ftn1"><sup>[1]</sup></a> That’s an actual statement, from a well-intentioned city councilperson in a small midwestern US town, who will remain unnamed.
 

@@ -275,6 +275,16 @@
 	margin-top: 0;
 }
 
+hr {
+	border: none;
+	width: 33.333%;
+	@extend .ipm-gradient-bg;
+	background-position: top;
+	height: .2em;
+	border-radius: 1em;
+	display: block;
+	margin: 3em auto;
+}
 
 .dropcap, .post-body .entry-content > p:first-of-type {
 

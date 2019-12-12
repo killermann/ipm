@@ -53,13 +53,13 @@ This is you, your lived experience, your wants, your fears, your behaviors, disp
 
 A lot of _and/or-ing_ there, I know, which is important: **there is no minimum level of intimate sexual experience necessary to qualify one as having a legitimate sexuality**. For some people, intimate sexuality may only be an experience they have minimally, or individually; for others, this may be with a partner or partners, and the experience may be romantic, sexual, emotional, spiritual, or more. And while I say there&#8217;s no _minimum,_ I&#8217;d say there&#8217;s no _maximum_ either&#8230; but there are only so many hours in a day, days in a year, and years in your life &#8212; which brings me to my next point.
 
-**What comprises one&#8217;s experience of intimate sexuality is constantly changing. **(Like the leaves on a tree? Yes! Just like the leaves on a tree.)
+**What comprises one&#8217;s experience of intimate sexuality is constantly changing.**(Like the leaves on a tree? Yes! Just like the leaves on a tree.)
 
 ### Relational Sexuality
 
 This is how sexuality is related to a person by the people in their lives: their family, their friends, their teachers, their preachers&#8230; **everyone who has a direct impact on someone, has an impact on their relational sexuality**.
 
-The people in our lives shape how we see ourselves, how we make sense of our intimate experiences, and how we place judgment on different elements of sexuality. Or, and perhaps most importantly, **the people in our lives contribute to our internal definition of what sexuality even **_**is** _&#8212; what elements of life are _allowed to be_, or _can be healthily considered as_ sexuality.
+The people in our lives shape how we see ourselves, how we make sense of our intimate experiences, and how we place judgment on different elements of sexuality. Or, and perhaps most importantly, **the people in our lives contribute to our internal definition of what sexuality even _is_** &#8212; what elements of life are _allowed to be_, or _can be healthily considered as_ sexuality.
 
 Like the trunk of a tree, our relational sexuality supports the branches and leaves of our intimate experiences. It&#8217;s formed early, and while it grows and changes, it does so slowly and stubbornly &#8212; though sometimes we lose a branch, or gain a new etching.
 

@@ -62,7 +62,7 @@ I realized only a few years ago that I wasn&#8217;t the only one feeling it, as 
 
 The subjects of the conversations were always different, but the theme was consistently one of &#8220;are we the only ones?&#8221;
 
-**Are we the only ones who are struggling with, don&#8217;t fully agree with, or don&#8217;t understand [X]? **([X] being some new belief, stance, or action we were seeing a lot our friends in the SJM advancing)
+**Are we the only ones who are struggling with, don&#8217;t fully agree with, or don&#8217;t understand [X]?** ([X] being some new belief, stance, or action we were seeing a lot our friends in the SJM advancing)
 
 In the past few years, these hush-hush, &#8220;are we the only ones&#8221; conversations changed from being something I would rarely have, maybe with 1 colleague in 10 (usually after a conference, workshop, or controversial current event), to 3 out of 4. _The feeling kept coming up._
 
@@ -76,13 +76,13 @@ Before I move forward, I want to define what I mean by the &#8220;Social Justice
 
 It&#8217;s just a slight tweak on the [standard definition of dogma][6], but in ways that have been really helpful in my understanding of this phenomenon. Let&#8217;s break it down.
 
-The **beliefs **show up in the SJM as accepted facts, truths, and principles that we learn as we become part of the movement, and work to teach others.
+The **beliefs** show up in the SJM as accepted facts, truths, and principles that we learn as we become part of the movement, and work to teach others.
 
-**Stances **show up most strongly as things, ideas, or people that we are &#8212; or _should be_ &#8212; against. They also show up as things we should be for.
+**Stances** show up most strongly as things, ideas, or people that we are &#8212; or _should be_ &#8212; against. They also show up as things we should be for.
 
-**Acceptable actions **are the tactics we should use to put our beliefs and stances to work &#8212; all the ways we&#8217;re supposed to show up, interact with others (both inside and outside of the movement), and advance the cause.
+**Acceptable actions** are the tactics we should use to put our beliefs and stances to work &#8212; all the ways we&#8217;re supposed to show up, interact with others (both inside and outside of the movement), and advance the cause.
 
-The **authorities **part is the trickiest, because within the movement we have a lot of different authorities, but you can think of authorities generally as anyone, or any source (platform, org, publication, etc.), who is writing the rules above that we follow, and enforce amongst ourselves. Authorities are the &#8220;they&#8221; when someone says, &#8220;_They_ said you shouldn&#8217;t say/think/do that.&#8221; Authorities as sources show up when people say &#8220;I read on [source] that we should now say/think/do this.&#8221;
+The **authorities** part is the trickiest, because within the movement we have a lot of different authorities, but you can think of authorities generally as anyone, or any source (platform, org, publication, etc.), who is writing the rules above that we follow, and enforce amongst ourselves. Authorities are the &#8220;they&#8221; when someone says, &#8220;_They_ said you shouldn&#8217;t say/think/do that.&#8221; Authorities as sources show up when people say &#8220;I read on [source] that we should now say/think/do this.&#8221;
 
 And all of this adds up: &#8220;[Authority] said [belief] is true and we should show [stance] by [acceptable action].&#8221; What&#8217;s implied, but not often said, is &#8220;_or we&#8217;ll be part of the problem.&#8221;_
 
@@ -98,7 +98,7 @@ And it scares everyone within the SJM I&#8217;ve talked with about it, to varyin
 
 I remember one convo I was having with fellow social justice educator two years ago, where we looked around the room, in which we were alone, and eerily half-joked &#8220;Doesn&#8217;t it feel like someone is listening?&#8221; And another with the executive director of a national queer rights organization who said to me &#8220;If this conversation was public, it would be the end of me, and my organization would probably never recover.&#8221;
 
-What were we so afraid of? The three of us all believe that systemic oppression is real, horrible, and something we should work to dismantle &#8212; indeed, we are doing that work daily. The thing that scared us was the feeling that **even just questioning **a certain idea or tactic (that&#8217;d we&#8217;d been told by some SJM authority to accept or embrace) was crossing some invisible line. An indelible line.
+What were we so afraid of? The three of us all believe that systemic oppression is real, horrible, and something we should work to dismantle &#8212; indeed, we are doing that work daily. The thing that scared us was the feeling that **even just questioning** a certain idea or tactic (that&#8217;d we&#8217;d been told by some SJM authority to accept or embrace) was crossing some invisible line. An indelible line.
 
 And if people found out that we had those questions we&#8217;d be _out_. Alienated. Isolated. Alone. A pariah at best, a target at worst.
 
