@@ -25,7 +25,7 @@ tags:
   # - Social Justice Dogma
   # - Terminology
 ---
-To achieve the goals of [social justice][1], we need to reform society at the system level. We need to dismantle rac_ism_, sex_ism_, cissex_ism_, heterosex_ism_, gender_ism_, able_ism_, class_ism_, and more.
+To achieve the goals of [social justice][1], we need to reform society at the system level. We need to dismantle rac-_ism_, sex-_ism_, cissex-_ism_, heterosex-_ism_, gender-_ism_, able-_ism_, class-_ism_, and more.
 
 Too much of social justice discourse and calls-to-action are focused on the _-ists_, the people participating in (and perpetuating) those systems.
 

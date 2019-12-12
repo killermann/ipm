@@ -1,0 +1,9 @@
+{{ if in .Params.tags "Shorties"}}
+<div class="tagBadge shorties">
+    <h3>This Post is a Shorty</h3>
+    <p>
+        The goal is to get an idea across in 300 or fewer words. I used {{ .WordCount }}, so I {{ if gt .WordCount "300" }}failed you 😩{{ else if eq .WordCount "300" }}barely squeaked by 😅{{ else }}nailed it 🙌{{end}}.
+    </p>
+</div>
+   
+{{ end }}
