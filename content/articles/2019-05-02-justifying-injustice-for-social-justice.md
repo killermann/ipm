@@ -59,6 +59,7 @@ I suspect we cross that line daily.
 And what inequitable actions do we need to stop justifying today, in order to clear the path to the world you imagined?
 
 My hunch: all of them.
+
  [1]: /2019/03/the-two-worlds-dilemma/
  [2]: /2018/03/taxonomy-social-justice-people/
  [3]: /2019/01/introducing-the-social-justice-compass/
