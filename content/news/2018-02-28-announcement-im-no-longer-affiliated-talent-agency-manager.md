@@ -57,9 +57,9 @@ And before you try to set me up with someone, I don&#8217;t think I&#8217;m read
 
 -sK
 
-* * *
+***
 
-**Hey, but seriously: **if you were in the works of booking me, or trying to book me, you have to [start over with me][6]. I don&#8217;t have any records from the past, because of this terrible situation. There are still places on this site (I bet) and other sites (for sure) that show my former manager&#8217;s contact info or agency as a route to book me: those are outdated, and will be removed ASAP.
+**Hey, but seriously:** if you were in the works of booking me, or trying to book me, you have to [start over with me][6]. I don&#8217;t have any records from the past, because of this terrible situation. There are still places on this site (I bet) and other sites (for sure) that show my former manager&#8217;s contact info or agency as a route to book me: those are outdated, and will be removed ASAP.
 
 I have a [really hard time managing my inbox][7], and am dealing with about 50 spinning plates (deciding which ones are going to have to fall), so I appreciate patience, and am incredibly sorry to everyone who&#8217;s been neglected/wronged, and for how my inaction on this front has contributed to that.
 

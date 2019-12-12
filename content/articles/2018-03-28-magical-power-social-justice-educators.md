@@ -91,7 +91,7 @@ What a fun family of qualifiers!
 
 Not included above, but of utmost importance, are the extended family, who aren’t around as much, but make a splash when they visit:
 
-  * **&#8220;The Vast Majority&#8221; **(AKA “Almost Every”) is helpful when you feel as close to 100% as possible, but still aren’t sure that what you’re saying would apply to _literally_ every. single. person.
+  * **&#8220;The Vast Majority&#8221;** (AKA “Almost Every”) is helpful when you feel as close to 100% as possible, but still aren’t sure that what you’re saying would apply to _literally_ every. single. person.
   * **&#8220;All”** (AKA “Every”) is the feral cat that lives in the neighborhood. Sometimes it’s approachable, but it’s more likely to bite you if you get to close. Be cautious, and only go with “all” if you’re absolutely sure it’s ALL, 100%, absolutely every single person (and remember, without any qualifier — “some,” “many,” “most,” etc. — people will often implicitly assume you mean “all”).
   * **&#8220;None”** (AKA “No”) is as risky as “All,” with a special caveat: even when true, or accurate, “none,” is just “a few” waiting to happen.
 
