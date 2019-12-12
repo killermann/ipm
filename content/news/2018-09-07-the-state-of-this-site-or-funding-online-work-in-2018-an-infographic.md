@@ -30,7 +30,7 @@ The message gave the person several options:
   5. &#8220;Make a 1-Time Donation&#8221; (which took them [here][6]); and
   6. &#8220;Read More&#8221;(which took them [here][7])
 
-The **vast **(vast, vast) majority of people ignored the message (over 90%), scrolling down to read the article or download the edugraphic they were looking for.
+The **vast** (vast, vast) majority of people ignored the message (over 90%), scrolling down to read the article or download the edugraphic they were looking for.
 
 Of those who clicked, the vast majority clicked the **X** (about 70%) and closed the message.
 

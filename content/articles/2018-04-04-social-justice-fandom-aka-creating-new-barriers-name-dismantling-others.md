@@ -47,9 +47,7 @@ Most trends, or fandoms, tend to be solely focused on the thing &#8212; the band
 
 There&#8217;s another big difference in how this all plays out within social justice. The people who form community around social justice tend to be:
 
-  1. People who hold marginalized identities, or who have experienced social injustice; **and/or
-  
-** 
+  1. People who hold marginalized identities, or who have experienced social injustice **and/or** 
   2. People who, when presented with social injustice in society, feel compelled to remedy that, and actively look for ways to do so.
 
 If you&#8217;ve walked in social justice circles for a few years, I won&#8217;t be telling you anything new here, but for the rest of you: that &#8220;and/or&#8221; is hugely important.
@@ -58,7 +56,7 @@ It&#8217;s easy to assume all social justice people are here because of both 1 a
 
 Hold that thought for a second.
 
-I wrote a couple weeks ago about some [different taxonomies of social justice people][3], and last week about some [tips that are really helpful for social justice educators][4] in particular. Those two articles, taken together, can be thought of as the following: **in order to achieve the goal of social justice, it&#8217;s helpful for us to know the role(s) we&#8217;re filling, how to best fulfill the duties of that role. **It&#8217;s in that same vein that I&#8217;m writing this article.
+I wrote a couple weeks ago about some [different taxonomies of social justice people][3], and last week about some [tips that are really helpful for social justice educators][4] in particular. Those two articles, taken together, can be thought of as the following: **in order to achieve the goal of social justice, it&#8217;s helpful for us to know the role(s) we&#8217;re filling, how to best fulfill the duties of that role.** It&#8217;s in that same vein that I&#8217;m writing this article.
 
 Are you still following along? I hope so, because this is about to get tricky.
 
@@ -84,7 +82,7 @@ People who may have _just _wanted community around the idea of social justice,
 
 And when that doesn&#8217;t go well &#8212; when the ideas shared aren&#8217;t perfect, or the action steps don&#8217;t necessarily line up &#8212; the anti-social justice people use those missteps to invalidate _social justice_. That&#8217;s not good. That&#8217;s not helpful. And it&#8217;s not moving social justice forward.
 
-**Third and finally, **the last thing I&#8217;ll say about how this shows up differently is short, sweet, and terrifying.
+**Third and finally,** the last thing I&#8217;ll say about how this shows up differently is short, sweet, and terrifying.
 
 If we keep making social justice an Us vs. Them thing, and ever narrowing down the &#8220;Us&#8221; (e.g., by gatekeeping our fandom and enforcing rigid [social justice dogma][7]), we&#8217;re setting ourselves up to fail.
 

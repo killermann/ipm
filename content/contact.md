@@ -16,6 +16,8 @@ I get a lot of emails &#8212; arguably, _too many_ emails (last count: **255,087
 
 ## Common Asks
 
+<a href="/frequent-email-responses/" class="highlight alt-font">Read Frequent Email Responses &rarr;</a>
+
 **If you’re writing in to ask permission** to use anything on the site (e.g., to print a graphic, or copy/paste a thing into another thing), [permission granted][2]. If you just want to get in touch to say thanks, or to share something cool you made with something I made, [Twitter][3] is a great way to do that.
 
 **Here are some things I DON&#8217;T do** (or no longer do), under any circumstances:
@@ -23,7 +25,7 @@ I get a lot of emails &#8212; arguably, _too many_ emails (last count: **255,087
   * Post sponsored content, third party infographics, or do outside advertising in any form
   * Read/share press releases, crowdfunding requests, or other announcements
   * Host unsolicited guest blogs, articles from readers, or other outside content
-  * Perform the It's Pronounced Metrosexual comedy show
+  * Perform the _It's Pronounced Metrosexual_ comedy show
 
 So if you&#8217;re reaching out for the above things, **please know your request will be ignored**. I won't reply to requests to tell you that I don't do these things. Sorry! (This is blunt, but I&#8217;m hoping it will save you the time of reaching out, which I think is a nice form of bluntness)
 

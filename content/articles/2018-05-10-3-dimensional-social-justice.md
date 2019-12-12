@@ -34,7 +34,7 @@ Despite a tidal wave of awareness of social justice issues (or maybe because of 
 
 Recently, I&#8217;ve been wondering: How might we break the loops? How might we respond to people who criticize social justice movements? How might we take steps toward this ultimate goal of &#8220;social justice&#8221;? (That is what it is, right? A goal?)
 
-**3-Dimensional Social Justice** is what came to my mind. **My theory is that we&#8217;ll be more successful if we include (at least) 3 dimensions in our social justice arguments. **
+**3-Dimensional Social Justice** is what came to my mind. **My theory is that we&#8217;ll be more successful if we include (at least) 3 dimensions in our social justice arguments.**
 
 As for what those dimensions are, or how we incorporate them, I have tons of ideas. For example, let&#8217;s start with these three: efficacy, scale, time.
 
