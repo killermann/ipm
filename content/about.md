@@ -2,6 +2,7 @@
 title: About
 author: Admin
 subtitle: "Learn more about me and what I'm doing here."
+description: IPM reaches over a million readers a year in 238 countries. All the articles, edugraphics, videos, and courses created here by Sam Killermann are free & uncopyrighted.
 type: page
 date: 2018-12-10T22:36:33+00:00
 ---

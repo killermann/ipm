@@ -5,7 +5,7 @@ body_class: rainbow-header
 type: page
 date: 2015-03-18T14:19:30+00:00
 featured_image: /wp-content/uploads/2015/03/genderbread-person-stickers.jpg
-
+description: A cute, approachable model for understanding the social construction of gender, gender identity, expression, and sex.
 ---
 The Genderbread Person is a cute, approachable model for understanding the social construction of gender, based on the input of thousands of voices over several decades. Every version I ([Sam Killermann][1]) have made is yours to use however you&#8217;d like, having [uncopyrighted][2] all of my work here in 2013, a decision I&#8217;ve [never regretted][3].<a id="top"></a>
 
