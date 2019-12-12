@@ -50,7 +50,7 @@ Well, you just have to have two things in mind if you're using Genderbread to de
 For example, on the gender identity scales, you might see yourself as existing _between_ the roughly 20% point and 60% point of "woman-ness" **and** 40% point and 80% point on the "man-ness."
 
 <figure class="aligncenter">
-    <img data-src="/img/posts/genderbread-person-fluid-identity-scales.jpg" alt="A 0-100 scale for woman-ness with a circle drawn from the 20% point to the 60% point and a scale for man-ness with a circle from 40% to 80%" class="shadow lazy-load" />
+    <img src="/img/posts/genderbread-person-fluid-identity-scales.jpg" alt="A 0-100 scale for woman-ness with a circle drawn from the 20% point to the 60% point and a scale for man-ness with a circle from 40% to 80%" class="shadow" />
     <figcaption>How you might plot that example.<figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Or maybe you're a firm 0% on man-ness, but identify with different amounts of wo
 Here's how a friend of mine plots their gender identity scales, to describe themself as above -- a "genderfluid femme" way of doodling gender:
 
 <figure class="aligncenter">
-    <img data-src="/img/posts/genderbread-person-fluid-femme-identity.jpg" alt="An X at 0 for man-ness, with a big circle covering most of woman-ness, and an asterisk anchored at about the 30% mark" class="shadow lazy-load" />
+    <img src="/img/posts/genderbread-person-fluid-femme-identity.jpg" alt="An X at 0 for man-ness, with a big circle covering most of woman-ness, and an asterisk anchored at about the 30% mark" class="shadow" />
     <figcaption>The asterisk represents how they most often feel, but the circle is range of fluidity.<figcaption>
 </figure> 
 
@@ -92,8 +92,6 @@ You're not doing it wrong if it changes, or if you're not sure if how you see yo
 Indeed, the Genderbread Person is _just like_ a birth certificate*: you can update it later if you realize the scribbles that were scribbled don't do a good job of representing who you really are.
 
 (*This parallel is true in many countries and states, and generally true as a "should" -- it _should_ be this way with birth certificates)
-
-{{< heyheylook >}}
 
 ## Creativity is encouraged.
 
