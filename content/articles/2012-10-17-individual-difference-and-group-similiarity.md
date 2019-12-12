@@ -82,9 +82,9 @@ It&#8217;s awesome to know that every person you meet probably shares at least o
 
 Okay, so you understand the idea of _You Soup_, and you have a better idea of how we can be absolutely unique and not absolutely unique, all at the same time.  Here&#8217;s some food for thought as you continue to chew on this idea okay yes I&#8217;m a little addicted to this analogy:
 
-  1. **Even though you may share a group identity with someone, you don&#8217;t necessarily know their story.  **Ever noticed how some foods taste better with other foods in the same bite (like how cheese makes broccoli edible?).  Identities are the same way: the combinations make a huge difference.
+  1. **Even though you may share a group identity with someone, you don&#8217;t necessarily know their story.** Ever noticed how some foods taste better with other foods in the same bite (like how cheese makes broccoli edible?).  Identities are the same way: the combinations make a huge difference.
   2. **Even though you may share a group identity with someone, you don&#8217;t necessarily know their story.**  Sorry, this is incredibly important so I felt I had to say it twice.
-  3. **Be careful deconstructing a person (or yourself) down to the individual ingredients.  **While this will be a great learning experience and eye-opening in many ways, for every ingredient you know about there is likely one you don&#8217;t (this goes for yourself, but more so for others), and those secret ingredients might have the biggest impact of all.
+  3. **Be careful deconstructing a person (or yourself) down to the individual ingredients.** While this will be a great learning experience and eye-opening in many ways, for every ingredient you know about there is likely one you don&#8217;t (this goes for yourself, but more so for others), and those secret ingredients might have the biggest impact of all.
   4. **Try to have a relationship with an entire person, not with one of their identities.**  You are inevitably going to be drawn to certain ingredients in others, but a healthier relationship is one that is holistically inclusive of all identities.
 
 ## Have something to add? Share it in a comment below.

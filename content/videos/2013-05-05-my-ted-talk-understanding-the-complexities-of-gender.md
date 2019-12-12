@@ -135,9 +135,7 @@ Don&#8217;t get me wrong: gender identity, or non-binary gender identity, isn&#8
 I&#8217;ve talked about biological sex, how it differs from gender identity. Now let&#8217;s talk about gender expression, a different thing entirely.
 
 **Gender Expression**
-  
-** **
-  
+    
 I&#8217;m a man.
 
 That&#8217;s probably not a surprise to most of you to hear that. Because I&#8217;m so manly.

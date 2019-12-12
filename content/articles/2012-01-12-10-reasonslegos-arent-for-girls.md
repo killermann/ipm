@@ -52,22 +52,22 @@ In releasing the LadyFigs and beginning a &#8220;LEGO for Girls&#8221; (my name,
 
 **Update:** When I wrote this article, a petition was active on <a title="Change.org" href="http://www.change.org/petitions/tell-lego-to-stop-selling-out-girls-liberatelegos" target="_blank">Change.org</a>.  Part of my goal in writing it was to help convince folks to sign the petition using my top 10 frustrations with this campaign:
 
-**10. The LEGO set in the picture is barely even a LEGO set, and more of a dollhouse.  **Are girls not able to piece LEGOs together themselves to make create a gender-stereotypical box in which they can mold themselves?
+**10. The LEGO set in the picture is barely even a LEGO set, and more of a dollhouse.** Are girls not able to piece LEGOs together themselves to make create a gender-stereotypical box in which they can mold themselves?
 
 **9. Diamonds?  Seriously?!**  The hairbrush is one thing, LEGO, but diamonds the size of ostrich eggs?  I think that&#8217;s one step too far.  The girl is seven.  I think the purse is already pushing it.
 
-**8. Is that a diary on her bed?  **Oh wait, let me guess: there is another set with a kitchen theme and it comes with a cookbook.
+**8. Is that a diary on her bed?** Oh wait, let me guess: there is another set with a kitchen theme and it comes with a cookbook.
 
 **7. There are plenty of gender assignments subliminally attached to toys, we don&#8217;t need overt ones.**  LEGO going out of their way to say &#8220;these are for girls&#8221; means they aren&#8217;t for boys, and traditional LEGOs (AKA fun LEGOs) aren&#8217;t for girls.
 
 **6. LEGO is a powerful, trend-setting company; we don&#8217;t need trends that reverse progress.**  What if other toy companies did the same thing?  <a title="Creepy Crawlers" href="http://en.wikipedia.org/wiki/Creepy_Crawlers" target="_blank">Ohwait</a>.
 
-**5. Diamonds? Seriously, seriously?!  **I can&#8217;t get over that.  Are those actually mock diamonds?  I really want to punch my computer screen in the face.
+**5. Diamonds? Seriously, seriously?!** I can&#8217;t get over that.  Are those actually mock diamonds?  I really want to punch my computer screen in the face.
 
-**4. Girls don&#8217;t need LEGO telling them they aren&#8217;t as creative or ingenuitive as boys.  **They already hear that every day from television, their teachers, and, in sad cases, their parents.
+**4. Girls don&#8217;t need LEGO telling them they aren&#8217;t as creative or ingenuitive as boys.** They already hear that every day from television, their teachers, and, in sad cases, their parents.
 
-**3. Boys don&#8217;t need LEGO telling them they need to be more creative and ingenuitive than girls.  **What if a boy wants to sit in front of a mirror, surrounded by diamonds, and brush his hair?  LEGO says, &#8220;no, sir.&#8221;
+**3. Boys don&#8217;t need LEGO telling them they need to be more creative and ingenuitive than girls.** What if a boy wants to sit in front of a mirror, surrounded by diamonds, and brush his hair?  LEGO says, &#8220;no, sir.&#8221;
 
 **2. Toys should be marketed to kids, not boys or girls.**  Guess what, if you do this well, you&#8217;ll have twice (that&#8217;s 200%) the effective audience for your ads, AND you won&#8217;t be subliminally restricting children&#8217;s futures.  Win win.
 
-**1. Why do the girls get all the pretty colors?  **Yeah, why?
+**1. Why do the girls get all the pretty colors?** Yeah, why?

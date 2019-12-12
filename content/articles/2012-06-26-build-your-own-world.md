@@ -57,11 +57,11 @@ I&#8217;m telling you all of this for a few reasons:
 
 **1. I want you to encourage you to build your own world**, to not take what was given to you as absolute, and move and shake and dream and create the world you think ought to be.
 
-**2. I want you to be extra aware of the **_**qualifier trap** _that we all fall into, in hopes that you can prevent yourself from falling in and never getting out.  I know you want to make a positive impression on this world before you leave &#8212; you wouldn&#8217;t visiting my site if you didn&#8217;t.
+**2. I want you to be extra aware of the _qualifier trap_ that we all fall into**, in hopes that you can prevent yourself from falling in and never getting out.  I know you want to make a positive impression on this world before you leave &#8212; you wouldn&#8217;t visiting my site if you didn&#8217;t.
 
 **3. I want to remind you that you _can_ make the difference you want to make**, but only if you&#8217;re willing to put yourself out there and try.  Atwood (one of my fav authors) wrote, &#8220;Thrown over a precipice, you fall or else you fly.&#8221;  A lot of us are so sure we&#8217;ll fall we never try to fly.
 
-4. **I want you to <a title="To the Pledge" href="http://gamersagainstbigotry.org/signatures" target="_blank">sign the pledge to end bigotry in gaming</a>**, though it&#8217;s mostly the first three&#8211; let&#8217;s be honest &#8212; this one would also be nice 🙂
+1. **I want you to <a title="To the Pledge" href="http://gamersagainstbigotry.org/signatures" target="_blank">sign the pledge to end bigotry in gaming</a>**, though it&#8217;s mostly the first three&#8211; let&#8217;s be honest &#8212; this one would also be nice 🙂
 
 {{< heyheylook >}}
 

@@ -53,93 +53,93 @@ But let&#8217;s assume you have thought through that first question and want to 
 
 Super simple solution, but one that is not easily sortable (in a spreadsheet):
 
-> **1. I identify my gender as&#8230;
-  
->**  \___\___\____ (fill in the blank)
+> I identify my gender as&#8230;
+> 
+>  ______ (fill in the blank)
 
 If you don&#8217;t NEED gender, but would prefer to have it, here is one way you could do it:
 
-> **2. I identify my gender as&#8230;
-  
->** [] Man
-  
-> [] Woman
-  
-> [] Genderqueer/Non-Binary
-  
-> [] \___\___\____ (fill in the blank)
-  
-> [] Prefer not to disclose
+> I identify my gender as&#8230;
+> 
+> ❑ Man
+> 
+> ❑ Woman
+>
+> ❑ Genderqueer/Non-Binary
+>
+> ❑ ______ (fill in the blank)
+>
+> ❑ Prefer not to disclose
 
 If you absolutely need to know gender, my next easy suggestion would be to simply remove the &#8220;not disclose&#8221; option:
 
-> **3. I identify my gender as&#8230;
-  
->** [] Man
-  
-> [] Woman
-  
-> [] Genderqueer/Non-Binary
-  
-> [] \___\___\____ (fill in the blank)
+> I identify my gender as&#8230;
+>
+> ❑ Man
+> 
+> ❑ Woman
+> 
+> ❑ Genderqueer/Non-Binary
+> 
+> ❑ ______ (fill in the blank)
 
 If you&#8217;d rather not have a fill in the blank because it will complicate things (e.g., make it harder to sort a spreadsheet), but you want to be incredibly inclusive and specific, here&#8217;s another suggestion:
 
-> **4. I identify my gender as&#8230;
-  
->** [] Man
-  
-> [] Woman
-  
-> [] Transgender
-  
-> [] Genderqueer
-  
-> [] Agender
-  
-> [] Genderless
-  
-> [] Non-binary
-  
-> [] Cis Man
-  
-> [] Cis Woman
-  
-> [] Trans Man
-  
-> [] Trans Woman
-  
-> [] Third Gender
-  
-> [] Two-Spirit
-  
-> [] Bigender
-  
-> [] Genderfluid
+> I identify my gender as&#8230;
+>
+> ❑ Man
+> 
+> ❑ Woman
+> 
+> ❑ Transgender
+> 
+> ❑ Genderqueer
+> 
+> ❑ Agender
+> 
+> ❑ Genderless
+> 
+> ❑ Non-binary
+> 
+> ❑ Cis Man
+> 
+> ❑ Cis Woman
+> 
+> ❑ Trans Man
+> 
+> ❑ Trans Woman
+> 
+> ❑ Third Gender
+> 
+> ❑ Two-Spirit
+> 
+> ❑ Bigender
+> 
+> ❑ Genderfluid
 
 And if you&#8217;d rather have fewer options, even at the sake of inclusivity/specificity:
 
-> **5. I identify my gender as&#8230;
-  
->** [] Man
-  
-> [] Woman
-  
-> [] Genderqueer/Non-Binary
+> I identify my gender as&#8230;
+> 
+> ❑ Man
+> 
+> ❑ Woman
+. 
+> ❑ Genderqueer/Non-Binary
 
 And FINALLY, if you need to know sex rather than gender (the only examples that pop into my mind for a reason why are medical), here&#8217;s a way you can do it and still be inclusive:
 
-> **6. I identify my sex as&#8230;
-  
-> [] Female
-  
-> [] Male
-  
-> [] Intersex
-  
-> [] MtF Female
-  
-> [] FtM Male
+> I identify my sex as&#8230;
+>  
+> ❑ Female
+>  
+> ❑ Male
+>  
+> ❑ Intersex
+>  
+> ❑ MtF Female
+>   
+> ❑ FtM Male
 
 {{< heyheylook >}}
 

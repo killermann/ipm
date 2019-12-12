@@ -58,7 +58,7 @@ As you&#8217;ll see above, we have four elements.  I will break those down, but
 
 {{< heyheylook >}}
 
-Whenever I talk to groups about gender, a common problem arises: people tend to assume that someone has to be on either the left half or the right half of all the continuums above, and when I explain that many people zig zag through the list, they give me blank stares.  I&#8217;m about to say something that will likely freak you out, but be cool, because it&#8217;ll all make sense soon.  **Gender identity, gender expression, biological sex, and sexual orientation are independent of one another (i.e., they are not connected).  **With that said (I&#8217;m going to say it again later), let&#8217;s move on.
+Whenever I talk to groups about gender, a common problem arises: people tend to assume that someone has to be on either the left half or the right half of all the continuums above, and when I explain that many people zig zag through the list, they give me blank stares.  I&#8217;m about to say something that will likely freak you out, but be cool, because it&#8217;ll all make sense soon.  **Gender identity, gender expression, biological sex, and sexual orientation are independent of one another (i.e., they are not connected).** With that said (I&#8217;m going to say it again later), let&#8217;s move on.
 
 ### Gender Identity: Who You _Think_ You Are
 
@@ -315,7 +315,7 @@ Also, feel free to use the comments on this post to discuss, ask questions, or p
 
 And as always, [get in touch][7] if you have any questions you&#8217;d rather not ask in an open forum.  I&#8217;m always willing to help, if I can.
 
-**Heads up: **A ton (ton) of people have written me over the years asking what the origin of the genderbread/gumby model is. I really wish I knew, but I don&#8217;t. It existed before Google 🙂 But if _you_ know, [let me know][7].
+**Heads up:** A ton (ton) of people have written me over the years asking what the origin of the genderbread/gumby model is. I really wish I knew, but I don&#8217;t. It existed before Google 🙂 But if _you_ know, [let me know][7].
 
  [1]: /wp-content/uploads/2011/11/genderbread-person-gender-identity-graphic.jpg
  [2]: /wp-content/uploads/2011/11/genderbread-identity.jpg

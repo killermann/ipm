@@ -163,7 +163,9 @@ MENU STYLES
 	}
 }
 
-/* Single Styles */
+/*********************
+SINGLE POST STYLES
+*********************/
 
 .hero {
 	.primary-tax, #share-count {
@@ -201,6 +203,14 @@ MENU STYLES
 	font-weight: bold;
 }
 
+.tag-badge-wrap {
+	margin: 4vw 4vw -4vw;
+
+	.tag-badge {
+		padding: 1.2em;
+	}
+}
+
 .mailing-list {
 	min-width: 600px;
 	margin: 0;
@@ -227,24 +237,23 @@ MENU STYLES
 	
 	h4 {
 		display: block;
-    color: var(--grey-500);
-    line-height: 1;
-    margin: 0 -2vw 0 0;
-    position: relative;
-    padding-left: 1em;
-    overflow: visible;
-    text-align: right;
-    font-size: calc(1em + 1vw);
+		color: var(--grey-500);
+		line-height: 1;
+		margin: 0 -2vw 0 0;
+		position: relative;
+		padding-left: 1em;
+		overflow: visible;
+		text-align: right;
+		font-size: calc(1em + 1vw);
 
-    svg {
-      display: block;
-      position: absolute;
-      height: .6em;
-      top: 50%;
-      left: -4vw;
-      transform: translateY(-50%);
-
-      width: auto;
+		svg {
+		display: block;
+		position: absolute;
+		height: .6em;
+		top: 50%;
+		left: -4vw;
+		transform: translateY(-50%);
+		width: auto;
     }
 
     span {

@@ -42,11 +42,11 @@ I&#8217;m going to be in Cairo for the month of June 2014. I&#8217;m going ther
 ### **Details**
 
   * **When:** getting in June 6th (KLM changed my flight &#8212; silly KLM), staying for at least three weeks.
-  * **Where: **Cairo will be my home base, staying hostels or with friendly people, but I&#8217;ll bouncing around to different places to talk to folks.
+  * **Where:** Cairo will be my home base, staying hostels or with friendly people, but I&#8217;ll bouncing around to different places to talk to folks.
   * **What:** let&#8217;s call it a sabbatical. I&#8217;d love to talk with and meet as many people (who are interested in gender, sexuality, social justice, or hummus) as possible. I want to hear your stories. Don&#8217;t be shy to message me [on Facebook][2] or send me an email (ideally before I get there).
-  * **Stand up comedy: **I just found out I&#8217;ll be doing a set of comedy on the [English/Arabic] _Al Hezb El Comedy_ Gong Show on June 13th. Check out [their Facebook Page][4] for details. Sounds like a lot of fun, and is run by a very funny, very nice person.
+  * **Stand up comedy:** I just found out I&#8217;ll be doing a set of comedy on the [English/Arabic] _Al Hezb El Comedy_ Gong Show on June 13th. Check out [their Facebook Page][4] for details. Sounds like a lot of fun, and is run by a very funny, very nice person.
   * **Writing:** I&#8217;m going to be writing a lot while I&#8217;m there. I&#8217;ll likely share at least some of that on my blog _Dear World _at [samkillermann.com][5]. Sign up for my (non-IPM) [mailing list][6] to stay tuned on that, if you&#8217;d like.
-  * **Other work-ish stuff: **While this is a sabbatical, I&#8217;m happy to give some short talks, do a few comedy sets, etc. Email my manager Chum cmapa[at]novlmgmt[dawt]com and he&#8217;ll be in touch with me.
+  * **Other work-ish stuff:** While this is a sabbatical, I&#8217;m happy to give some short talks, do a few comedy sets, etc. Email my manager Chum cmapa[at]novlmgmt[dawt]com and he&#8217;ll be in touch with me.
 
 As I&#8217;ve said, this isn&#8217;t really a &#8220;work&#8221; trip, but the odds of me being back are slim, so if I can be helpful while I&#8217;m there I&#8217;m happy to do what I can. Just let me know. My schedule is incredibly flexible.
 

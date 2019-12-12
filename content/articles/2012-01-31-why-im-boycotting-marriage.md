@@ -50,7 +50,7 @@ But that was all before someone shared this Silverman quote with me:
 
 {{< heyheylook >}}
 
-The quote may not be anything new to you, but it perfectly describes my issues with marriage as it stands now. ** I am currently in a serious relationship, and I like the idea of making a lifelong commitment, but I don&#8217;t like the idea of drinking from a fountain that says &#8220;straights only.&#8221; **
+The quote may not be anything new to you, but it perfectly describes my issues with marriage as it stands now. **I am currently in a serious relationship, and I like the idea of making a lifelong commitment, but I don&#8217;t like the idea of drinking from a fountain that says &#8220;straights only.&#8221;**
 
 Marriage shouldn&#8217;t be an exclusive institution.  But as long as it is, I can&#8217;t in good conscience support it.
 

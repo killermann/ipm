@@ -53,7 +53,7 @@ I&#8217;m not doing this because I want to be seen as a public figure, and the o
 
 And I can assure you I&#8217;m not doing this because I get any sort of masochistic pleasure out of the pain and displeasure that accompanies the good, despite this recurring insinuation I see in emails and comments.
 
-So please &#8212; **_please_ **&#8212; stop telling me otherwise. Stop using all of the above to justify the empty, vicious life you&#8217;ve decided to live. Stop attempting to rationalize your hate as symbiotic to my love. I don&#8217;t need it, I don&#8217;t want it, I don&#8217;t appreciate it, find any joy in it, or want it to be part of my life. I apologize if this was somehow confusing to you before, and I apologize for taking this long to clear things up.
+So please &#8212; **_please_** &#8212; stop telling me otherwise. Stop using all of the above to justify the empty, vicious life you&#8217;ve decided to live. Stop attempting to rationalize your hate as symbiotic to my love. I don&#8217;t need it, I don&#8217;t want it, I don&#8217;t appreciate it, find any joy in it, or want it to be part of my life. I apologize if this was somehow confusing to you before, and I apologize for taking this long to clear things up.
 
 Now that we&#8217;re clear, you have my consent to be better.
 

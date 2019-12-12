@@ -34,12 +34,19 @@ tags:
 ---
 I gave a keynote recently, and after someone (a sexual health educator) found me at the conference. &#8220;I just wanted to thank you,&#8221; they started.
 
-{{< heyheylook >}}
+“No need, it was fun to speak to y’all!” I interrupted, as I often do. I’m bad at receiving thanks, and thought I knew where this was going. I was wrong.
 
+“No, I mean for making your work freely available. You don’t know how much that means to us. There are curriculum we’ve paid hundreds of dollars to access, then when they release a new version we need to pay hundreds more. It’s a huge barrier. We’ve used so many of your articles and activities, and we’ve never said thank you, but it’s amazing that you offer it for free.”
+
+“It’s really nothing,” I said, continuing to be bad at receiving thanks. “I’m frustrated it took me so long to embrace it.”
+
+“It’s not nothing. It’s huge. I wish more people would take that leap.”
+
+They were right. It wasn’t nothing. It was huge for me. It was hard. It took hurdling a lot of mental hurdles. It’s still something I work through and process daily. It’s often all too easy to forget the journey to points in our life, and only acknowledge the destination, as if we’ve always been exactly as we are now. I wasn’t always here.
 
 ## Remembering the Journey
 
-<img class="alignright size-full wp-image-2818 lazy-load" data-src="/wp-content/uploads/2014/11/share-borrow-steal.jpg" alt="share-borrow-steal" width="400" height="271" data-srcset="/wp-content/uploads/2014/11/share-borrow-steal.jpg 400w, /wp-content/uploads/2014/11/share-borrow-steal-300x203.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />This site started with a message in the [about page][1]: &#8220;Share/Borrow/Steal.&#8221; It took a couple years to get to the point of _uncopyrighting_ with [a carte blanche, yes-I&#8217;m-sure blog post][2]. At face value, they appear to be twin messages, but they&#8217;re actually quite distant cousins.
+<img class="alignright size-full wp-image-2818 lazy-load" data-src="/wp-content/uploads/2014/11/share-borrow-steal.jpg" alt="share-borrow-steal" width="400" height="271" data-srcset="/wp-content/uploads/2014/11/share-borrow-steal.jpg 400w, /wp-content/uploads/2014/11/share-borrow-steal-300x203.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />This site started with a message in the [about page][1]: &#8220;Share/Borrow/Steal.&#8221; It took a couple years to get to the point of _uncopyrighting_ with [a carte blanche, yes-I'm-sure blog post](/2013/11/uncopyright/). At face value, they appear to be twin messages, but they&#8217;re actually quite distant cousins.
 
 ### &#8220;You really shouldn&#8217;t do that.&#8221; &#8211; Everyone
 
@@ -51,7 +58,7 @@ Not many people navigated to the page with the Share/Borrow/Steal (S/B/S) mantra
 
 &#8220;You don&#8217;t need to be a martyr to accomplish your goals.&#8221;
 
-I heard this on a regular basis for years, and moreso as I further embraced my S/B/S mentality with a [Creative Commons][3] license (my awkward puberty phase between S/B/S and Uncopyright). That phase was thankfully short, a swift but necessary supportive lilly pad between resisting the world we&#8217;re in and embracing &#8220;the more beautiful world [my] heart knows is possible.¹&#8221;
+I heard this on a regular basis for years, and moreso as I further embraced my S/B/S mentality with a [Creative Commons](https://creativecommons.org) license (my awkward puberty phase between S/B/S and Uncopyright). That phase was thankfully short, a swift but necessary supportive lilly pad between resisting the world we&#8217;re in and embracing &#8220;the more beautiful world [my] heart knows is possible.¹&#8221;
 
 The S/B/S idea was important to me. It demonstrated a core social justice value of mine: access. Social justice is about removing barriers and creating an equitable society, so, to me, putting up financial barriers between Folks Who Want to Learn and the Learning is inimical. My S/B/S statement was, as I said above, a form of resistance:
 
@@ -61,20 +68,20 @@ Resistance is important. But I wasn&#8217;t fully embracing my want for better i
 
 To make change, things have to change.
 
-### &#8220;You _REALLY _shouldn&#8217;t do _THAT.&#8221; &#8211; _Everyone, louder, and also Myself
+### &#8220;You _REALLY_ shouldn&#8217;t do _THAT_.&#8221; &#8211; Everyone, louder, and also Myself
 
 A series of experiences catalyzed my transition from S/B/S to Uncopyright.
 
   1. Readers kept sending me links to things I made (like [this][4]) popping up for sale on products (like T-shirts and mugs), without permission. This violated the only exception in my S/B/S agreement, basically &#8220;don&#8217;t sell stuff I drew.&#8221; And while it violated the copyright, and the spirit of my generosity, when readers linked me I would always reply, &#8220;That&#8217;s unfortunate,&#8221; then go back to whatever I was doing. I never pursued any legal action, nor would I. _So why keep the copyright? &#8220;Just in case&#8221; was a phrase that kept ringing in my ears, but ringing wrong somehow._
   2. I started exploring alternatives. I found Creative Commons. Thought it was perfect. Relicensed my site under a [CC, non-commercial, share alike license][5]. After doing that, I kept getting questions about usage, replying with my laissez faire stance, and wondering how I could better communicate this. Then I looked more into Creative Commons and realized [it did not mean what I thought it meant][6]: I still maintained all copyrights, it was just a way of communicating in legalese my previous S/B/S policy. _Same song, different melody. I want to sing a different song, the one I hear in my heart._
   3. Meanwhile, I was in talks with publishers about [my first book][7]. I desperately wanted (demanded) there to be some free way to access it, even if just electronically. I couldn&#8217;t get anyone behind me on this. They saw it as literary suicide. _They&#8217;re singing that song, too. We all are. It&#8217;s a world anthem._
-  4. _ _Investigating all this, I started seeing other creatives who were utilizing different licenses and approaches to their work. This was exciting. I learned about [copyleft][8], [CC freeworks][9], and others. Then I read [Leo Babauta&#8217;s][10] [uncopyright statement on Zen Habits][11]. _Holy shit, that&#8217;s radical. That&#8217;s it. That&#8217;s the song._
+  4. Investigating all this, I started seeing other creatives who were utilizing different licenses and approaches to their work. This was exciting. I learned about [copyleft][8], [CC freeworks][9], and others. Then I read [Leo Babauta&#8217;s][10] [uncopyright statement on Zen Habits][11]. _Holy shit, that&#8217;s radical. That&#8217;s it. That&#8217;s the song._
 
 I told a few colleagues of my newfound desire to uncopyright my work here as an experiment. I shared the idea with the same nervous excitement of introducing your best friend to a new romantic partner: _oh gosh oh gosh I hope they hit it off I don&#8217;t know what I&#8217;ll do if they don&#8217;t oh gosh oh gosh oh gosh._
 
 They didn&#8217;t hit it off.
 
-**&#8220;You need to protect yourself&#8221; **was a different way of saying the world is broken, and you cannot trust strangers. It affirmed a fear I kept hearing in my own mind: if you don&#8217;t look out for yourself, nobody else will. _This is going to backfire._
+**&#8220;You need to protect yourself&#8221;** was a different way of saying the world is broken, and you cannot trust strangers. It affirmed a fear I kept hearing in my own mind: if you don&#8217;t look out for yourself, nobody else will. _This is going to backfire._
 
 **&#8220;You need to make a living&#8221;** was a threat as much as a promise. It echoed the messages I&#8217;d heard my whole life, that if I don&#8217;t put a value on my work, and make people pay for it, nobody would value it, and I would starve. _I can&#8217;t trust the generosity of strangers._
 
@@ -98,19 +105,22 @@ These two books, and a bunch of otheressays, emails, and conversations I&#8217;v
 
 But a year of learning and asking and processing and reflecting, while watching my little [experiment][12] pan out, has left me with one resounding sentiment: YES.
 
+**Uncopyrighting my work has protected myself from participating more than I need to in an unjust system I’m trying to subvert.** Can everyone do it? Nope. Should everyone do it (or should folks who don’t feel ashamed they still maintain their IP)? Absolutely not. But more people can than do, and the fear that is preventing all of us from embracing this idea is a massive barrier to justice.
 
-    	** {{< heyheylook >}}
+**Uncopyrighting my work hasn’t negatively affected my ability to make a living, but has allowed me to live less encumbered.** I never pursued legal action against folks who used my stuff — I likely never would. It was an burdensome relationship that weighed on me. I wanted to give without strings attached. Now I can. And while it’s impossible to say without a control, it doesn’t seem the experiment is opportunity-costing me anything, but I can say with certainty that its empowered people to use my work in ways they otherwise wouldn’t’ve.
 
-Uncopyrighting my work has protected myself from participating more than I need to in an unjust system I&#8217;m trying to subvert. **Can everyone do it? Nope. Should everyone do it (or should folks who don&#8217;t feel ashamed they still maintain their IP)? Absolutely not. But more people can than do, and the fear that is preventing all of us from embracing this idea is a massive barrier to justice.
-{{< heyheylook >}}
+**Uncopyrighting my work isn’t me embodying the role of the martyr, but instead trying to protect myself from the cynicism that would otherwise kill me.** If I didn’t believe it was possible to achieve social justice, it would be impossible for me to work toward it. Continuing to play into problematic axioms of capitalism (scarcity, value attribution) was, to me, poisonous. I struggled (still do) immensely with the money side of what I do (it just feels wrong to make money doing this stuff). Every way I can dissociate from that poisonous system is dissociating from the role of the martyr I would have become.
 
-ative system I hope the world will embody someday: one where everyone, of all identities, has equitable access to resources, love, and justice, and nobody has to ask for permission to smile.
-{{< heyheylook >}}
+This experiment has been a long, introspective transition from resisting a system I didn’t want to support, to supporting an alternative system I hope the world will embody someday: one where everyone, of all identities, has equitable access to resources, love, and justice, and nobody has to ask for permission to smile.
+
+I’m excited to see where the next year of this forever-experiment takes me. I’m thankful for those of you, like the person at the conference, who have encouraged me in this adventure.
+
+sK
+
+P.S. For the unconvinced: a tangible manifestation of this whole uncopyright adventure (and one beyond which I need no more encouragement to continue) is the [All-Gender Restroom Sign](/2014/04/gender-neutral-bathroom-sign/) story. Read about that here, but here’s the short version: I made a thing (uncopyrighted); a for-profit corporation wanted it, asked how much; I said it’s theirs as much as mine, and encouraged them to donate to a good cause instead of paying me; they one-upped me and started giving it away themselves, amounting to thousands of dollars of good, and [a now-global campaign of giving](http://www.prnewswire.com/news-releases/after-all-gender-toilet-sign-donations-to-80-american-campuses-mydoorsigncom-goes-global-283059581.html). A gift that’s multiplied exponentially, all starting from one simple, yet radical idea: it’s okay to give.
 
 
-{{< heyheylook >}}
-
-
+ [1]: /about/
  [4]: /2012/05/what-does-the-asterisk-in-trans-stand-for/ "What does the asterisk in “trans*” stand for?"
  [5]: http://creativecommons.org/licenses/by-nc-sa/4.0/
  [6]: https://www.youtube.com/watch?v=G2y8Sx4B2Sk

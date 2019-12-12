@@ -1,9 +1,15 @@
-{{ if in .Params.tags "Shorties"}}
-<div class="tagBadge shorties">
-    <h3>This Post is a Shorty</h3>
+{{ if in .Params.tags "Social Justice Dogma"}}
+<div class="tag-badge sjd">
+    <h3>The Social Justice Dogma Series</h3>
     <p>
-        The goal is to get an idea across in 300 or fewer words. I used {{ .WordCount }}, so I {{ if gt .WordCount "300" }}failed you 😩{{ else if eq .WordCount "300" }}barely squeaked by 😅{{ else }}nailed it 🙌{{end}}.
+        The SJD is the set of beliefs, stances, and acceptable actions laid down by the authorities within the social justice movement that we hold as incontrovertibly true. <a href="/tags/social-justice-dogma">Learn more &rsaquo;</a>
     </p>
 </div>
-   
+{{ else if in .Params.tags "Shorties"}}
+<div class="tag-badge shorties">
+    <h3>This is a Shorty</h3>
+    <p>
+        My goal is to get an idea across in 300 or fewer words. I used {{ .WordCount }}, so I {{ if gt .WordCount "300" }}failed 😩. Please forgive me{{ else if eq .WordCount "300" }}barely squeaked by 😅{{ else }}nailed it 🙌{{end}}. <a href="/tags/shorties">All Shorties &rsaquo;</a>
+    </p>
+</div>
 {{ end }}

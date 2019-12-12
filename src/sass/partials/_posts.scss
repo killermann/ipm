@@ -713,13 +713,49 @@ AD STYLES
 		}
 	}
 }
+.tag-badge-wrap {
+	font-size: .8rem;
+	margin: 4vw 4vw calc(4vw + 1rem);
+}
+
+.tag-badge {
+	border-radius: 20px;
+	padding: 1em;
+	background: var(--grey-100);
+	max-width: 400px;
+	margin: 0 auto;
+	line-height: 1.3;
+
+	h3 {
+		margin: 0;
+		font-size: 1.3em;
+		text-align: center;
+	}
+
+	p {
+		margin: .75em auto 0;
+
+		a {
+			display: inline-block;
+		}
+	}
+
+	&.sjd {
+		background-color: #aae7ff;
+		color: #005072;
+
+		a {
+			text-decoration-color: yellow;
+		}
+	}
+}
 
 #my-books {
 	display: flex;
 	justify-content: space-between;
 	font-size: .8rem;
 	padding: 4vw;
-	line-height: 1.2;
+	line-height: 1.3;
 
 	a {
 		display: block;

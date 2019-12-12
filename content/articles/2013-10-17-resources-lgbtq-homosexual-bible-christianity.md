@@ -57,9 +57,9 @@ _(Huge thanks to all the people who swept in to help with these resources in a t
 
 **The Christian Left** &#8211; <a title="The Christian Left" href="http://www.thechristianleft.org/" target="_blank" rel="noopener noreferrer">http://www.thechristianleft.org/</a> &#8211; resources for having conversations about a more progressive/accepting form of Christianity
 
-**Faith & Equality** **&#8211; **[http://faithandequality.com/][1] &#8211; &#8220;A comfortable place for LGBT youth and their families,&#8221; featuring stories and other resources
+**Faith & Equality** &#8211; [http://faithandequality.com/][1] &#8211; &#8220;A comfortable place for LGBT youth and their families,&#8221; featuring stories and other resources
 
-**The Religious Institute &#8211; **<http://www.religiousinstitute.org/> &#8211; &#8220;a multifaith organization dedicated to advocating for sexual health, education, and justice in faith communities and society.
+**The Religious Institute** &#8211; [http://www.religiousinstitute.org/] &#8211; &#8220;a multifaith organization dedicated to advocating for sexual health, education, and justice in faith communities and society.
 
 {{< youtube bjxooqCJbb4 >}}
 

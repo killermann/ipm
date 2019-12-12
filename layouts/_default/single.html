@@ -91,6 +91,9 @@
 	
 			</nav>
 			<div class="grid">
+				<aside class="tag-badge-wrap">
+					{{- partial "tag-badge.html" . -}}
+				</aside>
 				<div class="entry-content g-center">
 					{{- range $index, $element := split .Content "</p>" -}}
 					{{ $element | safeHTML -}}</p>
@@ -142,7 +145,7 @@
 						</h4>
 					</section>
 				</div>
-				<aside>
+				<aside class="books-wrap">
 					{{- partial "books.html" . -}}
 				</aside>
 			</div>

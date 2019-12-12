@@ -10,7 +10,7 @@ summaryLength = 40
 	name = "Sam Killermann"
 
 [markup]
-  [markup.goldmark]
+  [markup.blackfriday]
     [markup.goldmark.renderer]
       unsafe = true
 

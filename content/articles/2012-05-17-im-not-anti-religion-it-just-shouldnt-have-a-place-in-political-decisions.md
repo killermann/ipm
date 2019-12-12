@@ -45,7 +45,7 @@ If you can make that promise, read on.  If not, go find an website that reinfor
 
 In a society where most people (politicians in particular) have some sort of faith that guides their decisions, it&#8217;s impossible to have a true separation of church and state.  That&#8217;s fine.  I don&#8217;t think we need to only elect atheistic representatives.  In fact, I&#8217;m candidly against that idea.
 
-**What I am suggesting is we create and support a system where political decisions are made based on arguments that stand on their own merits without a religious crutch.  **Or, to put it another way, &#8220;the Bible tells me so&#8221; is off limits as an argument.  But that doesn&#8217;t mean what you&#8217;re arguing for will have to change.  All it means is people need to use objective, measurable evidence to defend their arguments, instead of just referring to their faith and leaving it at that.
+**What I am suggesting is we create and support a system where political decisions are made based on arguments that stand on their own merits without a religious crutch.** Or, to put it another way, &#8220;the Bible tells me so&#8221; is off limits as an argument.  But that doesn&#8217;t mean what you&#8217;re arguing for will have to change.  All it means is people need to use objective, measurable evidence to defend their arguments, instead of just referring to their faith and leaving it at that.
 
 If something is _bad_, or will lead to a lower quality of life for folks, or &#8212; God forbid &#8212; a &#8220;moral landslide,&#8221; **explain to me why**.  And do it without a single reference to dogma.
 
@@ -65,15 +65,15 @@ You can be opposed to marriage equality, but under the political system I&#8217;
 
 Removing the religious crutch in political debates and discussions will do a number of helpful things:
 
-  1. **It will create a common denominator.  **Many issues are so religiously loaded that it&#8217;s near-impossible for people of varying faiths to discuss them without the &#8220;discussion&#8221; turning into a &#8220;whose belief system is better&#8221; pissing contest.  Let&#8217;s yell at each other about the issues at hand instead.
+  1. **It will create a common denominator.** Many issues are so religiously loaded that it&#8217;s near-impossible for people of varying faiths to discuss them without the &#8220;discussion&#8221; turning into a &#8220;whose belief system is better&#8221; pissing contest.  Let&#8217;s yell at each other about the issues at hand instead.
   2. **It will cause people on all sides to think about the issues critically.**  Whether you _know_ what is right because of your religion, or you _know_ it&#8217;s wrong because a particular religion shouldn&#8217;t matter, _knowing_ is the problem.  In order to have an actual debate to figure out what&#8217;s right, people need to _know _a bit less and be willing to wonder and examine a bit more.
   3. **It will turn down the heat.**  I was always taught that it&#8217;s impolite to discuss religion or politics at a dinner party.  Why is it that we think it&#8217;s helpful to merge the two into one supercharged, emotionally-unstable, multi-headed media monstrosity?  If we can separate the two concepts, at least in discourse, it&#8217;ll help &#8212; at least we&#8217;ll only be pushing one hot-button at a time.
 
 Removing the religious crutch in political debates and discussions will also **not** do a number of things (consider this my pre-defense to the comments/emails I know I&#8217;m going to get):
 
-  1. **It will NOT create an immoral, Ayn Randian, dystopic society.  **In fact, I would argue it will help prevent us from this.  Removing religion from political discourse doesn&#8217;t remove morality or value-based decision-making.
-  2. **It will NOT lead to persecution of Christians.  **Unless you&#8217;re one of those who already think this is happening, in which case <a title="30+ Examples of Christian Privilege" href="/2012/05/list-of-examples-of-christian-privileg/" target="_blank">read this</a>.
-  3. **It will NOT slippery slope now we&#8217;re marrying toasters and we elected a game of Hungry Hungry Hippos to office and other similar nonsense.  **Seriously, the &#8220;slippery slope Hungry Hungry Hippos&#8221; argument is _so_ lazy.
+  1. **It will NOT create an immoral, Ayn Randian, dystopic society.** In fact, I would argue it will help prevent us from this.  Removing religion from political discourse doesn&#8217;t remove morality or value-based decision-making.
+  2. **It will NOT lead to persecution of Christians.** Unless you&#8217;re one of those who already think this is happening, in which case <a title="30+ Examples of Christian Privilege" href="/2012/05/list-of-examples-of-christian-privileg/" target="_blank">read this</a>.
+  3. **It will NOT slippery slope now we&#8217;re marrying toasters and we elected a game of Hungry Hungry Hippos to office and other similar nonsense.** Seriously, the &#8220;slippery slope Hungry Hungry Hippos&#8221; argument is _so_ lazy.
 
 So that&#8217;s it.  Mull it over.  Discuss it with a friend.  Bring it up to your religious congregation.  Then, once we&#8217;re all onboard, let&#8217;s do it!
 
