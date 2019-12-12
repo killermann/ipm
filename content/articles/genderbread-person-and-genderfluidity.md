@@ -89,7 +89,11 @@ Revisit the Genderbread, and _your_ Genderbread, as often as you'd like. I alway
 
 You're not doing it wrong if it changes, or if you're not sure if how you see yourself now will represent how you see yourself in the future.
 
-Indeed, the Genderbread Person is _just like_ a birth certificate*: you can update it later if you realize the scribbles that were scribbled don't do a good job of representing who you really are.
+Like Bryce Maryott [commented on Facebook](https://facebook.com/metrosam), "I've always thought that the markings should be done in pencil because (in my experience) they change over your lifetime anyway."
+
+The Genderbread Person is best filled in with pencil -- literally or metaphorically. 
+
+So maybe it is _just like_ a birth certificate*: you can update it later if you realize the scribbles that were scribbled don't do a good job of representing who you really are.
 
 (*This parallel is true in many countries and states, and generally true as a "should" -- it _should_ be this way with birth certificates)
 
