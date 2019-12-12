@@ -16,3 +16,8 @@
 @media only screen and (min-width: 1400px) {
 	@import "partials/1400up";
 }
+
+html {
+	visibility: visible;
+	opacity: 1;
+}
