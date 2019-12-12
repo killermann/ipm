@@ -26,7 +26,7 @@ You can also gift to IPM by supporting different projects within the [hues Globa
 
 In all the ways people have gifted back, so far, it&#8217;s worked. We&#8217;ve managed to balance our books, I have been paid enough (just barely, most of the time) to make rent, and the site has [stayed online][12] (even if we&#8217;ve had some close calls).
 
-Here&#8217;s to over 5 years living a bold experiment,
+Here&#8217;s to over 7 years living a bold experiment,
 
 <3 sK
 
