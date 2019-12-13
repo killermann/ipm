@@ -1,5 +1,5 @@
 ---
-title: Does the Genderbread Person Exclude Genderfluid People?
+title: Does the Genderbread Person exclude genderfluid people?
 author: Sam Killermann
 type: post
 date: 2019-12-11T15:53:42+00:00
@@ -89,7 +89,7 @@ Revisit the Genderbread, and _your_ Genderbread, as often as you'd like. I alway
 
 You're not doing it wrong if it changes, or if you're not sure if how you see yourself now will represent how you see yourself in the future.
 
-Like Bryce Maryott [commented on Facebook](https://facebook.com/metrosam), "I've always thought that the markings should be done in pencil because (in my experience) they change over your lifetime anyway."
+Like Bryce Maryott [commented on Facebook](https://www.facebook.com/metrosam), "I've always thought that the markings should be done in pencil because (in my experience) they change over your lifetime anyway."
 
 The Genderbread Person is best filled in with pencil -- literally or metaphorically. 
 
