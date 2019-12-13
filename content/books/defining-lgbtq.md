@@ -14,7 +14,6 @@ tags:
   - Terminology
   - Identity
   - LGBTQ
-  - Printable
   - Guide to Gender
 ---
 
