@@ -1,8 +1,9 @@
+//@prepros-prepend plugins/intersection-observer.js
 //@prepros-prepend plugins/lozad.min.js
 
 /* LazyLoad */
 
-const observer = lozad('.lazy-load'); // lazy loads elements with default selector as '.lozad'
+const observer = lozad('.lazy-load'); 
 observer.observe();
 
 /* Main Nav */

@@ -298,12 +298,21 @@ hr {
 }
 
 .entry-content {
-	padding: 4vw;
+	padding: 4vw 4vw 1.5rem;
 	font-family: $serif;
 	
 	h2, h3, h4, h5, h6, p, pre, code, address, blockquote {
 		margin: 1.5em auto 0;
 		max-width: 720px;
+	}
+
+	h3, h4 {
+		font-weight: 600;
+	}
+
+	h4 {
+		font-size: 1.2em;
+		font-family: $alt-font;
 	}
 
 	ol, ul {
@@ -503,7 +512,7 @@ hr {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-	padding: 1.5rem 0 0;
+	padding: 0 4vw 4vw;
 	font-family: $sans-serif;
   margin: 0 auto;
 	max-width: 720px;
