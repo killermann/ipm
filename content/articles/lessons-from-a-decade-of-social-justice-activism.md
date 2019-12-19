@@ -1,5 +1,5 @@
 ---
-title: Lessons from a Decade of Social Justice Activism
+title: 7 Lessons from a Decade of Social Justice Activism
 author: Sam Killermann
 type: post
 date: 2019-12-18T15:53:42+00:00
