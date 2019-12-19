@@ -25,7 +25,6 @@ tags:
   # - Religion
   # - Replies
   # - Start Here
-   - Shorties
   # - Social Justice Dogma
   # - Terminology
    - Public Thinking
