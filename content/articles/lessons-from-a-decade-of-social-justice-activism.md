@@ -67,7 +67,7 @@ _On to the listicle I promised!_
 
 ## The List: Social Justice Lessons Learned from the 2010s
 
-Here are the broad lessons I've learned doing all kinds of social justice activism &amp; education, both in-person firsthand, by creating curricula others use in-person, and online.
+Here are the broad lessons I've learned doing all kinds of social justice activism &amp; education, both in-person firsthand, by creating curricula others use in-person, and through all the resources I've created online.
 
 ### 1. A lot of people are saying "social justice" to mean different things.
 
