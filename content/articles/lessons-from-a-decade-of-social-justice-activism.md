@@ -3,7 +3,7 @@ title: 7 Lessons from a Decade of Social Justice Activism
 author: Sam Killermann
 type: post
 date: 2019-12-18T15:53:42+00:00
-excerpt: Hundreds of millions of people reached. 49 states and dozens of countries toured. 100+ websites created. Here's what I learned, what I'm going to do differently in the 2020s.
+excerpt: Hundreds of millions of people reached. 49 states and dozens of countries toured. 100+ websites created. Here's what I learned, and what I'm going to do differently in the 2020s.
 featured_image: /img/featured/silos-of-people.jpg
 categories: 
   - Social Justice
