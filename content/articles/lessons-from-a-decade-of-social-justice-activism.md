@@ -165,7 +165,7 @@ Like other pop culture trends, the things that stick don't necessarily make sens
 
 These are problems for social justice because the things that become trendy aren't necessarily (or maybe ever) the things we'd really _want_ everyone to get behind. 
 
-They're often niche ideas, or have [convoluted connections to a future socially-just world](/2018/05/3-dimensional-social-justice/). Sometimes they're [directly antithetical to living social justice](2019-05-02-justifying-injustice-for-social-justice). _But there's momentum! And energy! And it's hard enough to get people to care about anything, let's not shoot ourselves in the foot by criticizing the efficacy of this popular thing!_
+They're often niche ideas, or have [convoluted connections to a future socially-just world](/2018/05/3-dimensional-social-justice/). Sometimes they're [directly antithetical to living social justice](/2019/05/justifying-injustice-for-social-justice/). _But there's momentum! And energy! And it's hard enough to get people to care about anything, let's not shoot ourselves in the foot by criticizing the efficacy of this popular thing!_
 
 And the other problem is we need ideas that have staying power. If _everyone is doing this thing right now_, but tomorrow they're on to something else, it really doesn't matter what it is -- it's not going to [move the needle toward social justice](/2019/01/introducing-the-social-justice-compass/).
 
@@ -173,7 +173,7 @@ If we're letting trends be the wind in our sails, I don't see us getting where w
 
 ### 5. We're holier than thou.
 
-Social justice become rife with [dogmatic](/tags/social-justice-dogma), elitist, moralizing, and dehumanizing stances. We're against binaries in general (like the [gender binary](/2011-11-07-breaking-through-the-binary-gender-explained-using-continuums)), but [okay with the binary of _we're good and you're bad._](/2019-03-27-binary-thinking) We shame laypeople when they're not fluent in our [intensely academic] jargon. We intentionally violate [certain] people's feelings and sense of self, then disregard their suffering -- but it's not cruelty when it's justified by a theory.
+Social justice become rife with [dogmatic](/tags/social-justice-dogma), elitist, moralizing, and dehumanizing stances. We're against binaries in general (like the [gender binary](/2011/11/breaking-through-the-binary-gender-explained-using-continuums/)), but [okay with the binary of _we're good and you're bad._](/2019/03/binary-thinking/) We shame laypeople when they're not fluent in our [intensely academic] jargon. We intentionally violate [certain] people's feelings and sense of self, then disregard their suffering -- but it's not cruelty when it's justified by a theory.
 
 And pushback to any of this -- when it comes from within or without -- gets met with even more elitism and theory: "You clearly don't understand."
 
@@ -181,7 +181,7 @@ And pushback to any of this -- when it comes from within or without -- gets met 
 
 The social justice movement -- and many of the movements within it -- have a complicated relationship with money. 
 
-Many of us are afraid that a focus on class (or socioeconomic status) will derail our focus on other dimensions of discrimination and oppression (e.g., via race, or gender). So we don't do it, or when we do (e.g., talk about [upper-class privilege](/2012-10-27-list-of-upperclass-privilege)) we often couch it within an intersectional framework, focusing on race and gender through the lens of class.
+Many of us are afraid that a focus on class (or socioeconomic status) will derail our focus on other dimensions of discrimination and oppression (e.g., via race, or gender). So we don't do it, or when we do (e.g., talk about [upper-class privilege](/2012/10/list-of-upperclass-privilege/)) we often couch it within an intersectional framework, focusing on race and gender through the lens of class.
 
 And we struggle with the money aspect of what we do, as a movement. Many of us charge exorbitant fees to access the work we create, or to access _us_ as ambassadors of that work. Or put up paywalls, intellectual property fences, and restrictions on its usage. And we justify this in complicated, theoretical ways (based on either our identies, the historical nature of oppression and marginalization of anti-oppression work, or both).
 
