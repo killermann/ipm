@@ -21,11 +21,8 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <dc:creator>Sam Killermann</dc:creator>{{- if .Params.featured_image }}
-      <media:content type="image/jpeg" medium="image" width="1200" height="735" url="{{ .Params.featured_image | safeHTML | absURL }}" />{{ end -}}
+      <media:content type="image/jpeg" medium="image" width="800" height="490" url="{{ .Params.featured_image | safeHTML | absURL }}" />{{ end -}}
       <description>
-        {{ with .Params.excerpt }}
-        <p class="excerpt" style="font-size: 1.4em; font-family: sans-serif; font-weight: 700; margin: 1em auto;"><strong><big>{{ . }}</big></strong></p><hr/>
-        {{ end }}
         {{ .Content | html }}
       </description>
     </item>

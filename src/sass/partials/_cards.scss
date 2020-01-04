@@ -44,6 +44,7 @@
 	margin-bottom: calc(20px - .18em);
 	padding-top: 20px;
 	color: var(--grey-900);
+	font-size: calc(1em + 1vw);
 
 	&:before {
 		display: block;

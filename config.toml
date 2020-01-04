@@ -8,15 +8,15 @@ summaryLength = 40
 
 [Author]
 	name = "Sam Killermann"
-
+	
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
 [params]
-	author_patrons_count = 15
-	site_patrons_count = 27
+	author_patrons_count = 16
+	site_patrons_count = 28
 	email_list_url = "http://eepurl.com/gLRm4b"
 	mainSections = ["articles", "edugraphics", "books", "videos", "courses", "news"]
 	description = "Learn about gender, sexuality, & social justice with Sam Killermann. Your free online resource for everything from genderbread people to LGBTQ vocabulary."
