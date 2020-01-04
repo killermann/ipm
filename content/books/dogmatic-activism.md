@@ -9,13 +9,13 @@ url: /books/dogmatic-activism/
 buy: https://bit.ly/sjmdbook
 featured_image: /img/featured/sjmd-book-sam-killermann-coming-soon.jpg
 categories:
-  - Gender
-  - Sexuality
+  - Social Justice
 tags: 
-  - Terminology
+  - Activism
+  - Education
   - Identity
-  - LGBTQ
-  - Guide to Gender
+  - Public Thinking
+  - Social Justice Dogma
 ---
 
 I don't know what it'll be called. I don't know how long it will be, or exactly when it will be published (soon!). But I do know one thing: it's a gigantic leap.
@@ -42,7 +42,7 @@ And I'm doing it publicly because I need the [wisdom of the crowd](https://en.wi
 
 With that in mind, I built out commenting on my blog, and will be reading all the email replies to new chapters I send to your inboxes.
 
-This book, like everything else I've been doing regarding SJD, feels important and scary and like something I'd really rather not write and wished someone else would do -- but in lieu of that, here I am.
+This book, like everything else I've been doing regarding SJD, feels important and scary and like something I'd really rather not write and wished someone else would do -- but in lieu of that, here I am. It'll also be the perfect platform for me to build on [the lessons I've learned over a decade of social justice activism](/articles/lessons-from-a-decade-of-social-justice-activism/).
 
 I created [a special mailing list](https://bit.ly/sjmdbook) for people to follow along, but I wanted to let everyone here know that I won't be posting the chapters on It's Pronounced Metrosexual as I write them.
 
