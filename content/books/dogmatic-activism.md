@@ -1,5 +1,6 @@
 ---
 title: "WIP: New Book About Dogmatic Activism"
+seo_title: Sam Killermann is Writing a New Book about Dogmatic Activism
 author: Sam Killermann
 type: post
 date: 2020-01-04T12:01:05-06:00
