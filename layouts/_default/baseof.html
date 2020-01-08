@@ -16,8 +16,11 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	{{ partial "seo-schema" . }}
-	<title>{{ block "title" . }}{{ if .IsHome }}It's Pronounced Metrosexual: Gender, Sexuality, & Social Justice{{ else if .Params.seo_title }}{{ .Params.seo_title }} ❤ {{ .Site.Title }}{{ else }}{{ with .Params.Title }}{{ . }} ❤ {{ end }}{{ .Site.Title }}{{ end }}{{ end }}</title>
+	<title>{{ block "title" . }}{{ if .IsHome }}It's Pronounced Metrosexual: Gender, Sexuality, & Social Justice{{ else if .Params.seo_title }}{{ .Params.seo_title }} - ❤ {{ .Site.Title }}{{ else }}{{ with .Params.Title }}{{ . }} - ❤ {{ end }}{{ .Site.Title }}{{ end }}{{ end }}</title>
 	<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else if .Params.excerpt }}{{ .Params.excerpt }}{{ else if .IsPage}}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+	{{- with .Params.canonical }}
+	<link rel="canonical" href="{{ . }}"/>
+	{{ end -}}
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="375">
 	<meta name="viewport" content="width=device-width,minimum-scale=1">
@@ -28,7 +31,7 @@
 	{{ end -}}
 	<!-- Facebook Open Graph -->
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="{{ if .IsHome }}It's Pronounced Metrosexual: Gender, Sexuality, & Social Justice{{ else }}{{ .Title }} ❤ {{ .Site.Title }}{{ end }}"/>
+	<meta property="og:title" content="{{ if .IsHome }}It's Pronounced Metrosexual: Gender, Sexuality, & Social Justice{{ else }}{{ .Title }} - ❤ {{ .Site.Title }}{{ end }}"/>
 	<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .Params.excerpt }}{{ .Params.excerpt }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
 	<meta property="og:site_name" content="{{ .Site.Title }}"/>
 	<meta property="og:url" content="{{ .Permalink }}"/>
