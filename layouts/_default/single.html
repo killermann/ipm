@@ -92,7 +92,9 @@
 			</nav>
 			<div class="grid">
 				<aside class="tag-badge-wrap">
-					{{- partial "tag-badge.html" . -}}
+					{{- if not .Params.no_tag_badge}}
+						{{- partial "tag-badge.html" . -}}
+					{{ end -}}
 				</aside>
 				<div class="g-center">
 					<section class="entry-content">

@@ -6,6 +6,7 @@ type: post
 date: 2020-01-07T16:02:02-06:00
 url: /literal-transphobia
 canonical: https://www.samkillermann.com/literal-transphobia
+no_tag_badge: true
 featured_image: /img/featured/literal-transphobia-featured-1400.jpg
 categories:
 - Gender
