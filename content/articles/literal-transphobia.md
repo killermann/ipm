@@ -34,9 +34,11 @@ The thing I'm getting at here is **people conflating the terms "homophobia" or "
 
 People really latched onto the "fear" part of "phobia" being used to create the neologism, instead of the "irrational" or "extreme" or "aversion" parts. And I do mean _latched._
 
-This was one of those things that if you were a gender and sexuality educator -- especially prior to, say, five years ago -- it required Jedi-like willpower to not go from "Yeah, I totally get it, they're similar words" the first time you heard it to "Dude you really need to sit down and shut up" the umpteenth. Because you were going to hear it. A lot.
+This was one of those things that if you were a gender and sexuality educator -- especially prior to, say, five years ago -- easily wore on your patience. The first few times you heard it, you'd say, "Yeah, I totally get it, they're similar words, and it's confusing." 
 
-Even when people weren't confused about the word, and knew _exactly_ what it meant, they'd still chime in. 
+But by the umpteenth time, it was hard not to cut people off, or assume malicious intentions. Because we knew the "correct" definition of the term, it was easy to assume they should, too. And that [any pushback was derailment](https://www.samkillermann.com/reacting-to-social-justice-pushback/).
+
+Adding to this frustration, even when people weren't confused about the word, and they did know _exactly_ what it meant, they'd still chime in. 
 
 "I've always thought it was funny that it's a 'phobia', like omg gays lol!" Yeah. L.O.L.
 
@@ -44,11 +46,11 @@ A lot of us regularly updated our definitions of the "-phobia" terms to try to r
 
 > **_______-phobia:** a range of negative attitudes (e.g., fear, anger, intolerance, invisibility, resentment, erasure, or discomfort) that one may have or express toward _______ people."
 
-"Fear" is still in there (so people sit down and shut up), but it's followed with all the ways we usually see this concept showing up.
+"Fear" is still in there (which makes sense, because it has the suffice "-phobia"), but it's followed by all the ways we usually see this concept showing up, the ways we were hoping to focus on.
 
 We didn't want the word to be 1:1 connected to fear or being afraid, and only surface that idea when it's used. We just needed a word to talk about a thing we were seeing everywhere, and hoping to disrupt, the byproducts of heterosexism and cissexism (and the other -isms).
 
-_We know you're not afraid of gay people, breh. We get it. You're just intolerant, and so are lots of other people, and this is the word we're using to talk about that, so let's talk about that._
+_We know you're not afraid of gay people. We get that. You're just intolerant, and so are lots of other people, and this is the word -- imperfect as it may be -- that we're using to talk about that, so let's talk about that._
 
 But then a lot of us started seeing something else.
 
