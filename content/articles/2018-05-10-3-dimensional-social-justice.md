@@ -9,7 +9,7 @@ featured_image: /wp-content/uploads/2018/05/3-dimensional-social-justice.jpg
 categories: 
   # - Gender
   # - Sexuality
-  # - Social Justice
+   - Social Justice
 tags:
    - Activism
   # - Allyship
