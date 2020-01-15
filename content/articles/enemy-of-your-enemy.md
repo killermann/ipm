@@ -14,7 +14,7 @@ tags:
 - Activism
 - Public Thinking
 ---
-<address>The following essay was written for my forthcoming <a href="https://www.itspronouncedmetrosexual.com/books/dogmatic-activism" target="_blank" rel="noopener noreferrer">book about dogmatic activism</a>, which I'm currently <em>publicly</em> (!) writing, as a new blog post every day on my personal blog. If you want to follow along, you can <a href="https://bitly.com/sjmdbook" target="_blank" rel="noopener noreferrer"><strong>get new chapters emailed to you as I publish them</strong></a>. Here's the <a title="Literal Transphobia, original essay by Sam Killermann" href="https://www.samkillermann.com/literal-transphobia" rel="canonical">link to the original post</a>.</address>
+<address>The following essay was written for my forthcoming <a href="https://www.itspronouncedmetrosexual.com/books/dogmatic-activism" target="_blank" rel="noopener noreferrer">book about dogmatic activism</a>, which I'm currently <em>publicly</em> (!) writing, as a new blog post every day on my personal blog. If you want to follow along, you can <a href="https://bitly.com/sjmdbook" target="_blank" rel="noopener noreferrer"><strong>get new chapters emailed to you as I publish them</strong></a>. Here's the <a title="Enemy of Your Enemy, original essay by Sam Killermann" href="https://www.samkillermann.com/enemy-of-your-enemy/" rel="canonical">link to the original post</a>.</address>
 
 In an increasingly-complicated world, we're constantly using shortcuts to make sense of things. We don’t have time to process everything coming our way, so we often grab one or two salient data points — either the things we notice first, or the ones that feel more important to us — and do math.
 
