@@ -37,7 +37,7 @@ accolades: Sensation
 ---
 The way I approach social justice and ally work on this site and <a title="A show about snap judgments, identity, and oppression." href="/a-show-about-snap-judgments-identity-and-oppression/" target="_blank">in my show</a> has a distinct flavor.  Some would call it sweet, but I think <a title="The Genderbread Person v2.0" href="/2012/03/the-genderbread-person-v2-0/" target="_blank">ginger</a> is a bit spicy.
 
-I don&#8217;t often do things by accident, and in this case it is very _on purpose.  _My flavor is even so noticeable that if you&#8217;ve seen a lot of what I&#8217;ve created here, you&#8217;re likely taken aback by the headline of this article.  Well, that actually leads me into my first point.
+I don&#8217;t often do things by accident, and in this case it is very _on purpose._ My flavor is even so noticeable that if you&#8217;ve seen a lot of what I&#8217;ve created here, you&#8217;re likely taken aback by the headline of this article.  Well, that actually leads me into my first point.
   
 <!--more-->
 
