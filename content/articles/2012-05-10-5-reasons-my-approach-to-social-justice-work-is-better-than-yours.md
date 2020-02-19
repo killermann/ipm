@@ -93,7 +93,7 @@ Social issues could be lightly described as hot-button issues, meaning they are 
 
 For me, humor is the best tool for diffusing a situation.  I&#8217;ve been doing it since I was just a wee little social justice educator, and it&#8217;s my main tool.  In some situations, this doesn&#8217;t work that well, and there are definitely great (or better) alternatives.  But I&#8217;ve learned that for my style of writing and talking, cute graphics and silly jokes work.  Figure out what works for you.
 
-The big idea here is to create a space that feels safe and welcoming for anyone you&#8217;re chatting with about social justice and equality issues.  As you&#8217;ve learned above, there&#8217;s plenty stacked up against it going well.  Don&#8217;t do something you&#8217;re not comfortable with (e.g., trying to be funny if you&#8217;re not, trying to be warm-hearted if you&#8217;re naturally more room temp), and experiment to find what works, just do _something.  _
+The big idea here is to create a space that feels safe and welcoming for anyone you&#8217;re chatting with about social justice and equality issues.  As you&#8217;ve learned above, there&#8217;s plenty stacked up against it going well.  Don&#8217;t do something you&#8217;re not comfortable with (e.g., trying to be funny if you&#8217;re not, trying to be warm-hearted if you&#8217;re naturally more room temp), and experiment to find what works, just do _something._
 
 #### Some ways to make a space feel a bit safer:
 

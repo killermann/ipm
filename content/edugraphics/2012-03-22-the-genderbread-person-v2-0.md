@@ -51,7 +51,7 @@ I would really like to see this model replace all instances of the old one.  It
 
 ### More accurate
 
-Men are from Mars and women are from Venus is a funny expression (and scientifically dubious), but it actually nails down the strength of this model.  Two planets, not two poles of one planet.  Placing man/masculine/male on one end of something (continuum, 2D plot, etc.) and woman/feminine/female on the other (as I did with the old model) creates and reinforces a fallacy central to gender _mis_understanding: to be more of one, you need to be less of the other.  That&#8217;s incorrect.  You can have both.  You can have your genderbread and eat it, too.
+Men are from Mars and women are from Venus is a funny expression (and scientifically dubious), but it actually nails down the strength of this model.  Two planets, not two poles of one planet.  Placing man/masculine/male on one end of something (continuum, 2D plot, etc.) and woman/feminine/female on the other (as I did with the old model) creates and reinforces a fallacy central to gender misunderstanding: to be more of one, you need to be less of the other.  That&#8217;s incorrect.  You can have both.  You can have your genderbread and eat it, too.
 
 {{< heyheylook >}}
 

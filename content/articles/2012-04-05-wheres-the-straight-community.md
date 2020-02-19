@@ -14,7 +14,7 @@ sections:
   - 'Articles &amp; Books'
 
 ---
-I write a decent amount about <a title="Sexuality Articles" href="/category/sexuality-2/" target="_blank">sexuality</a> here, and all over the web you can read articles about queer community.  But I rarely talk about the straight community.  We have an overdose of straight _culture_ super-injected into us on a five-thousand-times-a-day basis, but there&#8217;s a serious shortage of straight _community.  _
+I write a decent amount about <a title="Sexuality Articles" href="/category/sexuality-2/" target="_blank">sexuality</a> here, and all over the web you can read articles about queer community.  But I rarely talk about the straight community.  We have an overdose of straight _culture_ super-injected into us on a five-thousand-times-a-day basis, but there&#8217;s a serious shortage of straight _community_.
 
 Let me ask you a few questions.  Mull them over, then get back to me in the comments.  I really want to hear what you have to say.
 

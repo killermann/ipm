@@ -105,7 +105,7 @@ If someone is born with a vagina, she&#8217;s a female, she&#8217;s a she, and w
 
 And when we&#8217;re not sure, when someone is born intersex, born with ambiguous genitalia, we guess if he&#8217;s a he or she&#8217;s a she, and based on that guess raise him to be a him or her to be a her.
 
-Which, as you can guess, is often problematic_._ But assigning a gender to a person based on sex isn&#8217;t only problematic when someone is born intersex. Let me tell you about gender identity, and this will all start to make sense.
+Which, as you can guess, is often problematic. But assigning a gender to a person based on sex isn&#8217;t only problematic when someone is born intersex. Let me tell you about gender identity, and this will all start to make sense.
 
 **Gender Identity**
 

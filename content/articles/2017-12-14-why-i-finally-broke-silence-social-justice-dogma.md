@@ -71,7 +71,7 @@ I&#8217;ve seen a lot of pain caused by the Social Justice Dogma. Unfortunately,
 
 #### Too many examples:
 
-I get a lot of emails (they&#8217;re not _all _hate mail), and many of them are personal accounts of people around the US and world, looking for help. A not-insignificant percentage of those are from people who are:
+I get a lot of emails (they&#8217;re not _all_ hate mail), and many of them are personal accounts of people around the US and world, looking for help. A not-insignificant percentage of those are from people who are:
 
   * suffering from a lack of &#8220;enough&#8221;-ness within the social justice movement (not doing enough, not being perfect enough, not caring enough, not understanding enough);
   * being alienated within their peer/friend/identity groups;
@@ -140,7 +140,7 @@ Seems pretty silly, actually. I don&#8217;t know why I waited this long.
 
 Oh &#8212; right, the overwhelming fear of alienation and the _tens of thousands of death threats_.
 
-For what it&#8217;s worth: so far all I&#8217;ve received is a ton of really encouraging, revelatory, and touching emails (as in, I was just _literally _crying reading one) in response to my first article. Fingers crossed that&#8217;s what I can continue to expect.
+For what it&#8217;s worth: so far all I&#8217;ve received is a ton of really encouraging, revelatory, and touching emails (as in, I was just _literally_ crying reading one) in response to my first article. Fingers crossed that&#8217;s what I can continue to expect.
 
  [1]: https://en.wikipedia.org/wiki/The_Ghost_and_the_Darkness
  [2]: /2012/12/reasons-people-believe-feminism-hates-men/

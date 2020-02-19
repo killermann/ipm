@@ -59,7 +59,7 @@ We don&#8217;t have control over how other people see us, but we have some contr
 
 One last thing: **this is not neutral**. There are clear value statements made in everything I&#8217;ve written so far. A lot of &#8220;inclusivity&#8221; convos online present an idea of absolute, impartial inclusivity (e.g., that all voices should be heard and considered in every space). But if your goals are social justice, impartial inclusivity can often result in negative outcomes.
 
-In considering participating in_ Gender Revolution_ it was important for me to be sensitive to my majoritized gender identity (because of the gender theme), as well as the ways other majoritized identities I hold (because of the general activism and social justice themes) &#8212; and what the implications of those identities would say about my involvement.
+In considering participating in _Gender Revolution_ it was important for me to be sensitive to my majoritized gender identity (because of the gender theme), as well as the ways other majoritized identities I hold (because of the general activism and social justice themes) &#8212; and what the implications of those identities would say about my involvement.
 
 ## Questions I ask myself, and the others involved
 
@@ -117,7 +117,7 @@ But if you are, I trust that the above list will be helpful for you, as it has 
 
 I use the above list (and other questions depending on the situation) whenever possible to vet every [gig request][5] I get. This sometimes brings about confusion (it&#8217;s considered, by some, to be unconventional), but it&#8217;s always clarifying. I don&#8217;t want to take up space. I&#8217;ll happily turn away an invitation if I get the sense that I&#8217;ll be taking up space, and I feel a million times better saying &#8220;yes!&#8221; when I sense I&#8217;ll be contributing to a space. There are too many other people doing amazing work, and I only have so much time to spend.
 
-And if you&#8217;re still wondering, in regards to _Gender Revolution_, after (1) being assured I would be the minority in representing my majorized gender (cisgender man), (2) they were specifically asking me to be involved because of _how _I approach gender, not just to hear from a man, and (3) that trans*, non-binary, and women voices would be disproportionately represented, I agreed to be involved. As of the time that I&#8217;m writing this, the film isn&#8217;t out (it comes out [February 6th, debuting on National Geographic at 9/8c][6]), so I can&#8217;t yet know if these promises will ring true, and I was used in ways that align with my ethic.
+And if you&#8217;re still wondering, in regards to _Gender Revolution_, after (1) being assured I would be the minority in representing my majorized gender (cisgender man), (2) they were specifically asking me to be involved because of _how_ I approach gender, not just to hear from a man, and (3) that trans*, non-binary, and women voices would be disproportionately represented, I agreed to be involved. As of the time that I&#8217;m writing this, the film isn&#8217;t out (it comes out [February 6th, debuting on National Geographic at 9/8c][6]), so I can&#8217;t yet know if these promises will ring true, and I was used in ways that align with my ethic.
 
 That goes with something I said above: we can&#8217;t always know how we&#8217;re going to appear to others, but at least we can do everything in our power to choose how we show up. Then we can listen to the constructive criticism we get, run it by our allies, and let it inform our future actions.
 

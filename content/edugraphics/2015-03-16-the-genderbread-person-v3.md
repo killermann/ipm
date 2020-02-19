@@ -43,7 +43,7 @@ Taking the lessons learned from [version 2][1], and applying them to sexuality i
 
 {{< heyheylook >}}
 
-Someone pointed out that I hadn&#8217;t shared this here yet, even though it&#8217;s been _out _for awhile. I am in disbelief about how long it&#8217;s taken me to get this up on the site. I really don&#8217;t know what happened &#8212; time flies? I created the first iteration of my version 3 of the genderbread person when I published [my book][2] back in 2013.
+Someone pointed out that I hadn&#8217;t shared this here yet, even though it&#8217;s been _out_ for awhile. I am in disbelief about how long it&#8217;s taken me to get this up on the site. I really don&#8217;t know what happened &#8212; time flies? I created the first iteration of my version 3 of the genderbread person when I published [my book][2] back in 2013.
 
 I&#8217;ve posted it <a href="https://www.facebook.com/MetroSam/photos/pb.216393541757516.-2207520000.1426470128./684315374965328/?type=3&theater" target="_blank" rel="noopener">on Facebook</a>, it&#8217;s been <a href="https://www.facebook.com/MetroSam/photos/pb.216393541757516.-2207520000.1426470128./712448095485389/?type=3&theater" target="_blank" rel="noopener">translated</a> a few times, it&#8217;s even been <a href="https://www.facebook.com/MetroSam/photos/pb.216393541757516.-2207520000.1426470128./630536900343176/?type=3&theater" target="_blank" rel="noopener">Santafied</a>, and don&#8217;t have much of an explanation to share for why I&#8217;ve neglected to share it here. But&#8230; here it is! Sorry? Sorry.
 

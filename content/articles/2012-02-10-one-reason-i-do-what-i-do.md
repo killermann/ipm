@@ -35,7 +35,7 @@ tags:
    - TMI
 accolades: Sensation
 ---
-I&#8217;ve dedicated my life to progressing social justice, in the hopes that one day we can have a society that is equitable for all.  I have a lot of reasons for doing this, but there are just as many reasons why it might be viewed that I _shouldn&#8217;t.
+I&#8217;ve dedicated my life to progressing social justice, in the hopes that one day we can have a society that is equitable for all.  I have a lot of reasons for doing this, but there are just as many reasons why it might be viewed that I _shouldn&#8217;t_.
 
 {{< heyheylook >}}
 

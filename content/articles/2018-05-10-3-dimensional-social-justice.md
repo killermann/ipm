@@ -54,7 +54,7 @@ Or maybe it&#8217;s more helpful in a given situation to consider multiple dimen
 
 <img class="aligncenter size-full wp-image-3329 lazy-load" data-src="/wp-content/uploads/2018/05/3-dimensional-social-justice-efficacy-scale-time-layers.jpg" alt="All three dimensions broken into three dimensions (efficacy: goal, theory, implementation; scale: individual, societal, global; time: past, present, future)" width="1200" height="630" data-srcset="/wp-content/uploads/2018/05/3-dimensional-social-justice-efficacy-scale-time-layers.jpg 1200w, /wp-content/uploads/2018/05/3-dimensional-social-justice-efficacy-scale-time-layers-300x158.jpg 300w, /wp-content/uploads/2018/05/3-dimensional-social-justice-efficacy-scale-time-layers-768x403.jpg 768w, /wp-content/uploads/2018/05/3-dimensional-social-justice-efficacy-scale-time-layers-1024x538.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" />
 
-With these dimensions in mind, if someone is critical of a social justice, we can investigate which part they&#8217;re resisting (is it the _goal? _Or something else?).
+With these dimensions in mind, if someone is critical of a social justice, we can investigate which part they&#8217;re resisting (is it the _goal?_ Or something else?).
 
 Or maybe we consider how each of the dimensions of efficacy pass or don&#8217;t pass the scale or time tests, and mash the two above concepts together.
 

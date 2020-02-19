@@ -36,7 +36,7 @@ tags:
   <strong>Update:</strong> check out this <a title="Little girl goes on a rant over pink toys [VIDEO]" href="/2012/01/little-girl-goes-on-a-rant-over-pink-toys-video/">video of a little girl explaining her frustration with gendered toys</a>.
 </address>
 
-It&#8217;s amazing how gendered toys are.  If you see an action figure, you think _boy_.  If you see a barbie, you think _girl_.  If you see a boy with a barbie, you think _gay_.  And now LEGO is saying if you see LEGOs, you should think _boy &#8211; _that is, unless it&#8217;s a LadyFigs LEGO set (pictured below), then you should think _girl girl girl._
+It&#8217;s amazing how gendered toys are.  If you see an action figure, you think _boy_.  If you see a barbie, you think _girl_.  If you see a boy with a barbie, you think _gay_.  And now LEGO is saying if you see LEGOs, you should think _boy_ &#8211; that is, unless it&#8217;s a LadyFigs LEGO set (pictured below), then you should think _girl girl girl._
 
 <div id="attachment_722" style="width: 546px" class="wp-caption alignnone">
   <a href="/wp-content/uploads/2012/01/lego-ladyfigs.jpg"><img aria-describedby="caption-attachment-722" class=" wp-image-722  lazy-load" title="LEGO LadyFigs" data-src="/wp-content/uploads/2012/01/lego-ladyfigs.jpg" alt="LEGO LadyFigs" width="536" data-srcset="/wp-content/uploads/2012/01/lego-ladyfigs.jpg 556w, /wp-content/uploads/2012/01/lego-ladyfigs-300x225.jpg 300w" sizes="(max-width: 556px) 100vw, 556px" /></a>

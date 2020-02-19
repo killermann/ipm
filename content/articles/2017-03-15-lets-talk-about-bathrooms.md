@@ -67,7 +67,7 @@ Occasionally, an element of “social experiment” is added to these arguments 
 
 The logistics arguments are what I initially heard the most, specifically from people who were likely harboring the above sentiments, but were reluctant to speak on them. These would often be progressive-leaning politicians, or townspeople who didn’t want to “stir the pot,” but still wanted to make their objections known.
 
-These arguments range from the superficial (e.g., focusing on signage) to the hyperbolic (“If transgender people get to use their restroom do we need to build more restrooms? Do we need to rebuild all of our public buildings?”<a href="#_ftn1" name="_ftnref1"><sup>[1]</sup></a>), but the key differentiator from the above arguments is that these intentionally avoid values statements either for or against affirming trans* people. Or they’re made with _exception_ to some values statement (e.g., “I’m not against transgender people, but what do you put on the door?”).
+These arguments range from the superficial (e.g., focusing on signage) to the hyperbolic (“If transgender people get to use their restroom do we need to build more restrooms? Do we need to rebuild all of our public buildings?”<a href="#_ftn1" name="_ftnref1"><sup>[1]</sup></a>), but the key differentiator from the above arguments is that these intentionally avoid values statements either for or against affirming trans* people. Or they’re made with <em>exception</em> to some values statement (e.g., “I’m not against transgender people, but what do you put on the door?”).
 
 ## Arguments For Restroom Equity
 

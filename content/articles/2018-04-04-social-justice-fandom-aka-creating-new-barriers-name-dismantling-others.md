@@ -33,7 +33,7 @@ tags:
 ---
 Maybe it was _Glee_. I don&#8217;t know. But at some point, within a small subsection of a small subsection of the population, social justice became cool. And whenever something becomes cool, two things tend to follow.
 
-The first is that some of the people who like the cool thing start to covet it, protect it from outsiders, and claim it as their own &#8212; when just moments before those same people were making desperate pleas to others to like the thing they liked. It goes from &#8220;Like my thing! My thing is great! Please!&#8221; to &#8220;Uh&#8230; this is _my/our_ thing, and you&#8217;re not cool enough to like it.&#8221; As a resident of Austin, TX, the _original _weird city and general hipster Mecca, I see this phenomenon play out with a new thing daily.
+The first is that some of the people who like the cool thing start to covet it, protect it from outsiders, and claim it as their own &#8212; when just moments before those same people were making desperate pleas to others to like the thing they liked. It goes from &#8220;Like my thing! My thing is great! Please!&#8221; to &#8220;Uh&#8230; this is _my/our_ thing, and you&#8217;re not cool enough to like it.&#8221; As a resident of Austin, TX, the _original_ weird city and general hipster Mecca, I see this phenomenon play out with a new thing daily.
 
 Next, some of the people who dislike the cool thing form their own &#8220;anti-cool&#8221; community, which also happens to serve as a retention basin for people who were rejected by the first group. So we have people who always disliked (or hated) the thing, plus everyone who felt disliked (or hated) by the people who liked the thing, and they&#8217;re all swirling together, singing [Offspring][1].
 

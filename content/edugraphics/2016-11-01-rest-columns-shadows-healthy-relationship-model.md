@@ -116,7 +116,7 @@ Recognizing how a behavior, value, or statement appears in your relationship &#8
 
 {{< heyheylook >}}
 
- So what do we do? None of the above is a blueprint; it&#8217;s more of a rubric. The idea that healthy relationships have positive manifestations of respect, equality, safety, and trust doesn&#8217;t tell you much about _how to make_ those things happen, as much as it tells you _how to gauge _what&#8217;s happening.
+ So what do we do? None of the above is a blueprint; it&#8217;s more of a rubric. The idea that healthy relationships have positive manifestations of respect, equality, safety, and trust doesn&#8217;t tell you much about _how to make_ those things happen, as much as it tells you _how to gauge_ what&#8217;s happening.
 
 ### Know that we all have a different blueprint for healthy.
 
