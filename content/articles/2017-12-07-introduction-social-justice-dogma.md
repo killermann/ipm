@@ -38,7 +38,7 @@ In years past, the ideas I was presenting (i.e., social justice and anti-oppress
 
 For example, in years past I got a lot of questions about things like "What do you mean gender and sexuality aren't the same?" Or "What do you mean a woman can't &#8216;oppress' a man?"
 
-But this year, a _bunch _of times (double digits) during Q&As I was asked something that amounted to "So gender is a social construct, and so is race, so why are we accepting of [Caitlyn Jenner][1] but not [Rachel Dolezal][2]?" By high schoolers. In rural <del>Texas</del> Ontario.
+But this year, a _bunch_ of times (double digits) during Q&As I was asked something that amounted to "So gender is a social construct, and so is race, so why are we accepting of [Caitlyn Jenner][1] but not [Rachel Dolezal][2]?" By high schoolers. In rural <del>Texas</del> Ontario.
 
 Hold that thought. I'll return to it, but first I want to take a step back.
 
@@ -82,7 +82,7 @@ The **beliefs** show up in the SJM as accepted facts, truths, and principles tha
 
 **Acceptable actions** are the tactics we should use to put our beliefs and stances to work -- all the ways we're supposed to show up, interact with others (both inside and outside of the movement), and advance the cause.
 
-The **authorities** part is the trickiest, because within the movement we have a lot of different authorities, but you can think of authorities generally as anyone, or any source (platform, org, publication, etc.), who is writing the rules above that we follow, and enforce amongst ourselves. Authorities are the "they" when someone says, "_They_ said you shouldn't say/think/do that." Authorities as sources show up when people say "I read on [source] that we should now say/think/do this."
+The **authorities** part is the trickiest, because within the movement we have a lot of different authorities, but you can think of authorities generally as anyone, or any source (platform, org, publication, etc.), who is writing the rules above that we follow, and enforce amongst ourselves. Authorities are the "they" when someone says, "They said you shouldn't say/think/do that." Authorities as sources show up when people say "I read on [source] that we should now say/think/do this."
 
 And all of this adds up: "[Authority] said [belief] is true and we should show [stance] by [acceptable action]." What's implied, but not often said, is "_or we'll be part of the problem."_
 
