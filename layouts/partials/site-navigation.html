@@ -1,3 +1,66 @@
+<style type="text/css">
+	#facilitator-cards-kickstarter {
+		padding: 1.5em;
+		position: relative;
+		background: #06ec89;
+		color: #004227;
+		display: none;
+	}
+
+	#facilitator-cards-kickstarter p {
+		margin: 0 0 1em;
+		padding: 0;
+	}
+
+	#facilitator-cards-kickstarter p a {
+		text-decoration: none;
+		border-bottom: .15em solid #49ffb0;
+		font-weight: 800;
+	}
+
+	#facilitator-cards-kickstarter .news-option {
+		padding: .5em 1em;
+		font-size: .8em;
+		display: inline-block;
+		background: #49ffb0;
+		text-decoration: none;		
+		border-radius: 4px;
+	}
+
+	#facilitator-cards-kickstarter .news-option:hover {
+		background: #fff;
+		color: #000;
+	}
+
+</style>
+<div id="facilitator-cards-kickstarter">
+	<p>
+		👋 Hi! Quick announcement: Meg (from the Safe Zone Project) & I just launched a <a href="https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards?utm_source=IPM&utm_medium=banner&utm_campaign=Kickstarter" target="_blank" rel="noopener noreferrer">Kickstarter for Facilitator Cards</a>. If you're looking for ways to bring everything I write about here into a workshop or training, check that out before the end of March.
+	</p>
+	<a class="news-option alt-font" href="https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards?utm_source=IPM&utm_medium=banner&utm_campaign=Kickstarter" target="_blank" rel="noopener noreferrer">View Kickstarter</a> &nbsp;&nbsp;  
+	<a class="news-option alt-font" href="#menu" id="x-ks-news">Hide Message</a>
+</div>
+<script>
+
+	var hasHiddenKS = localStorage.getItem('hasHiddenKS');
+
+	if ( localStorage.getItem('hasHiddenKS') !== "getouttahere") {
+		document.getElementById('facilitator-cards-kickstarter').style.display = "block";
+	}
+		
+	function hideKSNews() {
+		document.getElementById('facilitator-cards-kickstarter').classList.toggle('hide');
+		localStorage.setItem("hasHiddenKS", "getouttahere");
+
+	}
+	
+	var xKSnews = document.getElementById('x-ks-news');
+	
+	if (xKSnews){
+		xKSnews.addEventListener('click', hideKSNews);
+	}
+
+</script>
 <nav role="navigation" class="header-nav">
 
 	<a href="#menu" id="explore-button" title="Menu" data-tooltip="Menu" class="bonus-point" aria-label="Open full menu to explore site" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Header', eventLabel: 'Explore Menu'});">
