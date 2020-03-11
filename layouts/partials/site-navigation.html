@@ -32,7 +32,6 @@
 		background: #fff;
 		color: #000;
 	}
-
 </style>
 <div id="facilitator-cards-kickstarter">
 	<p>
@@ -45,14 +44,15 @@
 
 	var hasHiddenKS = localStorage.getItem('hasHiddenKS');
 
-	if ( localStorage.getItem('hasHiddenKS') !== "getouttahere") {
+	if (hasHiddenKS == null) {
+		localStorage.setItem("hasHiddenKS", "showksnews");	
+	} else if (hasHiddenKS !== "getouttahere") {
 		document.getElementById('facilitator-cards-kickstarter').style.display = "block";
 	}
-		
+
 	function hideKSNews() {
 		document.getElementById('facilitator-cards-kickstarter').classList.toggle('hide');
 		localStorage.setItem("hasHiddenKS", "getouttahere");
-
 	}
 	
 	var xKSnews = document.getElementById('x-ks-news');
