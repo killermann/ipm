@@ -1,31 +1,31 @@
-/feed/                              /index.xml
-/category/*                         /categories/:splat
-/tag/*                              /tags/:splat
-/category/privilege-lists/          /tags/privilege/
-/category/printable-resources/      /downloads/
-/support/author/                    /support/
-/popular/                           /all/
-/all-articles/                      /all/
-/edugraphics-printables/            /edugraphics/
-/articles-books/                    /articles/
-/videos-podcasts/                   /videos/
-/activities-courses/                /courses/
-/category/gender-2/                 /categories/gender/
-/category/sexuality-2/              /categories/sexuality/
-/about-sam-killermann/              /about/about-sam-killermann/
-/about-the-show/                    /about/about-the-show/
-/videos-and-media/                  /videos/
-/about-the-blog/                    /about/about-the-blog/
-/category/socialjustice/            /category/social-justice/
+/feed/                              /index.xml                                  301!
+/category/*                         /categories/:splat                          301!
+/tag/*                              /tags/:splat                                301!
+/category/privilege-lists/          /tags/privilege/                            301!
+/category/printable-resources/      /downloads/                                 301!
+/support/author/                    /support/                                   301!
+/popular/                           /all/                                       301!
+/all-articles/                      /all/                                       301!
+/edugraphics-printables/            /edugraphics/                               301!
+/articles-books/                    /articles/                                  301!
+/videos-podcasts/                   /videos/                                    301!
+/activities-courses/                /courses/                                   301!
+/category/gender-2/                 /categories/gender/                         301!
+/category/sexuality-2/              /categories/sexuality/                      301!
+/about-sam-killermann/              /about/about-sam-killermann/                301!
+/about-the-show/                    /about/about-the-show/                      301!
+/videos-and-media/                  /videos/                                    301!
+/about-the-blog/                    /about/about-the-blog/                      301!
+/category/socialjustice/            /category/social-justice/                   301!
 /genderbreadperson                  /genderbread-person/
-/a-show-about-snap-judgments-identity-and-oppression/       /about/about-the-show/
-/2019/06/new-course-community-social-justice-minus-dogma/   /courses/social-justice-minus-dogma-course/
-/2012/06/an-apology-and-reflection-my-accidental-fat-shaming-2/     /
-/2012/06/a-few-considerations-about-health-and-body-size/           /
-/2012/03/sorry-kirk-homosexuality-isnt-unnatural-religiosity-is/    /
-/wp-content/uploads/2012/05/Its-Pronounced-Metrosexual-Christian-Privilege-List.pdf /downloads/Its-Pronounced-Metrosexual-Christian-Privilege-List.pdf
-/2                              /
-/2012/02/kill-every-last-gay-person/                                /
-https://itspronouncedmetrosexual.netlify.com/ https://www.itspronouncedmetrosexual.com/ 
-http://itspronouncedmetrosexual.netlify.com/ https://www.itspronouncedmetrosexual.com/ 
+/a-show-about-snap-judgments-identity-and-oppression/       /about/about-the-show/                          301!
+/2019/06/new-course-community-social-justice-minus-dogma/   /courses/social-justice-minus-dogma-course/    301!
+/2012/06/an-apology-and-reflection-my-accidental-fat-shaming-2/     /    301!
+/2012/06/a-few-considerations-about-health-and-body-size/           /    301!
+/2012/03/sorry-kirk-homosexuality-isnt-unnatural-religiosity-is/    /    301!
+/wp-content/uploads/2012/05/Its-Pronounced-Metrosexual-Christian-Privilege-List.pdf /downloads/Its-Pronounced-Metrosexual-Christian-Privilege-List.pdf    301!
+/2                              /    301!
+/2012/02/kill-every-last-gay-person/                                /    301!
+https://itspronouncedmetrosexual.netlify.com/ https://www.itspronouncedmetrosexual.com/     301!
+http://itspronouncedmetrosexual.netlify.com/ https://www.itspronouncedmetrosexual.com/     301!
   
