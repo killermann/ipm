@@ -1,3 +1,4 @@
+/category/socialjustice/            /categories/social-justice/                 301!
 /feed/                              /index.xml                                  301!
 /category/*                         /categories/:splat                          301!
 /tag/*                              /tags/:splat                                301!
