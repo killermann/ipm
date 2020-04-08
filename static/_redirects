@@ -1,7 +1,7 @@
 /category/socialjustice/            /categories/social-justice/                 301!
+/category/gender-2/                 /categories/gender/                         301!
+/category/sexuality-2/              /categories/sexuality/                      301!
 /feed/                              /index.xml                                  301!
-/category/*                         /categories/:splat                          301!
-/tag/*                              /tags/:splat                                301!
 /category/privilege-lists/          /tags/privilege/                            301!
 /category/printable-resources/      /downloads/                                 301!
 /support/author/                    /support/                                   301!
@@ -11,13 +11,10 @@
 /articles-books/                    /articles/                                  301!
 /videos-podcasts/                   /videos/                                    301!
 /activities-courses/                /courses/                                   301!
-/category/gender-2/                 /categories/gender/                         301!
-/category/sexuality-2/              /categories/sexuality/                      301!
 /about-sam-killermann/              /about/about-sam-killermann/                301!
 /about-the-show/                    /about/about-the-show/                      301!
 /videos-and-media/                  /videos/                                    301!
 /about-the-blog/                    /about/about-the-blog/                      301!
-/category/socialjustice/            /category/social-justice/                   301!
 /genderbreadperson                  /genderbread-person/
 /a-show-about-snap-judgments-identity-and-oppression/       /about/about-the-show/                          301!
 /2019/06/new-course-community-social-justice-minus-dogma/   /courses/social-justice-minus-dogma-course/    301!
@@ -29,4 +26,6 @@
 /2012/02/kill-every-last-gay-person/                                /    301!
 https://itspronouncedmetrosexual.netlify.com/ https://www.itspronouncedmetrosexual.com/     301!
 http://itspronouncedmetrosexual.netlify.com/ https://www.itspronouncedmetrosexual.com/     301!
+/category/*                         /categories/:splat                          301!
+/tag/*                              /tags/:splat                                301!
   
