@@ -1,3 +1,8 @@
+[context.production.environment]
+HUGO_VERSION = "0.70.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
 [[headers]]
   for = "/img/*"
   [headers.values]

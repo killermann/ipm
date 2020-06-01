@@ -31,11 +31,16 @@ tags:
   # - Public Thinking
   # - TMI
 ---
-I&#8217;ve organized and participated in a lot of political resistance over the years. From high school walkouts, to college sit-ins, to [guerrilla activism campaigns][1], to marches and public demonstrations. And I&#8217;m guessing that a lot of folks in the U.S. may be wading into these waters for the first time this year (because Trump presidency year one), or this week (because [Women&#8217;s March on Washington][2]).
 
 Here are a few simple things (that may be obvious) I&#8217;ve learned from lots of civil disobedience (that are definitely obvious in hindsight). The following tips might come in handy for those of you taking to the streets for the first time.
 
-**Big caveat: all of these are optional (obvs.), and depending on who you are, what you have access to (physically, financially, and otherwise), and the type of protest you&#8217;re attending, some of these may not be possible. I&#8217;m doing my best in this list to cover as many bases as possible. Use what you can use. And I love you.**
+I&#8217;ve organized and participated in a lot of political resistance over the years. From high school walkouts, to college sit-ins, to [guerrilla activism campaigns][1], to marches and public demonstrations. 
+
+And I was guessing that, at the time of writing this (January 2017), a lot of folks in the U.S. would be wading into these waters for the first time that year (because Trump presidency year one), or the week I published this (because [Women&#8217;s March on Washington][2]). Turns out that guess was an understatement. 
+
+Three years later, as I'm updating this in May 2020, we're taking to the streets all over the U.S. to demand justice for George Floyd, Breonna Taylor, and other victims of police brutality.
+
+**Big caveat: all of these are optional (obvs.), and depending on who you are, what you have access to (physically, financially, and otherwise), and the type of protest you're attending, some of these may not be possible. I&#8217;m doing my best in this list to cover as many bases as possible. Use what you can use. And I love you.**
 
 ## PREP: Before the Protest
 
