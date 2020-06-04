@@ -1,68 +1,88 @@
-<!-- <style type="text/css">
-	#facilitator-cards-kickstarter {
-		padding: 1.5em;
+<style type="text/css">
+	#eight-cant-wait {
+		padding: 10px;
 		position: relative;
-		background: #06ec89;
-		color: #004227;
+		background: rgb(97, 95, 95);
+		color: #000;
 		display: none;
 		z-index: 1000;
 	}
 
-	#facilitator-cards-kickstarter p {
-		margin: 0 0 1em;
+	#eight-cant-wait-inner {
+		padding: 1em;
+		border-radius: 10px;
+		background: #fff;
+		box-shadow: 0px 3px 10px rgba(0,0,0,.3);
+	}
+
+	#eight-cant-wait p {
+		margin: 0 0 .75em;
 		padding: 0;
 	}
 
-	#facilitator-cards-kickstarter p a {
+	#eight-cant-wait p a {
 		text-decoration: none;
-		border-bottom: .15em solid #49ffb0;
+		border-bottom: .15em solid #ef9978;
 		font-weight: 800;
 	}
 
-	#facilitator-cards-kickstarter .news-option {
+	#eight-cant-wait p a:hover {
+		color: #ef9978;
+	}
+
+	#eight-cant-wait .news-option {
 		padding: .5em 1em;
 		font-size: .8em;
 		display: inline-block;
-		background: #49ffb0;
+		background: #ef9978;
+		border: .15em solid #ef9978;
 		text-decoration: none;		
-		border-radius: 4px;
+		border-radius: 6px;
 	}
 
-	#facilitator-cards-kickstarter .news-option:hover {
-		background: #fff;
+	#x-ipm-news {
+		background: none !important;
+	}
+
+	#eight-cant-wait .news-option:hover, #eight-cant-wait .news-option:focus {
+		border-color: black;
+		cursor: pointer;
 		color: #000;
 	}
 </style>
-<div id="facilitator-cards-kickstarter">
-	<p>
-		👋 Hi! Quick announcement: I have a <a href="https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards?utm_source=IPM&utm_medium=banner&utm_campaign=Kickstarter" target="_blank" rel="noopener noreferrer">Kickstarter for Facilitator Cards</a> going right now. It's a collaboration with Meg from The Safe Zone Project. If you're looking for ways to bring everything I write about here into a workshop or training, check it out!
-	</p>
-	<a class="news-option alt-font" href="https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards?utm_source=IPM&utm_medium=banner&utm_campaign=Kickstarter" target="_blank" rel="noopener noreferrer" onClick="ga('send', 'event', { eventCategory: 'News', eventAction: 'View News', eventLabel: 'View Kickstarter'});">View Kickstarter</a> &nbsp;&nbsp;  
-	<a class="news-option alt-font" href="#menu" id="x-ks-news" onClick="ga('send', 'event', { eventCategory: 'News', eventAction: 'Hide News', eventLabel: 'Hide Message'});">Hide Message</a>
+<div id="eight-cant-wait">
+	<div id="eight-cant-wait-inner">
+		<p>
+			Join <a href="https://8cantwait.org/" target="_blank" rel="noopener noreferrer" onClick="ga('send', 'event', { eventCategory: 'News', eventAction: 'View Eight Cant Wait News', eventLabel: '#CantWait'});">#8CantWait</a> by calling your mayor and demanding 8 policies be implemented to end police brutality. It's our responsibility as citizens, as humans, to do everything we can to ensure Black lives matter. <strong>Take action now, and let's all change our bio links on Instagram to www.8cantwait.org to encourage others to do the same.</strong>
+		</p>
+		<a class="news-option alt-font" href="https://8cantwait.org/" target="_blank" rel="noopener noreferrer" onClick="ga('send', 'event', { eventCategory: 'News', eventAction: 'View Eight Cant Wait News', eventLabel: 'Take Action Now'});">Take Action Now</a> &nbsp;&nbsp;  
+		<a class="news-option alt-font" href="#menu" id="x-ipm-news" onClick="ga('send', 'event', { eventCategory: 'News', eventAction: 'Hide Eight Cant Wait News', eventLabel: 'Hide Message'});">Hide Message</a>
+	</div>
+	
 </div>
 <script>
 
-	var hasHiddenKS = localStorage.getItem('hasHiddenKS');
+	var hasHidden8CantWait = localStorage.getItem('hasHidden8CantWait');
 
-	if (hasHiddenKS == null) {
-		// localStorage.setItem("hasHiddenKS", "showksnews");	
-		document.getElementById('facilitator-cards-kickstarter').style.display = "block";
-	} else if (hasHiddenKS !== "getouttahere") {
-		document.getElementById('facilitator-cards-kickstarter').style.display = "block";
+	if (hasHidden8CantWait == null) {
+		// localStorage.setItem("hasHidden8CantWait", "showksnews");	
+		document.getElementById('eight-cant-wait').style.display = "block";
+	} else if (hasHidden8CantWait !== "getouttahere") {
+		document.getElementById('eight-cant-wait').style.display = "block";
 	}
 
-	function hideKSNews() {
-		document.getElementById('facilitator-cards-kickstarter').classList.toggle('hide');
-		localStorage.setItem("hasHiddenKS", "getouttahere");
+	function hideIPMNews() {
+		document.getElementById('eight-cant-wait').classList.toggle('hide');
+		localStorage.setItem("hasHidden8CantWait", "getouttahere");
 	}
 	
-	var xKSnews = document.getElementById('x-ks-news');
+	var xIPMNews = document.getElementById('x-ipm-news');
 	
-	if (xKSnews){
-		xKSnews.addEventListener('click', hideKSNews);
+	if (xIPMNews){
+		xIPMNews.addEventListener('click', hideIPMNews);
 	}
 
-</script> -->
+</script>
 <nav role="navigation" class="header-nav">
 
 	<a href="#menu" id="explore-button" title="Menu" data-tooltip="Menu" class="bonus-point" aria-label="Open full menu to explore site" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Header', eventLabel: 'Explore Menu'});">
