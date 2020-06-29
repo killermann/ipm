@@ -92,182 +92,25 @@ Biological sex refers to the objectively measurable organs, hormones, and chromo
 
 For example, someone can be born with the appearance of being male (penis, scrotum, etc.), but have a functional female reproductive system inside.  There are many examples of how intersex can present itself, and below you can see some statistics from the <a title="Intersex Society of North America" href="http://www.isna.org/faq/frequency" target="_blank">Intersex Society of North America</a> that describe the frequency of intersex births. (check out the stat I bolded, but be prepared to be shocked)
 
-<table>
-  <tr>
-    <td>
-      Not XX and not XY
-    </td>
-
-    <td>
-      one in 1,666 births
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Klinefelter (XXY)
-    </td>
-
-    <td>
-      one in 1,000 births
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Androgen insensitivity syndrome
-    </td>
-
-    <td>
-      one in 13,000 births
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Partial androgen insensitivity syndrome
-    </td>
-
-    <td>
-      one in 130,000 births
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Classical congenital adrenal hyperplasia
-    </td>
-
-    <td>
-      one in 13,000 births
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Late onset adrenal hyperplasia
-    </td>
-
-    <td>
-      one in 66 individuals
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Vaginal agenesis
-    </td>
-
-    <td>
-      one in 6,000 births
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Ovotestes
-    </td>
-
-    <td>
-      one in 83,000 births
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Idiopathic (no discernable medical cause)
-    </td>
-
-    <td>
-      one in 110,000 births
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Iatrogenic (caused by medical treatment, for instance progestin administered to pregnant mother)
-    </td>
-
-    <td>
-      no estimate
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      5 alpha reductase deficiency
-    </td>
-
-    <td>
-      no estimate
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Mixed gonadal dysgenesis
-    </td>
-
-    <td>
-      no estimate
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Complete gonadal dysgenesis
-    </td>
-
-    <td>
-      one in 150,000 births
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Hypospadias (urethral opening in perineum or along penile shaft)
-    </td>
-
-    <td>
-      one in 2,000 births
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Hypospadias (urethral opening between corona and tip of glans penis)
-    </td>
-
-    <td>
-      one in 770 births
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2">
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <strong>Total number of people whose bodies differ from standard male or female</strong>
-    </td>
-
-    <td>
-      <strong>one in 100 births</strong>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Total number of people receiving surgery to “normalize” genital appearance
-    </td>
-
-    <td>
-      one or two in 1,000 births
-    </td>
-  </tr>
-</table>
+| Condition | Frequency |
+|--- |--- |
+|Not XX and not XY|one in 1,666 births|
+|Klinefelter (XXY)|one in 1,000 births|
+|Androgen insensitivity syndrome|one in 13,000 births|
+|Partial androgen insensitivity syndrome|one in 130,000 births|
+|Classical congenital adrenal hyperplasia|one in 13,000 births|
+|Late onset adrenal hyperplasia|one in 66 individuals|
+|Vaginal agenesis|one in 6,000 births|
+|Ovotestes|one in 83,000 births|
+|Idiopathic (no discernable medical cause)|one in 110,000 births|
+|Iatrogenic (caused by medical treatment, for instance progestin administered to pregnant mother)|no estimate|
+|5 alpha reductase deficiency|no estimate|
+|Mixed gonadal dysgenesis|no estimate|
+|Complete gonadal dysgenesis|one in 150,000 births|
+|Hypospadias (urethral opening in perineum or along penile shaft)|one in 2,000 births|
+|Hypospadias (urethral opening between corona and tip of glans penis)|one in 770 births|
+|**Total number of people whose bodies differ from standard male or female**|**one in 100 births**|
+|Total number of people receiving surgery to “normalize” genital appearance|one or two in 1,000 births|
 
 ### Sexual Orientation: Who You Are Attracted To
 

@@ -361,6 +361,27 @@ hr {
 		font-family: $sans-serif;
 		color: rgba(10,10,10,.8);
 	}
+
+	table {
+		font-size: .8em;
+		margin: 1.5em auto;
+		font-family:$sans-serif;
+
+		tr:nth-child(odd) {
+			background: #efefef;
+		}
+
+		thead tr {
+			background:#444 !important;
+			padding: 1rem;
+			color: white;
+		}
+
+		td {
+			padding: .5rem;
+		}
+	
+	}
 }
 
 .sidenote {
