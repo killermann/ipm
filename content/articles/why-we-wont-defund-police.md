@@ -42,7 +42,7 @@ I started to call and text friends to get their take on the current moment of fo
 
 I have friends who have been in the abolitionist movement for decades, to one who just recently marched for the first time for Black Lives Matter, so I thought I could get a "representative" sample of what was on progressive people's minds.
 
-"What do you think of #8CantWait?", I asked. 
+"What do you think of #8CantWait?" I asked. 
 
 And what I heard was several variations of "I support those policies, but they're not enough," with a sprinkling of, "Everyone is calling for defunding the police right now, so I think we should focus on that."
 
@@ -215,7 +215,7 @@ In this case, a lot of things can stand in for what I mean by "The Community": t
 
 Based on everything I said above regarding social media silos and pluralistic ignorance, some alarm bells might be ringing for you. 
 
-"How can we know if The Community gives us permission? Or supports a particular policy? Or doesn't?", are all reasonable questions to be asking. It would be helpful if every statement of "THIS GROUP WANTS YOU TO DO THIS" was paired with blaring sirens.
+"How can we know if The Community gives us permission? Or supports a particular policy? Or doesn't?" are all reasonable questions to be asking. It would be helpful if every statement of "THIS GROUP WANTS YOU TO DO THIS" was paired with blaring sirens.
 
 But that's not even the element of this disaster I want to draw you attention to here.
 
