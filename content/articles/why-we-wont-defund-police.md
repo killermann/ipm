@@ -149,11 +149,11 @@ I mean "us" up. We've shut us up.
 
 Each time we add a qualifier, we make a smaller "we." Just in that list, we went from about 8 billion people, to about 300 million, to 130 million, to 65 million, to 10 million -- a decrease of, if my math is right, about 99.9%. That's a helluva smaller "we."
 
-The "we" I focus on here, generally, means "people who read this site and use these resources," who I hope are proponents of social justice, endeavoring to make your worlds more beautiful. You're who I think about most, and try to tailor everything I do for. That "we" is smaller still, it's a few million people -- or .01% of the the biggest "we" above -- a huge chunk of whom aren't American, aren't voters, and aren't Democrats.
+The "we" I focus on here, generally, means "people who read this site and use these resources," whom I hope are proponents of social justice, endeavoring to make our worlds more beautiful. If that's you, you're who I think about most, and try to tailor everything I do for. The "we" that makes up that "you" is smaller still, it's a few million people -- or .01% of the the biggest "we" above -- a huge chunk of whom aren't American, aren't voters, and aren't Democrats.
 
 But who is the "we" we're talking about when we're discussing defunding police? One could assume we're only talking about "we who support defunding the police," in which case my heading above would be nonsense. 
 
-But it's actually a tricker answer than it should be, because our ability to get an accurate sense of "we", these days, is being hijacked.
+But it's actually a trickier answer than it should be, because our ability to get an accurate sense of "we", these days, is being hijacked.
 
 #### Social Media Silos
 
