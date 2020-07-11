@@ -40,23 +40,23 @@ _Maybe the time is ripe for abolition, and anything short of that is conservativ
 
 I started to call and text friends to get their take on the current moment of focus. 
 
-I have friends who have been in the abolitionist movement for decades, to one who just recently marched for the first time for Black Lives Matter, so I thought I could get a "representative" sample of what was on progressive people's minds.
+I have friends who range from having been involved in the abolitionist movement for decades, to one who just recently marched for the first time for Black Lives Matter, so I thought I could get a representative-ish sample of what was on progressive people's minds.
 
-"What do you think of #8CantWait?" I asked. 
+"What do you think of #8CantWait?" I asked a bunch of people.
 
 And what I heard was several variations of "I support those policies, but they're not enough," with a sprinkling of, "Everyone is calling for defunding the police right now, so I think we should focus on that."
 
-The thing about the policies proposed in #8CantWait is that they're compatible police abolition; they're just baby steps, not a huge leap in that direction. This is something that even some of the most scathing, pro-abolitionist critiques of the campaign acknowledged.
+The thing about the policies proposed in #8CantWait is that they're compatible police abolition; they're just baby steps, not a huge leap, but they would move us in that direction. This is something that even some of the most scathing, pro-abolitionist critiques of the campaign acknowledged.
 
-It wasn't that what was being asked for was harmful, it's that it wasn't alleviating enough harm.
+It wasn't that what was being asked for was harmful, it's that it wasn't alleviating enough harm. That's a huge difference!
 
-The response to my banner pushing people to take action for #8CantWait was potentially confirming this attitude. 
+The response to the website banner pushing people to take action for #8CantWait was _potentially_ confirming this attitude.
 
-Only about 7% of the people who responded to the message with a click (instead of ignoring it, which almost 99% of people did), clicked on the "Take Action" button. Everyone else hid the message.
+Only about 7% of the people who responded to the message with a click (instead of ignoring it, which roughly 99% of people did), clicked on the "Take Action" button. Everyone else hid the message.
 
-Of the hundreds of thousands of people who saw that message about #8CantWait, seeing only a few hundred take action was confusing to me. After all, most of those visitors were on my site that week to [read tips for attending their first protest march](/2017-01-17-a-few-small-tips-for-attending-your-first-protest-march), so I assumed they'd welcome that invitation to take action.
+Of the hundreds of thousands of people who saw that message about #8CantWait, seeing only a few hundred take action was confusing to me. After all, the vast majority of these people were on here that week to [read tips for attending their first protest march](/2017-01-17-a-few-small-tips-for-attending-your-first-protest-march), so I assumed they'd welcome that invitation to take action.
 
-Because of the seemingly unanimous message I was receiving on Twitter, and the corroboration of that message from my close circle, I realized that the following might be true: "Only 7% of people are wanting to take action for the #8CantWait platform because it's not radical enough. I'm annoying hundreds of thousands of people with a conservative message, when they want something bolder. They want more."
+Because of the seemingly unanimous message I was receiving on Twitter, and the corroboration of that message from my close circle, I had the seemingly-reasonable thought: "**Only 7% of people are wanting to take action for the #8CantWait platform because it's not radical enough**. I'm annoying hundreds of thousands of people with a conservative message, when they want something bolder. They want more."
 
 I took down the #8CantWait banner. I started looking for other ways I could help.
 
