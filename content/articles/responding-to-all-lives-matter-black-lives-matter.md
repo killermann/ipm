@@ -4,7 +4,7 @@ excerpt: Seven years later, we're still fighting this rhetorical fight. How shou
 author: Sam Killermann
 type: post
 date: 2020-08-07T10:16:41-05:00
-featured_image: /img/featured/defeat-all-the-enemies-featured-featured.jpg
+featured_image: /img/featured/defeat-all-the-enemies-featured.jpg
 categories:
 - Social Justice
 tags: 
