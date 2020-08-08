@@ -3,8 +3,8 @@ title: How to Engage With People Who Are Stubbornly Stuck on “All Lives Matter
 excerpt: Seven years later, we're still fighting this rhetorical fight. How should we respond? What's the winning move?
 author: Sam Killermann
 type: post
-date: 2020-07-29T10:16:41-05:00
-featured_image: /img/featured/dont-take-this-road-featured.jpg
+date: 2020-08-07T10:16:41-05:00
+featured_image: /img/featured/defeat-all-the-enemies-featured-featured.jpg
 categories:
 - Social Justice
 tags: 
