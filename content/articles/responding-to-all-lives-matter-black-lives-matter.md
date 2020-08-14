@@ -12,6 +12,7 @@ tags:
 - Public Thinking
 - How-To
 - Replies
+accolades: Crowd-Pleaser
 ---
 
 The "Black Lives Matter" vs. "All Lives Matter" rhetorical fight has been going on for years, and doesn't seem like it's going anywhere. How do we, in the name of racial justice, move people from "All" to "Black," and convince them to change their stance?
