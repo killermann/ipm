@@ -1,39 +1,39 @@
 <style type="text/css">
-  #poll-blm-action {
+  #poll-anti-racism {
     margin: -4vw auto 3em;
     display: none;
   }
 
-  #poll-blm-action-inner {
+  #poll-anti-racism-inner {
     padding: 1em;
     border-radius: 10px;
     background: #fff;
     box-shadow: 0px 3px 20px rgba(0,0,0,.25);
   }
 
-  #poll-blm-action p {
+  #poll-anti-racism p {
     margin: 0 0 .75em;
     padding: 0;
   }
 
-  #poll-blm-action p a {
+  #poll-anti-racism p a {
     text-decoration: none;
     border-bottom: .15em solid #ef9978;
     font-weight: 800;
   }
 
-  #poll-blm-action p a:hover {
+  #poll-anti-racism p a:hover {
     color: #ef9978;
   }
   
-  #poll-blm-action ul {
+  #poll-anti-racism ul {
     list-style: none;
     margin: 0;
     padding: 0;
     font-family: sans-serif;
   }
 
-  #poll-blm-action .poll-option {
+  #poll-anti-racism .poll-option {
     padding: .4em .5em;
     font-size: .85em;
     margin: 0 auto .3em;
@@ -43,7 +43,7 @@
     border: 2px solid #dbdbdb;
   }
 
-  #poll-blm-action .poll-option:hover {
+  #poll-anti-racism .poll-option:hover {
     background: #dcffe0;
     border-color: #83e58d;
     cursor: pointer;
@@ -54,46 +54,48 @@
     border-color: #83e58d !important;
   }
 
-  #poll-blm-action .poll-option.selected:before {
+  #poll-anti-racism .poll-option.selected:before {
     content: '✅';
     margin-right: .5em;
   }
 
 
 </style>
-<div id="poll-blm-action">
-  <div id="poll-blm-action-inner">
+<div id="poll-anti-racism">
+  <div id="poll-anti-racism-inner">
     <p>
-      I have a quick question for you: I'd love to know <strong>which responses to police brutality do you support?</strong> (Select as many as you'd like)
+      I have a quick question for you: Imagining your racial-justice-accomplished, ideal, utopian future society, <strong>which outcome do you most aspire toward?</strong> A society where one's...
     </p>
     <ul>
-      <li class="poll-option" onclick="ga('send', 'event', { eventCategory: 'BLM Poll', eventAction: 'Vote', eventLabel: 'Education and anti-racism training for officers'}); addSelectedClass(this); hideBLMPoll();">Education and anti-racism training for officers</li>
-      <li class="poll-option" onclick="ga('send', 'event', { eventCategory: 'BLM Poll', eventAction: 'Vote', eventLabel: 'Banning police use of chokeholds & strangleholds'}); addSelectedClass(this); hideBLMPoll();">Banning police use of chokeholds & strangleholds</li>
-      <li class="poll-option" onclick="ga('send', 'event', { eventCategory: 'BLM Poll', eventAction: 'Vote', eventLabel: 'Require comprehensive reporting of any police violence'}); addSelectedClass(this); hideBLMPoll();">Require comprehensive reporting of any police violence</li>
-      <li class="poll-option" onclick="ga('send', 'event', { eventCategory: 'BLM Poll', eventAction: 'Vote', eventLabel: 'Reducing the budgets of police departments'}); addSelectedClass(this); hideBLMPoll();">Reducing the budgets of police departments</li>
-      <li class="poll-option" onclick="ga('send', 'event', { eventCategory: 'BLM Poll', eventAction: 'Vote', eventLabel: 'Abolishing the police entirely'}); addSelectedClass(this); hideBLMPoll();">Abolishing the police entirely</li>
-      <li class="poll-option" onclick="ga('send', 'event', { eventCategory: 'BLM Poll', eventAction: 'Vote', eventLabel: 'I dont support any of these.'}); addSelectedClass(this); hideBLMPoll();">I don't support any of these</li>
+      <li class="poll-option" onclick="ga('send', 'event', { eventCategory: 'Antiracist Future Poll', eventAction: 'Vote', eventLabel: 'Race is entirely unimportant, a relic of the past.'}); hideReaderPoll();">Race is entirely unimportant, a relic of the past.</li>
+      <li class="poll-option" onclick="ga('send', 'event', { eventCategory: 'Antiracist Future Poll', eventAction: 'Vote', eventLabel: 'Race is far less important than today, but still plays a role.'}); hideReaderPoll();">Race is far less important than today, but still plays a role.</li>
+      <li class="poll-option" onclick="ga('send', 'event', { eventCategory: 'Antiracist Future Poll', eventAction: 'Vote', eventLabel: 'Race is roughly as important as it is today.'}); hideReaderPoll();">Race is roughly as important as it is today.</li>
+      <li class="poll-option" onclick="ga('send', 'event', { eventCategory: 'Antiracist Future Poll', eventAction: 'Vote', eventLabel: 'Race is more important than it is today.'}); hideReaderPoll();">Race is more important than it is today.</li>
+      <li class="poll-option" onclick="ga('send', 'event', { eventCategory: 'Antiracist Future Poll', eventAction: 'Vote', eventLabel: 'Race plays a central role in society.'}); hideReaderPoll();">Race plays a central, integral role in society.</li>
     </ul>
   </div>
   
 </div>
 <script>
 
-  var hasRespondedToBLMPoll = localStorage.getItem('hasRespondedToBLMPoll');
+  var hasRespondedToAntiRacismPoll = localStorage.getItem('hasRespondedToAntiRacismPoll');
 
-  if (hasRespondedToBLMPoll == null) {
-    document.getElementById('poll-blm-action').style.display = "block";
-  } else if (hasRespondedToBLMPoll !== "getouttahere") {
-    document.getElementById('poll-blm-action').style.display = "block";
+  if (hasRespondedToAntiRacismPoll == null) {
+    document.getElementById('poll-anti-racism').style.display = "block";
+  } else if (hasRespondedToAntiRacismPoll !== "getouttahere") {
+    document.getElementById('poll-anti-racism').style.display = "block";
   }
+
+  // add addSelectedClass(this); to the buttons to enable multiple select
   function addSelectedClass(elem) {
       var a = document.getElementsByClassName('poll-option')
     
       elem.classList.add('selected');
   }
 
-  function hideBLMPoll() {
-    localStorage.setItem("hasRespondedToBLMPoll", "getouttahere");
+  function hideReaderPoll() {
+    localStorage.setItem("hasRespondedToAntiRacismPoll", "getouttahere");
+    document.getElementById('poll-anti-racism').style.display = "none";
   }
   
 </script>

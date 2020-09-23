@@ -99,7 +99,7 @@
 				<div class="g-center">
 			
 					<section class="entry-content">
-						<!-- {{- partial "content-poll.html" . -}} -->
+						{{- partial "content-poll.html" . -}}
 						{{- range $index, $element := split .Content "</p>" -}}
 						{{ $element | safeHTML -}}</p>
 						{{- if eq $index 4 -}}
